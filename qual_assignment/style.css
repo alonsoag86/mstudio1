@@ -1,0 +1,40 @@
+body {
+
+    font-family: 'M PLUS 1p', sans-serif;
+     margin: 0;
+     padding: 0;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+.intro {
+    text-align: center;
+    font-size: 30px;
+}
+
+#search {
+    text-align: center;
+    margin: 40px 560px 0px;
+    margin-bottom: 60px;
+    font-size: 16px;
+}
+
+.sentence {
+    font-size: 16px;
+    margin: 35px 120px;
+}
+
+
+
+
+
+
+
+
+      
