@@ -1,25 +1,72 @@
 
+
+@font-face {
+font-family: "Garcia";
+src: url("./Fonts/Garcia-master/GARCIA-Regular.otf") format("opentype");
+font-weight: normal;
+font-style: normal;
+}
+
+
 body {
   margin: 0;
   padding: 0;
   background-color: #212338;
+  font-family: "Garcia";
 }
 
-  select {
-    width: 95%;
-    height: 115px;
-    border-radius: 5px;
-    border: 1px solid #F3E8E2;
-    display: flex;
-    position: fixed;
-    background-color:#212338;
-    margin-top: 20px;
-    margin-left: 20px;
-    color: #F3E8E2;
-    font-size: 80px;
+
+select {
+  width: 95%;
+  height: 115px;
+  border-radius: 5px;
+  border: 1px solid #F3E8E2;
+  background-color:#212338;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #F3E8E2;
+  font-size: 80px;
 }
+
 
 select:focus {
-    outline:none;
+  outline:none;
 }
+
+
+#y2010, #y2015 {
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+
+#y2010, #wrapper1 {
+  color: #FEC196;  
+}
+
+
+#y2015, #wrapper2 {
+  color: #91C7B1;
+  
+}
+
+
+#wrapper1, #wrapper2 {
+  margin-top: 70px;
+	width: 95%;
+	display: grid;
+  grid-gap: 10px;
+	grid-template-columns: repeat(6, auto);
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+.yearCell {
+  border: 1px solid #F3E8E2;
+}
+
+ 
+
 
