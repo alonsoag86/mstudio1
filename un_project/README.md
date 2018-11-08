@@ -1,4 +1,4 @@
-# Access to electricity and basic health needs and how they affect the neonatal mortality rate in rural Africa
+# Access to electricity and basic health needs and how they affect the neonatal mortality rate in rural Sub-Saharan Africa
 
 
 ### Description
@@ -19,7 +19,8 @@ the performance of a specific country.
 
 ### Sketch
 
-![Sketch](first.png)
+![Sketch](sketch.jpg)
+
 
 ### Sources
 

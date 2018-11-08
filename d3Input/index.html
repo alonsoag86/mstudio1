@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="./rita-small.min.js"></script>
+        <style>
+            input {
+                width: 100%;
+                border-radius: 5px;
+                border-bottom: 3px solid;
+            }
+            
+            #content, div {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: tranlate(-50%,-50%);
+                font-size: 30pt;
+            }
+            
+            span {
+                transition: all 1s;
+            }
+            
+            span:hover {
+                border-bottom: 3px solid pink;
+                border-radius: 5px;
+                font-size: 200%;
+                color: #55286F;
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            d3.select('body')
+                .append('input')
+                .on('change', callback)
+                
+            // let callback = (event) => {
+                
+            // }
+            function callback(event){
+                console.log('input field content', event, this.value);
+                d3.select('#content')
+                    .append('span')
+                    .text(this.value)
+                
+            }
+        
+        </script>
+        <div id='content'>
+        </div>
+    </body>
+</html>

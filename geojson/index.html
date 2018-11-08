@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <title>MapboxGL & D3 geo</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+
+   <style>
+        body {
+        	padding: 0px;
+        	margin: 0px;
+        }
+        #map {
+          position:fixed;
+          width: 100%;
+          height: 100%;
+          margin: auto auto;
+        }
+        svg {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+        }
+        .hidden {
+        	display: none;
+        }
+        text {
+            transition: fill-opacity 0.5s;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <script>
+        d3.json('africa.geo.json').then((geojson) => {
+
+            // https://www.mapbox.com/mapbox-gl-js/api/#accesstoken
+            mapboxgl.accessToken = 'pk.eyJ1Ijoic2F1dGVyZCIsImEiOiJjajl6MDhhbmM4bWZjMndzNHdwc2dnM2JwIn0.ymR0Z5IEDE04lo11FJBvYw';
+
+            // https://www.mapbox.com/mapbox-gl-js/api/#map
+            let map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/navigation-guidance-night-v2',
+                center: [18.2812, 9.1021], // 9.1021° N, 18.2812° E
+                zoom: 4
+            });
+        
+            map.addControl(new mapboxgl.NavigationControl());
+        
+            let container = map.getCanvasContainer()
+            let svg = d3.select(container).append("svg")
+        
+        	let transform = d3.geoTransform({point: projectPoint}); // https://bl.ocks.org/Andrew-Reid/496078bd5e37fd22a9b43fd6be84b36b
+        	let path = d3.geoPath().projection(transform); // https://github.com/d3/d3-3.x-api-reference/blob/master/Geo-Paths.md
+        
+         	let featureElement = svg.selectAll("path")
+        		.data(geojson.features)
+        		.enter()
+                .append("path")
+                .attr("d", d3.geoPath().projection(transform))
+                .attr("stroke", "none")
+                .attr("fill", "lightgray")
+                .attr("fill-opacity", 0.5)
+                .on('mouseover', function(d) {
+                    console.log(d);
+                    d3.select(this).attr("fill", "lightgreen");
+                    d3.select("#hover")
+                        .text(d.properties.name.toUpperCase() + ' (Population: ' + (d.properties.pop_est/1000000).toFixed(1) + 'Mio.)');
+                    d3.select('#hover').attr("fill-opacity", 1);
+                })
+                .on('mouseout', function() {
+                    d3.select(this).attr("fill", "lightgray");
+                    d3.select('#hover').attr("fill-opacity", 0);
+                })
+                .on('mousemove', function(d) {
+                    d3.select("#hover")
+                        .attr('x', function() { return d3.mouse(this)[0] + 20; })
+                        .attr('y', function() { return d3.mouse(this)[1] + 10; });
+                });
+                    
+            svg.append("text")
+                .attr('id', 'hover');
+        
+            function update() {
+                featureElement.attr("d", path);
+            }
+        
+            map.on("viewreset", update)
+            map.on("movestart", function(){
+        		svg.classed("hidden", true);
+        	});
+            map.on("rotate", function(){
+        		svg.classed("hidden", true);
+        	});
+            map.on("moveend", function(){
+        		update();
+        		svg.classed("hidden", false);
+        	})
+        
+            update()
+        
+        	function projectPoint(lon, lat) {
+                let point = map.project(new mapboxgl.LngLat(lon, lat));
+        		this.stream.point(point.x, point.y);
+        	}
+        });
+    </script>
+</body>

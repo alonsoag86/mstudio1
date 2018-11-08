@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+    </head>
+    <body>
+        <script>
+            //d3.tsv("groceries.tsv", function(data) {
+                //console.log(data);
+            //});
+            
+            let svg = d3.select('body')
+                .append('svg')
+                .attr('width', window.innerWidth)
+                .attr('heigth', window.innerHeight)
+            
+            let data = d3.tsv("groceries.tsv");
+            
+            data.then(items => {
+                console.log(items);
+                
+                //items.forEach((d,i) => {
+                    //d3.select('svg')
+                        //.append('text')
+                        //.text(d.amount + ' | ' + d.unit + ' | ' + d.item + ' | ' + d.source)
+                        //.attr('x', window.innerWidth/2)
+                        //.attr('y', 100 + i * 30)
+                        //.style('text-anchor', 'middle')
+                        //.style('fill', () => {
+                            //if(d.source === 'market')
+                                //return 'limegreen'
+                        //})
+                //})
+                
+                svg.selectAll('.item')
+                    .data(items)
+                    .enter()
+                    .append('text')
+                    .text((d) => { return d.amount + ' | ' + d.unit + ' | ' + d.item + ' | ' + d.source })
+                    .attr('x', window.innerWidth/2)
+                    .attr('y', (d, i) => { return 100 + i * 30})
+                    .style('text-anchor', 'middle')
+                    .style('fill', (d) => {
+                        if(d.source === 'market')
+                            return 'limegreen'
+                    });
+            })
+            
+            
+        </script>
+    </body>
+</html>

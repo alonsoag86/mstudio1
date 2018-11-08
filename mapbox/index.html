@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <title>D3 geo</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <style>
+        body {
+        	padding: 0;
+        	margin: 0;
+        }
+        svg {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+        }
+        text {
+            transition: fill-opacity 0.5s;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        d3.json('africa.geo.json').then((geojson) => {
+            
+            console.log(geojson);
+
+            let svg = d3.select("body").append("svg")
+            
+            scale =  (scaleFactor) => {
+                return d3.geoTransform({
+                    point: function(x, y) {
+                        this.stream.point(x * scaleFactor + window.innerWidth/2, -1 * y * scaleFactor + window.innerHeight/2);
+                    }
+                });
+            }
+        
+         	let featureElement = svg.selectAll("path")
+        		.data(geojson.features)
+        		.enter()
+                .append("path")
+                .attr("d", d3.geoPath().projection(scale(5)))
+                .attr("stroke", "black")
+                .attr("fill", "lightgray")
+                .attr("fill-opacity", 0.5)
+                .on('mouseover', function(d) {
+                    console.log(d);
+                    d3.select(this).attr("fill", "lightgreen");
+                    d3.select("#hover")
+                        .text(d.properties.name.toUpperCase() + ' (Region: ' + d.properties.subregion.toUpperCase() + ' Population: ' + (d.properties.pop_est/1000000).toFixed(1) + 'Mio.)');
+                    d3.select('#hover').attr("fill-opacity", 1);
+                })
+                .on('mouseout', function() {
+                    d3.select(this).attr("fill", "lightgray");
+                    d3.select('#hover').attr("fill-opacity", 0);
+                })
+                .on('mousemove', function(d) {
+                    d3.select("#hover")
+                        .attr('x', function() { return d3.mouse(this)[0] + 20; })
+                        .attr('y', function() { return d3.mouse(this)[1] + 10; });
+                });
+                    
+            svg.append("text")
+                .attr('id', 'hover');
+
+        });
+    </script>
+</body>
