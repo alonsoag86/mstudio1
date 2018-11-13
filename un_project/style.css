@@ -92,7 +92,69 @@ select:focus {
   color: #F3E8E2;
 }
 
+#example1 {
+  color: rgba(145,199,177, 0.3);
+}
 
+#energy1 {
+  border: 1px solid rgba(145,199,177, 0.3);
+
+}
+
+#example2 {
+    color: rgba(145,199,177, 0.2);
+}
+
+#energy2 {
+    border: 1px solid rgba(145,199,177, 0.2);
+}
+
+#energy3 {
+  border: 1px solid rgba(145,199,177, 0.7);
+}
+
+#example3 {
+  color: rgba(145,199,177, 0.7);
+}
  
 
+#energy4 {
+  border: 1px solid rgba(145,199,177, 0.7);
+}
+
+#example4 {
+  color: rgba(145,199,177, 0.7);
+}
+
+#sanitary1 {
+  border: 1px solid rgba(246,142,95, 0.4);
+}
+
+#example5 {
+  color: rgba(246,142,95, 0.4);
+}
+
+#sanitary2 {
+  border: 1px solid rgba(246,142,95, 0.4);
+}
+
+#example6 {
+  color: rgba(246,142,95, 0.4);
+}
+
+#sanitary3 {
+  border: 1px solid rgba(246,142,95, 0.6);
+}
+
+#example7 {
+  color:rgba(246,142,95, 0.6);;
+}
+
+#sanitary4 {
+  border: 1px solid rgba(246,142,95, 0.6);
+}
+
+#example8 {
+  color:rgba(246,142,95, 0.6);;
+}
 
