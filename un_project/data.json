@@ -1,0 +1,2822 @@
+[
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2010,
+    "water_source": 30.6,
+    "sanitation_f": 20.2,
+    "child_m": 11.484,
+    "clean_fuels": 44.1,
+    "elect_rural": 16.20995753
+  },
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2011,
+    "water_source": 29.8,
+    "sanitation_f": 20.9,
+    "child_m": 10.8845,
+    "clean_fuels": 44.8,
+    "elect_rural": 5.5
+  },
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2012,
+    "water_source": 29,
+    "sanitation_f": 21.7,
+    "child_m": 10.381,
+    "clean_fuels": 45.36,
+    "elect_rural": 16.2842982
+  },
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2013,
+    "water_source": 28.2,
+    "sanitation_f": 22.5,
+    "child_m": 9.9702,
+    "clean_fuels": 46.15,
+    "elect_rural": 16.27223675
+  },
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2014,
+    "water_source": 28.2,
+    "sanitation_f": 22.5,
+    "child_m": 9.6449,
+    "clean_fuels": 46.67,
+    "elect_rural": 3
+  },
+  {
+    "country": "Angola",
+    "code": "AGO",
+    "year": 2015,
+    "water_source": 28.2,
+    "sanitation_f": 22.5,
+    "child_m": 9.3915,
+    "clean_fuels": 47.36,
+    "elect_rural": 7
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2010,
+    "water_source": 68.3,
+    "sanitation_f": 6.2,
+    "child_m": 11.1231,
+    "clean_fuels": 4.78,
+    "elect_rural": 13.9
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2011,
+    "water_source": 69.2,
+    "sanitation_f": 6.5,
+    "child_m": 10.8848,
+    "clean_fuels": 4.99,
+    "elect_rural": 12.4
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2012,
+    "water_source": 70.2,
+    "sanitation_f": 6.7,
+    "child_m": 10.6612,
+    "clean_fuels": 5.34,
+    "elect_rural": 14.5
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2013,
+    "water_source": 71.2,
+    "sanitation_f": 7,
+    "child_m": 10.4482,
+    "clean_fuels": 5.58,
+    "elect_rural": 15.62903588
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2014,
+    "water_source": 72.1,
+    "sanitation_f": 7.3,
+    "child_m": 10.2436,
+    "clean_fuels": 5.85,
+    "elect_rural": 13.7
+  },
+  {
+    "country": "Benin",
+    "code": "BEN",
+    "year": 2015,
+    "water_source": 72.1,
+    "sanitation_f": 7.3,
+    "child_m": 10.0458,
+    "clean_fuels": 6.06,
+    "elect_rural": 17.2087338
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2010,
+    "water_source": 91.6,
+    "sanitation_f": 40.4,
+    "child_m": 5.1729,
+    "clean_fuels": 57.59,
+    "elect_rural": 28.59768023
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2011,
+    "water_source": 91.8,
+    "sanitation_f": 41.3,
+    "child_m": 4.8404,
+    "clean_fuels": 58.72,
+    "elect_rural": 23.87
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2012,
+    "water_source": 92,
+    "sanitation_f": 42.2,
+    "child_m": 4.5509,
+    "clean_fuels": 59.92,
+    "elect_rural": 31.58905535
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2013,
+    "water_source": 92.3,
+    "sanitation_f": 43.1,
+    "child_m": 4.29,
+    "clean_fuels": 61.05,
+    "elect_rural": 33.08583883
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2014,
+    "water_source": 92.3,
+    "sanitation_f": 43.1,
+    "child_m": 4.0541,
+    "clean_fuels": 62.12,
+    "elect_rural": 34.57183386
+  },
+  {
+    "country": "Botswana",
+    "code": "BWA",
+    "year": 2015,
+    "water_source": 92.3,
+    "sanitation_f": 43.1,
+    "child_m": 3.8414,
+    "clean_fuels": 63.15,
+    "elect_rural": 36.04331683
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2010,
+    "water_source": 72.3,
+    "sanitation_f": 6.2,
+    "child_m": 11.5897,
+    "clean_fuels": 6.01,
+    "elect_rural": 1.4
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2011,
+    "water_source": 74.1,
+    "sanitation_f": 6.5,
+    "child_m": 10.9122,
+    "clean_fuels": 6.43,
+    "elect_rural": 1.783640534
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2012,
+    "water_source": 75.8,
+    "sanitation_f": 6.7,
+    "child_m": 10.3135,
+    "clean_fuels": 6.82,
+    "elect_rural": 1.630584358
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2013,
+    "water_source": 75.8,
+    "sanitation_f": 6.7,
+    "child_m": 9.795,
+    "clean_fuels": 7.33,
+    "elect_rural": 1.455616189
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2014,
+    "water_source": 75.8,
+    "sanitation_f": 6.7,
+    "child_m": 9.3571,
+    "clean_fuels": 7.88,
+    "elect_rural": 3
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "year": 2015,
+    "water_source": 75.8,
+    "sanitation_f": 6.7,
+    "child_m": 8.9929,
+    "clean_fuels": 8.46,
+    "elect_rural": 1.025499865
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2010,
+    "water_source": 72.6,
+    "sanitation_f": 47.6,
+    "child_m": 13.0305,
+    "clean_fuels": 0.72,
+    "elect_rural": 1
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2011,
+    "water_source": 72.9,
+    "sanitation_f": 47.8,
+    "child_m": 12.741,
+    "clean_fuels": 0.76,
+    "elect_rural": 0.499777044
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2012,
+    "water_source": 73.2,
+    "sanitation_f": 48.1,
+    "child_m": 12.4516,
+    "clean_fuels": 0.77,
+    "elect_rural": 1.2
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2013,
+    "water_source": 73.5,
+    "sanitation_f": 48.3,
+    "child_m": 12.1636,
+    "clean_fuels": 0.77,
+    "elect_rural": 0.948072708
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2014,
+    "water_source": 73.8,
+    "sanitation_f": 48.6,
+    "child_m": 11.8779,
+    "clean_fuels": 0.81,
+    "elect_rural": 2
+  },
+  {
+    "country": "Burundi",
+    "code": "BDI",
+    "year": 2015,
+    "water_source": 73.8,
+    "sanitation_f": 48.6,
+    "child_m": 11.5956,
+    "clean_fuels": 0.83,
+    "elect_rural": 1.417148343
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2010,
+    "water_source": 50.2,
+    "sanitation_f": 26.7,
+    "child_m": 11.237,
+    "clean_fuels": 17.6,
+    "elect_rural": 17.65882177
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2011,
+    "water_source": 51,
+    "sanitation_f": 26.8,
+    "child_m": 10.9105,
+    "clean_fuels": 18.45,
+    "elect_rural": 18.5
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2012,
+    "water_source": 51.9,
+    "sanitation_f": 26.8,
+    "child_m": 10.5849,
+    "clean_fuels": 19.44,
+    "elect_rural": 18.82843157
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2013,
+    "water_source": 52.7,
+    "sanitation_f": 26.8,
+    "child_m": 10.2599,
+    "clean_fuels": 20.22,
+    "elect_rural": 19.43197269
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2014,
+    "water_source": 52.7,
+    "sanitation_f": 26.8,
+    "child_m": 9.936,
+    "clean_fuels": 21.06,
+    "elect_rural": 22.2
+  },
+  {
+    "country": "Cameroon",
+    "code": "CMR",
+    "year": 2015,
+    "water_source": 52.7,
+    "sanitation_f": 26.8,
+    "child_m": 9.6166,
+    "clean_fuels": 21.98,
+    "elect_rural": 20.65606142
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2010,
+    "water_source": 85.4,
+    "sanitation_f": 45.8,
+    "child_m": 2.7297,
+    "clean_fuels": 67.17,
+    "elect_rural": 65.8
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2011,
+    "water_source": 85.9,
+    "sanitation_f": 47.9,
+    "child_m": 2.7034,
+    "clean_fuels": 67.96,
+    "elect_rural": 66.78009192
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2012,
+    "water_source": 86.4,
+    "sanitation_f": 50.1,
+    "child_m": 2.6654,
+    "clean_fuels": 68.49,
+    "elect_rural": 71.41320679
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2013,
+    "water_source": 86.8,
+    "sanitation_f": 52.2,
+    "child_m": 2.6188,
+    "clean_fuels": 69.48,
+    "elect_rural": 76.23807454
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2014,
+    "water_source": 87.3,
+    "sanitation_f": 54.3,
+    "child_m": 2.5637,
+    "clean_fuels": 70.06,
+    "elect_rural": 81.25119979
+  },
+  {
+    "country": "Cape Verde",
+    "code": "CPV",
+    "year": 2015,
+    "water_source": 87.3,
+    "sanitation_f": 54.3,
+    "child_m": 2.5013,
+    "clean_fuels": 70.63,
+    "elect_rural": 86.44994333
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2010,
+    "water_source": 53.6,
+    "sanitation_f": 7.7,
+    "child_m": 16.2007,
+    "clean_fuels": 0.78,
+    "elect_rural": 1.7
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2011,
+    "water_source": 54,
+    "sanitation_f": 7.4,
+    "child_m": 15.7447,
+    "clean_fuels": 0.82,
+    "elect_rural": 0.32579575
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2012,
+    "water_source": 54.4,
+    "sanitation_f": 7.2,
+    "child_m": 15.2774,
+    "clean_fuels": 0.84,
+    "elect_rural": 0.356717797
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2013,
+    "water_source": 54.4,
+    "sanitation_f": 7.2,
+    "child_m": 14.8105,
+    "clean_fuels": 0.84,
+    "elect_rural": 0.38091429
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2014,
+    "water_source": 54.4,
+    "sanitation_f": 7.2,
+    "child_m": 14.3543,
+    "clean_fuels": 0.87,
+    "elect_rural": 0.393805815
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CAF",
+    "year": 2015,
+    "water_source": 54.4,
+    "sanitation_f": 7.2,
+    "child_m": 13.9192,
+    "clean_fuels": 0.92,
+    "elect_rural": 0.389227244
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2010,
+    "water_source": 44.1,
+    "sanitation_f": 6.3,
+    "child_m": 15.997,
+    "clean_fuels": 3.14,
+    "elect_rural": 3.1
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2011,
+    "water_source": 44.4,
+    "sanitation_f": 6.4,
+    "child_m": 15.509,
+    "clean_fuels": 3.15,
+    "elect_rural": 1.45418173
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2012,
+    "water_source": 44.8,
+    "sanitation_f": 6.5,
+    "child_m": 15.0338,
+    "clean_fuels": 3.18,
+    "elect_rural": 1.613427431
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2013,
+    "water_source": 44.8,
+    "sanitation_f": 6.5,
+    "child_m": 14.5924,
+    "clean_fuels": 3.15,
+    "elect_rural": 1.774769767
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2014,
+    "water_source": 44.8,
+    "sanitation_f": 6.5,
+    "child_m": 14.1954,
+    "clean_fuels": 3.13,
+    "elect_rural": 1.934457284
+  },
+  {
+    "country": "Chad",
+    "code": "TCD",
+    "year": 2015,
+    "water_source": 44.8,
+    "sanitation_f": 6.5,
+    "child_m": 13.8455,
+    "clean_fuels": 3.13,
+    "elect_rural": 0.7
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2010,
+    "water_source": 88.9,
+    "sanitation_f": 27.8,
+    "child_m": 8.4488,
+    "clean_fuels": 3.68,
+    "elect_rural": 56.03606026
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2011,
+    "water_source": 89,
+    "sanitation_f": 28.6,
+    "child_m": 8.1866,
+    "clean_fuels": 4.31,
+    "elect_rural": 58.71200395
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2012,
+    "water_source": 89,
+    "sanitation_f": 29.3,
+    "child_m": 7.9405,
+    "clean_fuels": 5.1,
+    "elect_rural": 61.4
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2013,
+    "water_source": 89.1,
+    "sanitation_f": 30.1,
+    "child_m": 7.7163,
+    "clean_fuels": 6.06,
+    "elect_rural": 64.09260936
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2014,
+    "water_source": 89.1,
+    "sanitation_f": 30.9,
+    "child_m": 7.5172,
+    "clean_fuels": 7.05,
+    "elect_rural": 66.79169892
+  },
+  {
+    "country": "Comoros",
+    "code": "COM",
+    "year": 2015,
+    "water_source": 89.1,
+    "sanitation_f": 30.9,
+    "child_m": 7.3432,
+    "clean_fuels": 8.15,
+    "elect_rural": 69.49245521
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2010,
+    "water_source": 37.6,
+    "sanitation_f": 5.6,
+    "child_m": 7.816,
+    "clean_fuels": 3.78,
+    "elect_rural": 12.42722708
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2011,
+    "water_source": 38.2,
+    "sanitation_f": 5.6,
+    "child_m": 7.3304,
+    "clean_fuels": 3.84,
+    "elect_rural": 14.11891325
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2012,
+    "water_source": 38.8,
+    "sanitation_f": 5.6,
+    "child_m": 6.9092,
+    "clean_fuels": 3.83,
+    "elect_rural": 11.7
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2013,
+    "water_source": 39.4,
+    "sanitation_f": 5.6,
+    "child_m": 6.5389,
+    "clean_fuels": 3.9,
+    "elect_rural": 17.52609442
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2014,
+    "water_source": 40,
+    "sanitation_f": 5.6,
+    "child_m": 6.2168,
+    "clean_fuels": 3.93,
+    "elect_rural": 19.23297764
+  },
+  {
+    "country": "Congo",
+    "code": "COG",
+    "year": 2015,
+    "water_source": 40,
+    "sanitation_f": 5.6,
+    "child_m": 5.9402,
+    "clean_fuels": 3.94,
+    "elect_rural": 22.7
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2010,
+    "water_source": 68.4,
+    "sanitation_f": 9.7,
+    "child_m": 11.0847,
+    "clean_fuels": 17.93,
+    "elect_rural": 27.5890397
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2011,
+    "water_source": 68.5,
+    "sanitation_f": 9.8,
+    "child_m": 10.6866,
+    "clean_fuels": 17.87,
+    "elect_rural": 28.0337591
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2012,
+    "water_source": 68.6,
+    "sanitation_f": 10,
+    "child_m": 10.2699,
+    "clean_fuels": 17.96,
+    "elect_rural": 29
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2013,
+    "water_source": 68.7,
+    "sanitation_f": 10.1,
+    "child_m": 9.8472,
+    "clean_fuels": 17.89,
+    "elect_rural": 28.98339562
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2014,
+    "water_source": 68.8,
+    "sanitation_f": 10.3,
+    "child_m": 9.4291,
+    "clean_fuels": 18.03,
+    "elect_rural": 27.18222094
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "code": "CIV",
+    "year": 2015,
+    "water_source": 68.8,
+    "sanitation_f": 10.3,
+    "child_m": 9.0273,
+    "clean_fuels": 17.96,
+    "elect_rural": 29.99011916
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2010,
+    "water_source": 29.7,
+    "sanitation_f": 25.5,
+    "child_m": 12.3622,
+    "clean_fuels": 17.53,
+    "elect_rural": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2011,
+    "water_source": 30,
+    "sanitation_f": 26.1,
+    "child_m": 11.9909,
+    "clean_fuels": 18.52,
+    "elect_rural": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2012,
+    "water_source": 30.3,
+    "sanitation_f": 26.8,
+    "child_m": 11.6501,
+    "clean_fuels": 19.64,
+    "elect_rural": 1
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2013,
+    "water_source": 30.6,
+    "sanitation_f": 27.4,
+    "child_m": 11.33,
+    "clean_fuels": 20.63,
+    "elect_rural": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2014,
+    "water_source": 30.9,
+    "sanitation_f": 28.1,
+    "child_m": 11.0255,
+    "clean_fuels": 21.59,
+    "elect_rural": 0.4
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "code": "COD",
+    "year": 2015,
+    "water_source": 31.2,
+    "sanitation_f": 28.7,
+    "child_m": 10.7319,
+    "clean_fuels": 22.74,
+    "elect_rural": 0
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2010,
+    "water_source": 64.5,
+    "sanitation_f": 7.4,
+    "child_m": 9.0361,
+    "clean_fuels": 8.38,
+    "elect_rural": 20.02329576
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2011,
+    "water_source": 64.7,
+    "sanitation_f": 5.1,
+    "child_m": 8.7672,
+    "clean_fuels": 8.84,
+    "elect_rural": 16.45629386
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2012,
+    "water_source": 64.7,
+    "sanitation_f": 5.1,
+    "child_m": 8.5159,
+    "clean_fuels": 9.25,
+    "elect_rural": 4.372199059
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2013,
+    "water_source": 64.7,
+    "sanitation_f": 5.1,
+    "child_m": 8.2924,
+    "clean_fuels": 9.79,
+    "elect_rural": 9.290253599
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2014,
+    "water_source": 64.7,
+    "sanitation_f": 5.1,
+    "child_m": 8.1009,
+    "clean_fuels": 10.29,
+    "elect_rural": 5.669879667
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJI",
+    "year": 2015,
+    "water_source": 64.7,
+    "sanitation_f": 5.1,
+    "child_m": 7.9413,
+    "clean_fuels": 10.89,
+    "elect_rural": 2.013218398
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2010,
+    "water_source": 33.5,
+    "sanitation_f": 73,
+    "child_m": 11.7308,
+    "clean_fuels": 30.58,
+    "elect_rural": 47.9272731
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2011,
+    "water_source": 32.8,
+    "sanitation_f": 72.3,
+    "child_m": 11.3821,
+    "clean_fuels": 31.1,
+    "elect_rural": 43
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2012,
+    "water_source": 32.1,
+    "sanitation_f": 71.7,
+    "child_m": 11.0392,
+    "clean_fuels": 31.51,
+    "elect_rural": 49.4568195
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2013,
+    "water_source": 31.5,
+    "sanitation_f": 71,
+    "child_m": 10.7057,
+    "clean_fuels": 32.97,
+    "elect_rural": 50.23331752
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2014,
+    "water_source": 31.5,
+    "sanitation_f": 71,
+    "child_m": 10.3838,
+    "clean_fuels": 33.75,
+    "elect_rural": 51.01377073
+  },
+  {
+    "country": "Equatorial Guinea",
+    "code": "GNQ",
+    "year": 2015,
+    "water_source": 31.5,
+    "sanitation_f": 71,
+    "child_m": 10.076,
+    "clean_fuels": 34,
+    "elect_rural": 51.79440269
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2010,
+    "water_source": 52.3,
+    "sanitation_f": 6.5,
+    "child_m": 6.2681,
+    "clean_fuels": 12.13,
+    "elect_rural": 30.35268022
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2011,
+    "water_source": 52.8,
+    "sanitation_f": 6.9,
+    "child_m": 6.054,
+    "clean_fuels": 12.73,
+    "elect_rural": 31.63364134
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2012,
+    "water_source": 53.3,
+    "sanitation_f": 7.3,
+    "child_m": 5.8279,
+    "clean_fuels": 13.4,
+    "elect_rural": 33.14843628
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2013,
+    "water_source": 53.3,
+    "sanitation_f": 7.3,
+    "child_m": 5.5914,
+    "clean_fuels": 14.01,
+    "elect_rural": 34.67321029
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2014,
+    "water_source": 53.3,
+    "sanitation_f": 7.3,
+    "child_m": 5.3442,
+    "clean_fuels": 14.78,
+    "elect_rural": 36.20463863
+  },
+  {
+    "country": "Eritrea",
+    "code": "ERI",
+    "year": 2015,
+    "water_source": 53.3,
+    "sanitation_f": 7.3,
+    "child_m": 5.0881,
+    "clean_fuels": 15.6,
+    "elect_rural": 37.73939653
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2010,
+    "water_source": 38.7,
+    "sanitation_f": 20.9,
+    "child_m": 7.8167,
+    "clean_fuels": 2.69,
+    "elect_rural": 12.46716078
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2011,
+    "water_source": 40.7,
+    "sanitation_f": 22.3,
+    "child_m": 7.3773,
+    "clean_fuels": 2.82,
+    "elect_rural": 4.8
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2012,
+    "water_source": 42.7,
+    "sanitation_f": 23.8,
+    "child_m": 6.9852,
+    "clean_fuels": 3.01,
+    "elect_rural": 15.51644287
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2013,
+    "water_source": 44.7,
+    "sanitation_f": 25.3,
+    "child_m": 6.6368,
+    "clean_fuels": 3.11,
+    "elect_rural": 17.06340073
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2014,
+    "water_source": 46.7,
+    "sanitation_f": 26.7,
+    "child_m": 6.3278,
+    "clean_fuels": 3.25,
+    "elect_rural": 12.2
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "year": 2015,
+    "water_source": 48.6,
+    "sanitation_f": 28.2,
+    "child_m": 6.0506,
+    "clean_fuels": 3.4,
+    "elect_rural": 20.18473012
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2010,
+    "water_source": 59.3,
+    "sanitation_f": 32.5,
+    "child_m": 6.4321,
+    "clean_fuels": 73.57,
+    "elect_rural": 28.2206442
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2011,
+    "water_source": 61.1,
+    "sanitation_f": 32.3,
+    "child_m": 6.1572,
+    "clean_fuels": 74.64,
+    "elect_rural": 31.88150675
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2012,
+    "water_source": 63,
+    "sanitation_f": 32,
+    "child_m": 5.8995,
+    "clean_fuels": 75.75,
+    "elect_rural": 44.9
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2013,
+    "water_source": 64.8,
+    "sanitation_f": 31.8,
+    "child_m": 5.6571,
+    "clean_fuels": 76.53,
+    "elect_rural": 37.4
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2014,
+    "water_source": 66.7,
+    "sanitation_f": 31.5,
+    "child_m": 5.4318,
+    "clean_fuels": 77.3,
+    "elect_rural": 44.86042348
+  },
+  {
+    "country": "Gabon",
+    "code": "GAB",
+    "year": 2015,
+    "water_source": 66.7,
+    "sanitation_f": 31.5,
+    "child_m": 5.2258,
+    "clean_fuels": 78.13,
+    "elect_rural": 49.78388998
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2010,
+    "water_source": 83,
+    "sanitation_f": 55.8,
+    "child_m": 8.0501,
+    "clean_fuels": 3.18,
+    "elect_rural": 12.27165377
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2011,
+    "water_source": 83.7,
+    "sanitation_f": 55.4,
+    "child_m": 7.817,
+    "clean_fuels": 3.24,
+    "elect_rural": 12.76021627
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2012,
+    "water_source": 84.4,
+    "sanitation_f": 55,
+    "child_m": 7.6084,
+    "clean_fuels": 3.2,
+    "elect_rural": 13.27401467
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2013,
+    "water_source": 84.4,
+    "sanitation_f": 55,
+    "child_m": 7.4207,
+    "clean_fuels": 3.26,
+    "elect_rural": 12.9
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2014,
+    "water_source": 84.4,
+    "sanitation_f": 55,
+    "child_m": 7.2511,
+    "clean_fuels": 3.27,
+    "elect_rural": 14.36701261
+  },
+  {
+    "country": "Gambia",
+    "code": "GMB",
+    "year": 2015,
+    "water_source": 84.4,
+    "sanitation_f": 55,
+    "child_m": 7.0969,
+    "clean_fuels": 3.23,
+    "elect_rural": 14.94064073
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2010,
+    "water_source": 75.1,
+    "sanitation_f": 8,
+    "child_m": 7.5893,
+    "clean_fuels": 14.05,
+    "elect_rural": 44.01878361
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2011,
+    "water_source": 76.8,
+    "sanitation_f": 8.2,
+    "child_m": 7.2865,
+    "clean_fuels": 15.11,
+    "elect_rural": 40.9546
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2012,
+    "water_source": 78.6,
+    "sanitation_f": 8.4,
+    "child_m": 6.9987,
+    "clean_fuels": 16.43,
+    "elect_rural": 50.25763386
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2013,
+    "water_source": 80.4,
+    "sanitation_f": 8.6,
+    "child_m": 6.7368,
+    "clean_fuels": 17.58,
+    "elect_rural": 48.6
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2014,
+    "water_source": 82.2,
+    "sanitation_f": 8.6,
+    "child_m": 6.5056,
+    "clean_fuels": 18.82,
+    "elect_rural": 63
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "year": 2015,
+    "water_source": 84,
+    "sanitation_f": 8.6,
+    "child_m": 6.3058,
+    "clean_fuels": 20.37,
+    "elect_rural": 60.28639459
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2010,
+    "water_source": 62.7,
+    "sanitation_f": 10.6,
+    "child_m": 11.1726,
+    "clean_fuels": 1.22,
+    "elect_rural": 1.461581002
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2011,
+    "water_source": 63.9,
+    "sanitation_f": 10.9,
+    "child_m": 10.7442,
+    "clean_fuels": 1.24,
+    "elect_rural": 1.686424627
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2012,
+    "water_source": 65,
+    "sanitation_f": 11.2,
+    "child_m": 10.3392,
+    "clean_fuels": 1.26,
+    "elect_rural": 2.9
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2013,
+    "water_source": 66.2,
+    "sanitation_f": 11.5,
+    "child_m": 9.9368,
+    "clean_fuels": 1.23,
+    "elect_rural": 2.085811543
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2014,
+    "water_source": 67.4,
+    "sanitation_f": 11.8,
+    "child_m": 9.5294,
+    "clean_fuels": 1.25,
+    "elect_rural": 2.250604989
+  },
+  {
+    "country": "Guinea",
+    "code": "GIN",
+    "year": 2015,
+    "water_source": 67.4,
+    "sanitation_f": 11.8,
+    "child_m": 9.115,
+    "clean_fuels": 1.24,
+    "elect_rural": 2.385447769
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2010,
+    "water_source": 54.6,
+    "sanitation_f": 7.8,
+    "child_m": 14.3052,
+    "clean_fuels": 1.46,
+    "elect_rural": 3.5
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2011,
+    "water_source": 55.7,
+    "sanitation_f": 8.1,
+    "child_m": 13.9542,
+    "clean_fuels": 1.43,
+    "elect_rural": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2012,
+    "water_source": 56.9,
+    "sanitation_f": 8.5,
+    "child_m": 13.6033,
+    "clean_fuels": 1.44,
+    "elect_rural": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2013,
+    "water_source": 58,
+    "sanitation_f": 8.5,
+    "child_m": 13.2529,
+    "clean_fuels": 1.46,
+    "elect_rural": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2014,
+    "water_source": 59.1,
+    "sanitation_f": 8.5,
+    "child_m": 12.9048,
+    "clean_fuels": 1.5,
+    "elect_rural": 4
+  },
+  {
+    "country": "Guinea-Bissau",
+    "code": "GNB",
+    "year": 2015,
+    "water_source": 60.3,
+    "sanitation_f": 8.5,
+    "child_m": 12.561,
+    "clean_fuels": 1.46,
+    "elect_rural": 0
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2010,
+    "water_source": 52.9,
+    "sanitation_f": 28.8,
+    "child_m": 6.308,
+    "clean_fuels": 8.02,
+    "elect_rural": 6.7
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2011,
+    "water_source": 53.9,
+    "sanitation_f": 29,
+    "child_m": 5.9712,
+    "clean_fuels": 8.95,
+    "elect_rural": 17.43544432
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2012,
+    "water_source": 54.8,
+    "sanitation_f": 29.3,
+    "child_m": 5.6776,
+    "clean_fuels": 9.9,
+    "elect_rural": 18.38988316
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2013,
+    "water_source": 55.8,
+    "sanitation_f": 29.5,
+    "child_m": 5.425,
+    "clean_fuels": 10.74,
+    "elect_rural": 19.34442919
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2014,
+    "water_source": 56.8,
+    "sanitation_f": 29.7,
+    "child_m": 5.2126,
+    "clean_fuels": 11.83,
+    "elect_rural": 12.6
+  },
+  {
+    "country": "Kenya",
+    "code": "KEN",
+    "year": 2015,
+    "water_source": 56.8,
+    "sanitation_f": 29.7,
+    "child_m": 5.037,
+    "clean_fuels": 12.76,
+    "elect_rural": 16
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2010,
+    "water_source": 76.5,
+    "sanitation_f": 25.8,
+    "child_m": 9.1119,
+    "clean_fuels": 29.86,
+    "elect_rural": 9.875712403
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2011,
+    "water_source": 76.6,
+    "sanitation_f": 26.2,
+    "child_m": 8.6715,
+    "clean_fuels": 30.68,
+    "elect_rural": 10.91700389
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2012,
+    "water_source": 76.7,
+    "sanitation_f": 26.7,
+    "child_m": 8.2533,
+    "clean_fuels": 31.96,
+    "elect_rural": 11.93853025
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2013,
+    "water_source": 76.8,
+    "sanitation_f": 27.1,
+    "child_m": 7.8575,
+    "clean_fuels": 32.99,
+    "elect_rural": 12.93738284
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2014,
+    "water_source": 76.9,
+    "sanitation_f": 27.6,
+    "child_m": 7.4892,
+    "clean_fuels": 33.93,
+    "elect_rural": 11.8
+  },
+  {
+    "country": "Lesotho",
+    "code": "LSO",
+    "year": 2015,
+    "water_source": 77,
+    "sanitation_f": 27.6,
+    "child_m": 7.1499,
+    "clean_fuels": 34.74,
+    "elect_rural": 14.84488546
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2010,
+    "water_source": 58.9,
+    "sanitation_f": 5.2,
+    "child_m": 8.7872,
+    "clean_fuels": 0.65,
+    "elect_rural": 1.131919081
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2011,
+    "water_source": 59.6,
+    "sanitation_f": 5.4,
+    "child_m": 8.4008,
+    "clean_fuels": 0.67,
+    "elect_rural": 1
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2012,
+    "water_source": 60.4,
+    "sanitation_f": 5.5,
+    "child_m": 8.0502,
+    "clean_fuels": 0.69,
+    "elect_rural": 2.569642286
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2013,
+    "water_source": 61.1,
+    "sanitation_f": 5.6,
+    "child_m": 7.7198,
+    "clean_fuels": 0.68,
+    "elect_rural": 1.2
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2014,
+    "water_source": 61.9,
+    "sanitation_f": 5.8,
+    "child_m": 7.3992,
+    "clean_fuels": 0.71,
+    "elect_rural": 1.4
+  },
+  {
+    "country": "Liberia",
+    "code": "LBR",
+    "year": 2015,
+    "water_source": 62.6,
+    "sanitation_f": 5.9,
+    "child_m": 7.0826,
+    "clean_fuels": 0.7,
+    "elect_rural": 4.569977193
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2010,
+    "water_source": 31.5,
+    "sanitation_f": 8.5,
+    "child_m": 6.0227,
+    "clean_fuels": 0.96,
+    "elect_rural": 0
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2011,
+    "water_source": 32.3,
+    "sanitation_f": 8.5,
+    "child_m": 5.7756,
+    "clean_fuels": 0.94,
+    "elect_rural": 9.4
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2012,
+    "water_source": 33,
+    "sanitation_f": 8.6,
+    "child_m": 5.5425,
+    "clean_fuels": 0.96,
+    "elect_rural": 0
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2013,
+    "water_source": 33.8,
+    "sanitation_f": 8.6,
+    "child_m": 5.3209,
+    "clean_fuels": 0.94,
+    "elect_rural": 8.1
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2014,
+    "water_source": 34.5,
+    "sanitation_f": 8.7,
+    "child_m": 5.1071,
+    "clean_fuels": 0.92,
+    "elect_rural": 0
+  },
+  {
+    "country": "Madagascar",
+    "code": "MDG",
+    "year": 2015,
+    "water_source": 35.3,
+    "sanitation_f": 8.7,
+    "child_m": 4.8979,
+    "clean_fuels": 0.9,
+    "elect_rural": 0
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2010,
+    "water_source": 78.5,
+    "sanitation_f": 37.3,
+    "child_m": 9.3847,
+    "clean_fuels": 2.18,
+    "elect_rural": 3.5
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2011,
+    "water_source": 80.6,
+    "sanitation_f": 37.8,
+    "child_m": 9.0024,
+    "clean_fuels": 2.25,
+    "elect_rural": 2.9
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2012,
+    "water_source": 82.8,
+    "sanitation_f": 38.3,
+    "child_m": 8.6643,
+    "clean_fuels": 2.33,
+    "elect_rural": 2.3
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2013,
+    "water_source": 84.9,
+    "sanitation_f": 38.8,
+    "child_m": 8.3626,
+    "clean_fuels": 2.35,
+    "elect_rural": 3.4
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2014,
+    "water_source": 87,
+    "sanitation_f": 39.3,
+    "child_m": 8.0931,
+    "clean_fuels": 2.43,
+    "elect_rural": 4.7
+  },
+  {
+    "country": "Malawi",
+    "code": "MWI",
+    "year": 2015,
+    "water_source": 89.1,
+    "sanitation_f": 39.8,
+    "child_m": 7.8526,
+    "clean_fuels": 2.49,
+    "elect_rural": 3.9
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2010,
+    "water_source": 55.1,
+    "sanitation_f": 14.7,
+    "child_m": 13.6963,
+    "clean_fuels": 1.02,
+    "elect_rural": 3.386788807
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2011,
+    "water_source": 56.9,
+    "sanitation_f": 15,
+    "child_m": 13.1661,
+    "clean_fuels": 1.05,
+    "elect_rural": 3.293425613
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2012,
+    "water_source": 58.7,
+    "sanitation_f": 15.3,
+    "child_m": 12.6879,
+    "clean_fuels": 1,
+    "elect_rural": 11.9
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2013,
+    "water_source": 60.5,
+    "sanitation_f": 15.5,
+    "child_m": 12.2449,
+    "clean_fuels": 1,
+    "elect_rural": 2.91005383
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2014,
+    "water_source": 62.3,
+    "sanitation_f": 15.8,
+    "child_m": 11.829,
+    "clean_fuels": 0.97,
+    "elect_rural": 2.609425865
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "year": 2015,
+    "water_source": 64.1,
+    "sanitation_f": 16.1,
+    "child_m": 11.4336,
+    "clean_fuels": 0.93,
+    "elect_rural": 23.4
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2010,
+    "water_source": 52.9,
+    "sanitation_f": 12.7,
+    "child_m": 9.8225,
+    "clean_fuels": 40.08,
+    "elect_rural": 0
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2011,
+    "water_source": 54.3,
+    "sanitation_f": 13.1,
+    "child_m": 9.599,
+    "clean_fuels": 41.31,
+    "elect_rural": 0
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2012,
+    "water_source": 55.7,
+    "sanitation_f": 13.5,
+    "child_m": 9.3917,
+    "clean_fuels": 42.34,
+    "elect_rural": 0
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2013,
+    "water_source": 57.1,
+    "sanitation_f": 13.8,
+    "child_m": 9.205,
+    "clean_fuels": 43.35,
+    "elect_rural": 0
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2014,
+    "water_source": 57.1,
+    "sanitation_f": 13.8,
+    "child_m": 9.0415,
+    "clean_fuels": 44.26,
+    "elect_rural": 2.3
+  },
+  {
+    "country": "Mauritania",
+    "code": "MRT",
+    "year": 2015,
+    "water_source": 57.1,
+    "sanitation_f": 13.8,
+    "child_m": 8.9004,
+    "clean_fuels": 45.66,
+    "elect_rural": 0
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2010,
+    "water_source": 99.6,
+    "sanitation_f": 92,
+    "child_m": 1.4768,
+    "clean_fuels": 92.27,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2011,
+    "water_source": 99.7,
+    "sanitation_f": 92.2,
+    "child_m": 1.4559,
+    "clean_fuels": 92.56,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2012,
+    "water_source": 99.7,
+    "sanitation_f": 92.4,
+    "child_m": 1.4307,
+    "clean_fuels": 92.62,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2013,
+    "water_source": 99.8,
+    "sanitation_f": 92.6,
+    "child_m": 1.4027,
+    "clean_fuels": 92.74,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2014,
+    "water_source": 99.8,
+    "sanitation_f": 92.6,
+    "child_m": 1.3721,
+    "clean_fuels": 92.94,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mauritius",
+    "code": "MUS",
+    "year": 2015,
+    "water_source": 99.8,
+    "sanitation_f": 92.6,
+    "child_m": 1.3395,
+    "clean_fuels": 93.11,
+    "elect_rural": 100
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2010,
+    "water_source": 34.8,
+    "sanitation_f": 8.9,
+    "child_m": 11.1118,
+    "clean_fuels": 3.4,
+    "elect_rural": 3.167154269
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2011,
+    "water_source": 35.5,
+    "sanitation_f": 9.3,
+    "child_m": 10.7695,
+    "clean_fuels": 3.46,
+    "elect_rural": 5.4
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2012,
+    "water_source": 36.3,
+    "sanitation_f": 9.7,
+    "child_m": 10.4778,
+    "clean_fuels": 3.48,
+    "elect_rural": 3.839114698
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2013,
+    "water_source": 37,
+    "sanitation_f": 10.1,
+    "child_m": 10.2327,
+    "clean_fuels": 3.56,
+    "elect_rural": 4.154243008
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2014,
+    "water_source": 37,
+    "sanitation_f": 10.1,
+    "child_m": 10.0266,
+    "clean_fuels": 3.56,
+    "elect_rural": 4.449355637
+  },
+  {
+    "country": "Mozambique",
+    "code": "MOZ",
+    "year": 2015,
+    "water_source": 37,
+    "sanitation_f": 10.1,
+    "child_m": 9.8478,
+    "clean_fuels": 3.62,
+    "elect_rural": 5
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2010,
+    "water_source": 45.3,
+    "sanitation_f": 4.1,
+    "child_m": 13.2942,
+    "clean_fuels": 1.55,
+    "elect_rural": 3.585183566
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2011,
+    "water_source": 46.1,
+    "sanitation_f": 4.2,
+    "child_m": 12.7033,
+    "clean_fuels": 1.61,
+    "elect_rural": 4.8
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2012,
+    "water_source": 47,
+    "sanitation_f": 4.4,
+    "child_m": 12.1886,
+    "clean_fuels": 1.67,
+    "elect_rural": 5.2
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2013,
+    "water_source": 47.8,
+    "sanitation_f": 4.5,
+    "child_m": 11.7418,
+    "clean_fuels": 1.7,
+    "elect_rural": 4.185735797
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2014,
+    "water_source": 48.6,
+    "sanitation_f": 4.6,
+    "child_m": 11.3552,
+    "clean_fuels": 1.77,
+    "elect_rural": 4.36773872
+  },
+  {
+    "country": "Niger",
+    "code": "NER",
+    "year": 2015,
+    "water_source": 48.6,
+    "sanitation_f": 4.6,
+    "child_m": 11.0171,
+    "clean_fuels": 1.88,
+    "elect_rural": 7.1
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2010,
+    "water_source": 50.7,
+    "sanitation_f": 28,
+    "child_m": 13.1359,
+    "clean_fuels": 2.44,
+    "elect_rural": 34.9
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2011,
+    "water_source": 52.1,
+    "sanitation_f": 27.5,
+    "child_m": 12.7366,
+    "clean_fuels": 2.74,
+    "elect_rural": 35.5
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2012,
+    "water_source": 53.4,
+    "sanitation_f": 27,
+    "child_m": 12.3502,
+    "clean_fuels": 3.09,
+    "elect_rural": 29.60863258
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2013,
+    "water_source": 54.7,
+    "sanitation_f": 26.5,
+    "child_m": 11.9675,
+    "clean_fuels": 3.48,
+    "elect_rural": 34.4
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2014,
+    "water_source": 56,
+    "sanitation_f": 25.9,
+    "child_m": 11.5862,
+    "clean_fuels": 3.92,
+    "elect_rural": 31.67585522
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "year": 2015,
+    "water_source": 57.3,
+    "sanitation_f": 25.4,
+    "child_m": 11.2083,
+    "clean_fuels": 4.39,
+    "elect_rural": 32.8
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2010,
+    "water_source": 68.9,
+    "sanitation_f": 56.7,
+    "child_m": 7.3895,
+    "clean_fuels": 0.47,
+    "elect_rural": 4
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2011,
+    "water_source": 69.5,
+    "sanitation_f": 57.9,
+    "child_m": 6.8834,
+    "clean_fuels": 0.48,
+    "elect_rural": 2.5
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2012,
+    "water_source": 70.1,
+    "sanitation_f": 59.2,
+    "child_m": 6.4675,
+    "clean_fuels": 0.51,
+    "elect_rural": 1.259361414
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2013,
+    "water_source": 70.7,
+    "sanitation_f": 60.4,
+    "child_m": 6.1192,
+    "clean_fuels": 0.52,
+    "elect_rural": 7.7
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2014,
+    "water_source": 71.3,
+    "sanitation_f": 61.7,
+    "child_m": 5.825,
+    "clean_fuels": 0.54,
+    "elect_rural": 9.1
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "year": 2015,
+    "water_source": 71.9,
+    "sanitation_f": 62.9,
+    "child_m": 5.5747,
+    "clean_fuels": 0.56,
+    "elect_rural": 12.4
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2010,
+    "water_source": 91.5,
+    "sanitation_f": 22.5,
+    "child_m": 6.4632,
+    "clean_fuels": 21.53,
+    "elect_rural": 44.65582724
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2011,
+    "water_source": 93.6,
+    "sanitation_f": 23.3,
+    "child_m": 6.3841,
+    "clean_fuels": 21.1,
+    "elect_rural": 45.60992847
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2012,
+    "water_source": 93.6,
+    "sanitation_f": 23.3,
+    "child_m": 6.315,
+    "clean_fuels": 20.5,
+    "elect_rural": 43.3
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2013,
+    "water_source": 93.6,
+    "sanitation_f": 23.3,
+    "child_m": 6.2473,
+    "clean_fuels": 19.61,
+    "elect_rural": 47.67129424
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2014,
+    "water_source": 93.6,
+    "sanitation_f": 23.3,
+    "child_m": 6.177,
+    "clean_fuels": 18.8,
+    "elect_rural": 54.8
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "STP",
+    "year": 2015,
+    "water_source": 93.6,
+    "sanitation_f": 23.3,
+    "child_m": 6.1022,
+    "clean_fuels": 17.88,
+    "elect_rural": 49.91065555
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2010,
+    "water_source": 62.1,
+    "sanitation_f": 31.2,
+    "child_m": 6.5624,
+    "clean_fuels": 31.94,
+    "elect_rural": 34.30917541
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2011,
+    "water_source": 63.2,
+    "sanitation_f": 31.7,
+    "child_m": 6.1033,
+    "clean_fuels": 32.01,
+    "elect_rural": 26.6
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2012,
+    "water_source": 64.2,
+    "sanitation_f": 32.2,
+    "child_m": 5.7016,
+    "clean_fuels": 31.65,
+    "elect_rural": 36.72809844
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2013,
+    "water_source": 65.2,
+    "sanitation_f": 32.8,
+    "child_m": 5.3489,
+    "clean_fuels": 31.64,
+    "elect_rural": 27.5
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2014,
+    "water_source": 66.3,
+    "sanitation_f": 33.3,
+    "child_m": 5.0412,
+    "clean_fuels": 31.68,
+    "elect_rural": 32.7
+  },
+  {
+    "country": "Senegal",
+    "code": "SEN",
+    "year": 2015,
+    "water_source": 67.3,
+    "sanitation_f": 33.8,
+    "child_m": 4.7729,
+    "clean_fuels": 31.82,
+    "elect_rural": 31.8
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2010,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.2848,
+    "clean_fuels": 88.23,
+    "elect_rural": 93.70949913
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2011,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.2778,
+    "clean_fuels": 88.99,
+    "elect_rural": 95.68817305
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2012,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.2612,
+    "clean_fuels": 88.85,
+    "elect_rural": 96.67862992
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2013,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.2337,
+    "clean_fuels": 89.27,
+    "elect_rural": 95.88367726
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2014,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.1957,
+    "clean_fuels": 89.76,
+    "elect_rural": 98.81707771
+  },
+  {
+    "country": "Seychelles",
+    "code": "SYC",
+    "year": 2015,
+    "water_source": 95.7,
+    "sanitation_f": 98.4,
+    "child_m": 1.1496,
+    "clean_fuels": 90.23,
+    "elect_rural": 99.83879587
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2010,
+    "water_source": 42.3,
+    "sanitation_f": 6.4,
+    "child_m": 15.5782,
+    "clean_fuels": 0.53,
+    "elect_rural": 0.86051888
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2011,
+    "water_source": 43.4,
+    "sanitation_f": 6.5,
+    "child_m": 14.7104,
+    "clean_fuels": 0.61,
+    "elect_rural": 0.29
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2012,
+    "water_source": 44.5,
+    "sanitation_f": 6.6,
+    "child_m": 13.925,
+    "clean_fuels": 0.72,
+    "elect_rural": 0
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2013,
+    "water_source": 45.6,
+    "sanitation_f": 6.7,
+    "child_m": 13.2426,
+    "clean_fuels": 0.73,
+    "elect_rural": 0.7
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2014,
+    "water_source": 46.7,
+    "sanitation_f": 6.8,
+    "child_m": 12.6711,
+    "clean_fuels": 0.8,
+    "elect_rural": 0
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SLE",
+    "year": 2015,
+    "water_source": 47.8,
+    "sanitation_f": 6.9,
+    "child_m": 12.2049,
+    "clean_fuels": 0.93,
+    "elect_rural": 0
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2010,
+    "water_source": 8.8,
+    "sanitation_f": 6.3,
+    "child_m": 13.9266,
+    "clean_fuels": 1.41,
+    "elect_rural": 6.578219541
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2011,
+    "water_source": 8.8,
+    "sanitation_f": 6.3,
+    "child_m": 13.6072,
+    "clean_fuels": 1.56,
+    "elect_rural": 7.460173376
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2012,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 13.2808,
+    "clean_fuels": 1.68,
+    "elect_rural": 8.332191293
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2013,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 12.9514,
+    "clean_fuels": 1.82,
+    "elect_rural": 9.189574316
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2014,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 12.6219,
+    "clean_fuels": 1.97,
+    "elect_rural": 10.02823633
+  },
+  {
+    "country": "Somalia",
+    "code": "SOM",
+    "year": 2015,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 12.296,
+    "clean_fuels": 2.12,
+    "elect_rural": 10.84334807
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2010,
+    "water_source": 77.8,
+    "sanitation_f": 55.5,
+    "child_m": 5.9189,
+    "clean_fuels": 76.65,
+    "elect_rural": 71.21145047
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2011,
+    "water_source": 78.5,
+    "sanitation_f": 56.5,
+    "child_m": 5.4503,
+    "clean_fuels": 78.21,
+    "elect_rural": 64.1
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2012,
+    "water_source": 79.2,
+    "sanitation_f": 57.5,
+    "child_m": 5.0151,
+    "clean_fuels": 79.65,
+    "elect_rural": 75.59666598
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2013,
+    "water_source": 80,
+    "sanitation_f": 58.5,
+    "child_m": 4.6347,
+    "clean_fuels": 81,
+    "elect_rural": 74.81532826
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2014,
+    "water_source": 80.7,
+    "sanitation_f": 59.5,
+    "child_m": 4.3223,
+    "clean_fuels": 82.36,
+    "elect_rural": 75.3946888
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "year": 2015,
+    "water_source": 81.4,
+    "sanitation_f": 60.5,
+    "child_m": 4.0828,
+    "clean_fuels": 83.64,
+    "elect_rural": 72.8518332
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2010,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 13.1809,
+    "clean_fuels": 0.56,
+    "elect_rural": 0.7
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2011,
+    "water_source": 56.9,
+    "sanitation_f": 4.5,
+    "child_m": 12.7852,
+    "clean_fuels": 0.58,
+    "elect_rural": 1.770266397
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2012,
+    "water_source": 56.9,
+    "sanitation_f": 4.5,
+    "child_m": 12.3971,
+    "clean_fuels": 0.59,
+    "elect_rural": 2.589713908
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2013,
+    "water_source": 56.9,
+    "sanitation_f": 4.5,
+    "child_m": 12.0163,
+    "clean_fuels": 0.58,
+    "elect_rural": 3.413329987
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2014,
+    "water_source": 56.9,
+    "sanitation_f": 4.5,
+    "child_m": 11.6431,
+    "clean_fuels": 0.62,
+    "elect_rural": 4.237627197
+  },
+  {
+    "country": "South Sudan",
+    "code": "SSD",
+    "year": 2015,
+    "water_source": 56.9,
+    "sanitation_f": 4.5,
+    "child_m": 11.2793,
+    "clean_fuels": 0.63,
+    "elect_rural": 5.058768381
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2010,
+    "water_source": 50.2,
+    "sanitation_f": 13.4,
+    "child_m": 7.8595,
+    "clean_fuels": 28.94,
+    "elect_rural": 19.18430622
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2011,
+    "water_source": 50.2,
+    "sanitation_f": 13.4,
+    "child_m": 7.6659,
+    "clean_fuels": 30.82,
+    "elect_rural": 19.69499114
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2012,
+    "water_source": 50.2,
+    "sanitation_f": 13.4,
+    "child_m": 7.4873,
+    "clean_fuels": 32.75,
+    "elect_rural": 20.20696162
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2013,
+    "water_source": 50.2,
+    "sanitation_f": 13.4,
+    "child_m": 7.3205,
+    "clean_fuels": 34.71,
+    "elect_rural": 20.71747981
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2014,
+    "water_source": 50.2,
+    "sanitation_f": 13.4,
+    "child_m": 7.1633,
+    "clean_fuels": 36.93,
+    "elect_rural": 31.7
+  },
+  {
+    "country": "Sudan",
+    "code": "SDN",
+    "year": 2015,
+    "water_source": 0,
+    "sanitation_f": 0,
+    "child_m": 7.0136,
+    "clean_fuels": 38.95,
+    "elect_rural": 21.71871119
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2010,
+    "water_source": 45.5,
+    "sanitation_f": 7.9,
+    "child_m": 6.9137,
+    "clean_fuels": 1.66,
+    "elect_rural": 3.7
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2011,
+    "water_source": 45.5,
+    "sanitation_f": 8,
+    "child_m": 6.6486,
+    "clean_fuels": 1.74,
+    "elect_rural": 4.1
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2012,
+    "water_source": 45.5,
+    "sanitation_f": 8.1,
+    "child_m": 6.4111,
+    "clean_fuels": 1.85,
+    "elect_rural": 3.6
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2013,
+    "water_source": 45.5,
+    "sanitation_f": 8.1,
+    "child_m": 6.1976,
+    "clean_fuels": 1.93,
+    "elect_rural": 4.2
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2014,
+    "water_source": 45.5,
+    "sanitation_f": 8.2,
+    "child_m": 6.0032,
+    "clean_fuels": 2,
+    "elect_rural": 4.250377091
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "year": 2015,
+    "water_source": 45.5,
+    "sanitation_f": 8.3,
+    "child_m": 5.8245,
+    "clean_fuels": 2.15,
+    "elect_rural": 9
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2010,
+    "water_source": 42.3,
+    "sanitation_f": 3.7,
+    "child_m": 8.9849,
+    "clean_fuels": 4.02,
+    "elect_rural": 5.954557326
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2011,
+    "water_source": 42.7,
+    "sanitation_f": 3.6,
+    "child_m": 8.7267,
+    "clean_fuels": 4.52,
+    "elect_rural": 10.2
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2012,
+    "water_source": 43.1,
+    "sanitation_f": 3.4,
+    "child_m": 8.5061,
+    "clean_fuels": 4.88,
+    "elect_rural": 16.05482263
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2013,
+    "water_source": 43.5,
+    "sanitation_f": 3.2,
+    "child_m": 8.3057,
+    "clean_fuels": 5.37,
+    "elect_rural": 16.93424248
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2014,
+    "water_source": 43.8,
+    "sanitation_f": 3.1,
+    "child_m": 8.1189,
+    "clean_fuels": 5.78,
+    "elect_rural": 16.3
+  },
+  {
+    "country": "Togo",
+    "code": "TGO",
+    "year": 2015,
+    "water_source": 44.2,
+    "sanitation_f": 2.9,
+    "child_m": 7.941,
+    "clean_fuels": 6.24,
+    "elect_rural": 18.60855415
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2010,
+    "water_source": 69.1,
+    "sanitation_f": 16.3,
+    "child_m": 9.7229,
+    "clean_fuels": 0.83,
+    "elect_rural": 8.879129449
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2011,
+    "water_source": 70.8,
+    "sanitation_f": 16.5,
+    "child_m": 9.4836,
+    "clean_fuels": 0.84,
+    "elect_rural": 5.3
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2012,
+    "water_source": 72.5,
+    "sanitation_f": 16.8,
+    "child_m": 9.2647,
+    "clean_fuels": 0.81,
+    "elect_rural": 9.979819556
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2013,
+    "water_source": 74.2,
+    "sanitation_f": 17,
+    "child_m": 9.0631,
+    "clean_fuels": 0.78,
+    "elect_rural": 6.927718792
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2014,
+    "water_source": 75.8,
+    "sanitation_f": 17.3,
+    "child_m": 8.8738,
+    "clean_fuels": 0.78,
+    "elect_rural": 10.3
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "year": 2015,
+    "water_source": 75.8,
+    "sanitation_f": 17.3,
+    "child_m": 8.6909,
+    "clean_fuels": 0.76,
+    "elect_rural": 9
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2010,
+    "water_source": 45.8,
+    "sanitation_f": 34.3,
+    "child_m": 8.8678,
+    "clean_fuels": 15.47,
+    "elect_rural": 3.1
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2011,
+    "water_source": 46.9,
+    "sanitation_f": 34.6,
+    "child_m": 8.5039,
+    "clean_fuels": 15.71,
+    "elect_rural": 3.520579529
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2012,
+    "water_source": 48,
+    "sanitation_f": 34.9,
+    "child_m": 8.1665,
+    "clean_fuels": 15.9,
+    "elect_rural": 3.379384067
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2013,
+    "water_source": 49.1,
+    "sanitation_f": 35.2,
+    "child_m": 7.8529,
+    "clean_fuels": 15.99,
+    "elect_rural": 3.226658267
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2014,
+    "water_source": 50.2,
+    "sanitation_f": 35.4,
+    "child_m": 7.5608,
+    "clean_fuels": 16.23,
+    "elect_rural": 3.8
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "year": 2015,
+    "water_source": 51.3,
+    "sanitation_f": 35.7,
+    "child_m": 7.2873,
+    "clean_fuels": 16.31,
+    "elect_rural": 3.7
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2010,
+    "water_source": 68.1,
+    "sanitation_f": 31.7,
+    "child_m": 7.6463,
+    "clean_fuels": 30.46,
+    "elect_rural": 11.6285987
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2011,
+    "water_source": 67.9,
+    "sanitation_f": 31.5,
+    "child_m": 7.2803,
+    "clean_fuels": 30.27,
+    "elect_rural": 13.3
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2012,
+    "water_source": 67.8,
+    "sanitation_f": 31.3,
+    "child_m": 6.9456,
+    "clean_fuels": 30.02,
+    "elect_rural": 12.98164418
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2013,
+    "water_source": 67.6,
+    "sanitation_f": 31.2,
+    "child_m": 6.6476,
+    "clean_fuels": 29.88,
+    "elect_rural": 13.66991771
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2014,
+    "water_source": 67.5,
+    "sanitation_f": 31,
+    "child_m": 6.3919,
+    "clean_fuels": 29.63,
+    "elect_rural": 9.8
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "year": 2015,
+    "water_source": 67.3,
+    "sanitation_f": 30.8,
+    "child_m": 6.1797,
+    "clean_fuels": 29.36,
+    "elect_rural": 9.7
+  }
+]

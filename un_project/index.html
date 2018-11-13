@@ -7,9 +7,78 @@
     <title>UN SD Africa</title>
     <link rel="stylesheet" href="style.css" type="text/css" />
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="libraries/jquery.min.js"></script>
+    <script src="libraries/bootstrap.min.js"></script>
+    <script src="libraries/jquery-ui.min.js"></script>
 </head>
 <body onresize='window.location.reload(true)'>
-    
+    <select name="select"></select>
+    <div id="wrapper1">
+        <div id="y2010">
+            <p>2010</p>
+            <div class="slidecontainer">
+              <input type="range" min="1" max="100" value="50">
+            </div>    
+        </div>
+        <div class="yearCell energy">
+            <p>16%</p>
+        </div>
+        <div class="yearCell energy">
+            <p>44%</p>
+        </div>
+        <div class="yearCell children">
+            <p>11.5%</p>
+        </div>
+        <div class="yearCell sanitary">
+            <p>20.2%</p>
+        </div>
+        <div class="yearCell sanitary">
+            <p>30.6%</p>
+        </div>
+    </div> 
+    <div id="wrapper2">
+        <div>
+            <p id="access">Access to</p>
+        </div>
+        <div class="label energyp">
+            <p>Electricity</p>
+        </div>
+        <div class="label energyp">
+            <p>Clean Technologies<br>for Cooking</p>
+        </div>
+        <div class="label childrenp">
+            <p>Children Mortality</p>
+        </div>
+        <div class="label sanitaryp">
+            <p>Sanitation Facilities</p>
+        </div>
+        <div class="label sanitaryp">
+            <p>Clean Water Sources</p>
+        </div>
+    </div>    
+    <div id="wrapper3">
+        <div id="y2015">
+            <p>2015</p>
+             <div class="slidecontainer">
+                <input type="range" min="1" max="100" value="50">
+            </div> 
+        </div>
+        <div class="yearCell energy">
+            <p>7%</p>
+        </div>
+        <div class="yearCell energy">
+            <p>47%</p>
+        </div>
+        <div class="yearCell children">
+            <p>9.4%</p>
+        </div>
+        <div class="yearCell sanitary">
+            <p>22.5%</p>
+        </div>
+        <div class="yearCell sanitary">
+            <p>28%</p>
+        </div>
+    </div>    
 <script type="text/javascript" src="sketch.js"></script>
 </body>
 </html>

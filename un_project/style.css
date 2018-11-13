@@ -17,15 +17,22 @@ body {
 
 
 select {
-  width: 95%;
-  height: 115px;
+  width: 94%;
+  height: 70px;
   border-radius: 5px;
   border: 1px solid #F3E8E2;
   background-color:#212338;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-left: 20px;
   color: #F3E8E2;
-  font-size: 80px;
+  font-size: 50px;
+  text-align: center;
+  text-align-last: center;
+  text-indent: 50px;
+}
+
+select.inpSelect {
+  display: none; 
 }
 
 
@@ -35,37 +42,56 @@ select:focus {
 
 
 #y2010, #y2015 {
-  font-size: 50px;
-  margin-left: 20px;
+  font-size: 25px;
+  margin-top: 50px;
+  color:#F3E8E2;
 }
 
 
-#y2010, #wrapper1 {
-  color: #FEC196;  
-}
-
-
-#y2015, #wrapper2 {
-  color: #91C7B1;
-  
-}
-
-
-#wrapper1, #wrapper2 {
-  margin-top: 70px;
+#wrapper1, #wrapper2, #wrapper3 {
+  margin-top: 50px;
 	width: 95%;
 	display: grid;
   grid-gap: 10px;
-	grid-template-columns: repeat(6, auto);
+	grid-template-columns: repeat(6, 173px);
 	font-size: 50px;
 	text-align: center;
 
 }
 
-
-.yearCell {
-  border: 1px solid #F3E8E2;
+#wrapper2 {
+  color: #F3E8E2;
+  font-size: 16px;
 }
+
+
+.energy {
+  border: 1px solid #91C7B1;
+  color: #91C7B1;
+}
+
+.sanitary {
+  border: 1px solid #F68E5F;
+  color: #F68E5F;
+}
+
+.children {
+  border: 1px solid #F3E8E2;
+    color: #F3E8E2;
+}
+
+.energyp {
+  color: #91C7B1;
+}
+
+.sanitaryp {
+  color: #F68E5F;
+}
+
+.childrenp {
+  color: #F3E8E2;
+}
+
 
  
 
