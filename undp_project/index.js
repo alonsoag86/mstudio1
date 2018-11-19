@@ -27,11 +27,9 @@ d3.csv('states_nigeriab.csv').then((data) => {
         d.home_d = +d.home_d;
         d.health_d = +d.health_d
   });
+  
   console.log(data)
-  let entries = d3.nest()
-  .key(function(d) { return d.background; })
-  .entries(data)
-  //console.log(entries)
+  
     
   svg(data)
   
@@ -106,29 +104,28 @@ let svg = (data) => {
         .attr('width', xScale.bandwidth() + 10)
           
           
-  const y = yScale(actual.home_d)
+        const y = yScale(actual.home_d)
       
-  line = graph1.append('line')
-    .attr('id', 'limit')
-    .attr('x1', 0)
-    .attr('y1', y)
-    .attr('x2', width)
-    .attr('y2', y)
+        line = graph1.append('line')
+          .attr('id', 'limit')
+          .attr('x1', 0)
+          .attr('y1', y)
+          .attr('x2', width)
+          .attr('y2', y)
 
-  barGroups.append('text')
-    .attr('class', 'divergence')
-    .attr('x', (d) => xScale(d.place) + xScale.bandwidth() / 2)
-    .attr('y', (d) => yScale(d.home_d) + 30)
-    .attr('fill', 'white')
-    .attr('text-anchor', 'middle')
-    .text((d, idx) => {
-        const divergence = (d.home_d - actual.home_d).toFixed(1)
+        barGroups.append('text')
+          .attr('class', 'divergence')
+          .attr('x', (d) => xScale(d.place) + xScale.bandwidth() / 2)
+          .attr('y', (d) => yScale(d.home_d) + 30)
+          .attr('fill', '#f0f8ff')
+          .attr('text-anchor', 'middle')
+          .text((d, idx) => {
+            const divergence = (d.home_d - actual.home_d).toFixed(1)
         //console.log(divergence)
-            
-        let text = ''
-        if (divergence > 0) text += '+'
-        text += `${divergence}%`
-            return idx !== i ? text : '';
+            let text = ''
+            if (divergence > 0) text += '+'
+            text += `${divergence}%`
+              return idx !== i ? text : '';
           })
       })
 
@@ -160,12 +157,18 @@ let svg = (data) => {
    graph1.append('text')
       .attr('id', 'g-one')
       .attr('x', width / 2)
-      .attr('y', 0)
+      .attr('y', -5)
       .attr('text-anchor', 'middle')
       .text('Home Deliveries by Region')
+      
+      
 }
 
 
+d3.json('nigeria.geo.json').then((geojson) => {
+  
+console.log(geojson);  
 
-
+  
+})
 
