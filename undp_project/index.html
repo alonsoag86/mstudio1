@@ -5,9 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>UNDP Regional Bureau for Africa</title>
-    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- jQuery UI CSS -->
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.theme.min.css">
+    <link rel="stylesheet" href="css/jquery-ui-slider-pips.css">
+    <!-- D3 Tooltip CSS -->
+    <link rel="stylesheet" href="css/d3-tip.css">
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
     <script src="https://d3js.org/d3.v5.min.js"></script>
-
 </head>
 
 <body onresize='window.location.reload(true)'>
@@ -16,57 +23,85 @@
 
 
 <section data-page="1 / 4">
-    <div class="title"> Neonatal and Under Five Mortality Rate in Nigeria </div>
-    <div class="content" id="intro">According to <a href="https://www.unicef.org/nigeria/media_11974.html">UNICEF</a>, global deaths of newborn babies remain alarmingly high. 
-    This trend is particularly true in low-income countries. Sub-Saharan Africa is the region that 
-    registers more cases of neonatal deaths around the world and Nigeria is one of the countries of major concern. 
-    With the newborn mortality rate of <span>29 deaths per 1,000 births</span>, the global estimates rank Nigeria as the 11th 
-    highest on newborn deaths. Nigeria is also one of the six countries that account for <span>half of the global under-fve deaths.</span>   
-    The following project aims to explore if there is a relationship between access to electricity, ARI symptoms, sanitation facilities, 
-    improved water sources and the neonatal and under five mortality rate in this country. 
+    <div id=undpintro>
+    <div class="title"> Access to Electricity, Clean Cooking Technologies and Under Five Mortality Rate in Africa </div>
+    <div class="content" id="intro">According to the <a href="https://www.who.int/gho/child_health/mortality/mortality_under_five_text/en/">WHO</a>, 
+    Africa remains the region were the risk of dying before completing five years of age remains the highest in the world. 
+    The continent is home to five of the six countries with an under five mortality rate <span>above 100 deaths per 1000 live births</span>.
+    As part of the SDG agenda, the <a href="https://www.who.int/sdg/targets/en/">UN</a> has set the goal of reducing the
+    under five mortality rate to at least as low as 25 per 1000 live births. The following project explores the relationship 
+    between access to electricity, clean cooking technologies, under five morality rate in Africa and how have they changed over time.
+    </div>
     </div>
 </section>
 
 <section class="s2" data-page="2 / 4">
-    <div class="subtitle"> Where do Nigerian Women Give Birth?</div>
-    <div id="section2">
-        <div class="content2" id="wrapper1">
-            <div class="max"></div>
-            <div class="max">Urban</div>
-            <div class="max">Rural</div>
-            <div class="healthdata" class="max">
-                <p>Home Delivered</p>
+    <div class="subtitle"> Access to Electricity and Under Five Mortality Rate in Africa</div>
+    <!-- Bootstrap grid setup -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div id="slider-div">
+                    <div id="date-slider"></div>
+                </div>
             </div>
-            <div class="urbanp">
-                <p class="urbandata">37.4%</p>
-            </div>
-            <div  class="ruralp">
-                <p class="ruraldata">76.9%</p>
-            </div>
-            <div class="healthdata" clqss="max">
-                <p>Health Facility</p>
-            </div>
-            <div class="urbanp">
-                <p class="urbandata">61.7%</p>
-            </div>
-            <div class="ruralp">
-                <p class="ruraldata">21.9%</p>
+            <div class="col-md-4">
+                <select id="region-select" class="form-control">
+                    <option selected value="all">All Regions</option>
+                    <option value="North Africa">North Africa</option>
+                    <option value="Southern Africa">Southern Africa</option>
+                    <option value="East Africa">East Africa</option>
+                    <option value="West Africa">West Africa</option>
+                    <option value="Central Africa">Central Africa</option>
+                </select>
             </div>
         </div>
-	    <div class="content" id="graph1">
-	        
+        <div class="row">
+            <div class="col-md-12">
+                <div id="chart-area"></div>                 
+            </div> 
         </div>
     </div>
 </section>
 
-<section class="s3" data-page="3 / 4">
-  <div class="subtitle"> The State of the Nigerian Households: Factors that May Cause Neonatal and Under Five Deaths</div>
-  <div class="content"> <a href="https://alonsoag86.github.io/mstudio1/undp_project/undp_part2.png"> link to second part </a></div>
-  <div class="content" id="graph2">
-  </div>
+
+<section class="s3" data-page="2 / 4">
+    <div class="subtitle"> Access to Clean Cooking Technologies and Under Five Mortality Rate in Africa</div>
+    <!-- Bootstrap grid setup -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div id="slider2-div">
+                    <div id="date2-slider"></div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <select id="region-select2" class="form-control">
+                    <option selected value="all">All Regions</option>
+                    <option value="North Africa">North Africa</option>
+                    <option value="Southern Africa">Southern Africa</option>
+                    <option value="East Africa">East Africa</option>
+                    <option value="West Africa">West Africa</option>
+                    <option value="Central Africa">Central Africa</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="chart2-area"></div>                 
+            </div> 
+        </div>
+    </div>
 </section>
 
-<script src="index.js"></script>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/jquery-ui-slider-pips.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/d3.min.js"></script>
+<script src="js/d3-tip.js"></script>
+<script src="js/index.js"></script>
 </body>
 </html>
 

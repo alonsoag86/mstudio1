@@ -1,0 +1,7415 @@
+[{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 86.47,
+				"underfive": 3.97,
+				"year": 2000,
+				"population": 31183660
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 37.27,
+				"underfive": 20.63,
+				"year": 2000,
+				"population": 16440924
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 1.83,
+				"underfive": 14.32,
+				"year": 2000,
+				"population": 6865951
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 45.12,
+				"underfive": 8.7,
+				"year": 2000,
+				"population": 1728340
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 2.83,
+				"underfive": 18.04,
+				"year": 2000,
+				"population": 11607942
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.62,
+				"underfive": 15.67,
+				"year": 2000,
+				"population": 6400706
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 9.88,
+				"underfive": 15.03,
+				"year": 2000,
+				"population": 15274234
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 56.79,
+				"underfive": 3.55,
+				"year": 2000,
+				"population": 435079
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.57,
+				"underfive": 17.52,
+				"year": 2000,
+				"population": 3754986
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.29,
+				"underfive": 18.65,
+				"year": 2000,
+				"population": 8342559
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 0.63,
+				"underfive": 10.11,
+				"year": 2000,
+				"population": 542357
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.57,
+				"underfive": 16.13,
+				"year": 2000,
+				"population": 47076387
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 10,
+				"underfive": 11.43,
+				"year": 2000,
+				"population": 3225727
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.41056347,
+				"underfive": 14.68,
+				"year": 2000,
+				"population": 16686561
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 5.3,
+				"underfive": 10.15,
+				"year": 2000,
+				"population": 717584
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 83.28,
+				"underfive": 4.68,
+				"year": 2000,
+				"population": 69905988
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 22.97,
+				"underfive": 15.64,
+				"year": 2000,
+				"population": 614323
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 6.08,
+				"underfive": 8.84,
+				"year": 2000,
+				"population": 3392801
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.07,
+				"underfive": 14.26,
+				"year": 2000,
+				"population": 66537331
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 58.72,
+				"underfive": 8.31,
+				"year": 2000,
+				"population": 1231122
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.19,
+				"underfive": 11.84,
+				"year": 2000,
+				"population": 1231844
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 5.89,
+				"underfive": 9.92,
+				"year": 2000,
+				"population": 18938762
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.15,
+				"underfive": 16.54,
+				"year": 2000,
+				"population": 8808546
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.38,
+				"underfive": 17.58,
+				"year": 2000,
+				"population": 1243229
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 1.99,
+				"underfive": 10.45,
+				"year": 2000,
+				"population": 31450483
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 18.14,
+				"underfive": 11.69,
+				"year": 2000,
+				"population": 1868699
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.62,
+				"underfive": 18.61,
+				"year": 2000,
+				"population": 2884522
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.81,
+				"year": 2000,
+				"population": 5355751
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.1,
+				"underfive": 10.71,
+				"year": 2000,
+				"population": 15766806
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.75,
+				"underfive": 17.19,
+				"year": 2000,
+				"population": 11376172
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.3,
+				"underfive": 21.95,
+				"year": 2000,
+				"population": 10967690
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 29.04,
+				"underfive": 11.38,
+				"year": 2000,
+				"population": 2709359
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 87.35,
+				"underfive": 1.85,
+				"year": 2000,
+				"population": 1186873
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 89.7,
+				"underfive": 4.98,
+				"year": 2000,
+				"population": 28849621
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.07,
+				"underfive": 17.04,
+				"year": 2000,
+				"population": 18067687
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 32.51,
+				"underfive": 7.62,
+				"year": 2000,
+				"population": 1899257
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.01,
+				"underfive": 22.37,
+				"year": 2000,
+				"population": 11352973
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 0.84,
+				"underfive": 18.62,
+				"year": 2000,
+				"population": 122352009
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.29,
+				"underfive": 18.14,
+				"year": 2000,
+				"population": 8025703
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 17.66,
+				"underfive": 8.5,
+				"year": 2000,
+				"population": 138606
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.76,
+				"underfive": 13.17,
+				"year": 2000,
+				"population": 9884052
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 76.78,
+				"underfive": 1.36,
+				"year": 2000,
+				"population": 81131
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.15,
+				"underfive": 23.31,
+				"year": 2000,
+				"population": 4564297
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.64,
+				"underfive": 17.33,
+				"year": 2000,
+				"population": 9011479
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 56.43,
+				"underfive": 7.84,
+				"year": 2000,
+				"population": 45728315
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.5,
+				"underfive": 18.29,
+				"year": 2000,
+				"population": 6700656
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 14.21,
+				"underfive": 10.48,
+				"year": 2000,
+				"population": 27250535
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 27.24,
+				"underfive": 12.61,
+				"year": 2000,
+				"population": 1061468
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.08,
+				"underfive": 13.04,
+				"year": 2000,
+				"population": 34178042
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 0.34,
+				"underfive": 12.06,
+				"year": 2000,
+				"population": 4970367
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 93.3,
+				"underfive": 3.17,
+				"year": 2000,
+				"population": 9699197
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 1.01,
+				"underfive": 14.6,
+				"year": 2000,
+				"population": 24039274
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14,
+				"underfive": 16.51,
+				"year": 2000,
+				"population": 10531221
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 32.4,
+				"underfive": 10.18,
+				"year": 2000,
+				"population": 12222251
+			}
+		],
+		"year": 2000
+	},
+	{
+		"countries": [{
+
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 87.68,
+				"underfive": 3.89,
+				"year": 2001,
+				"population": 31592153
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 37.96,
+				"underfive": 20.03,
+				"year": 2001,
+				"population": 16983266
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 2.06,
+				"underfive": 13.95,
+				"year": 2001,
+				"population": 7076733
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 46.53,
+				"underfive": 8.65,
+				"year": 2001,
+				"population": 1754935
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 3.06,
+				"underfive": 17.65,
+				"year": 2001,
+				"population": 11944587
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.62,
+				"underfive": 15.1,
+				"year": 2001,
+				"population": 6555829
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 10.57,
+				"underfive": 14.72,
+				"year": 2001,
+				"population": 15671927
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 58.2,
+				"underfive": 3.19,
+				"year": 2001,
+				"population": 443716
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.6,
+				"underfive": 17.37,
+				"year": 2001,
+				"population": 3832203
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.26,
+				"underfive": 18.33,
+				"year": 2001,
+				"population": 8663012
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 0.75,
+				"underfive": 10.07,
+				"year": 2001,
+				"population": 555888
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.62,
+				"underfive": 15.7,
+				"year": 2001,
+				"population": 48394338
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 10.5,
+				"underfive": 11.19,
+				"year": 2001,
+				"population": 3315806
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.53943467,
+				"underfive": 14.35,
+				"year": 2001,
+				"population": 17040152
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 5.51,
+				"underfive": 9.93,
+				"year": 2001,
+				"population": 732711
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 85.24,
+				"underfive": 4.41,
+				"year": 2001,
+				"population": 71226940
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 23.27,
+				"underfive": 15.24,
+				"year": 2001,
+				"population": 639762
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 6.49,
+				"underfive": 8.4,
+				"year": 2001,
+				"population": 3497124
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.18,
+				"underfive": 13.66,
+				"year": 2001,
+				"population": 68492257
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 60.59,
+				"underfive": 8.16,
+				"year": 2001,
+				"population": 1262259
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.17,
+				"underfive": 11.4,
+				"year": 2001,
+				"population": 1270495
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 6.48,
+				"underfive": 9.59,
+				"year": 2001,
+				"population": 19421605
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.19,
+				"underfive": 15.78,
+				"year": 2001,
+				"population": 8971139
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.35,
+				"underfive": 17.02,
+				"year": 2001,
+				"population": 1267512
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 2.35,
+				"underfive": 10,
+				"year": 2001,
+				"population": 32321482
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 19.03,
+				"underfive": 11.96,
+				"year": 2001,
+				"population": 1885955
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.62,
+				"underfive": 17.34,
+				"year": 2001,
+				"population": 2991132
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.73,
+				"year": 2001,
+				"population": 5440566
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.11,
+				"underfive": 10.13,
+				"year": 2001,
+				"population": 16260932
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.77,
+				"underfive": 15.96,
+				"year": 2001,
+				"population": 11695863
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.28,
+				"underfive": 21.12,
+				"year": 2001,
+				"population": 11293258
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 30.08,
+				"underfive": 11.36,
+				"year": 2001,
+				"population": 2790729
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 87.68,
+				"underfive": 1.71,
+				"year": 2001,
+				"population": 1196287
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 90.68,
+				"underfive": 4.76,
+				"year": 2001,
+				"population": 29181832
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.08,
+				"underfive": 16.18,
+				"year": 2001,
+				"population": 18588758
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 33.22,
+				"underfive": 7.66,
+				"year": 2001,
+				"population": 1933596
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.07,
+				"underfive": 21.38,
+				"year": 2001,
+				"population": 11771976
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 0.92,
+				"underfive": 18.06,
+				"year": 2001,
+				"population": 125463434
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.31,
+				"underfive": 16.85,
+				"year": 2001,
+				"population": 8329406
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 18.54,
+				"underfive": 8.01,
+				"year": 2001,
+				"population": 141622
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.54,
+				"underfive": 12.51,
+				"year": 2001,
+				"population": 10134497
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 78.21,
+				"underfive": 1.37,
+				"year": 2001,
+				"population": 81202
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.17,
+				"underfive": 22.77,
+				"year": 2001,
+				"population": 4739147
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.69,
+				"underfive": 17.33,
+				"year": 2001,
+				"population": 9290823
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 58.81,
+				"underfive": 8.09,
+				"year": 2001,
+				"population": 46385006
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.51,
+				"underfive": 17.34,
+				"year": 2001,
+				"population": 6974442
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 15.25,
+				"underfive": 10.15,
+				"year": 2001,
+				"population": 27945005
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 28.72,
+				"underfive": 12.96,
+				"year": 2001,
+				"population": 1072927
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.1,
+				"underfive": 12.26,
+				"year": 2001,
+				"population": 35117019
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 0.48,
+				"underfive": 11.73,
+				"year": 2001,
+				"population": 5111770
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 94.3,
+				"underfive": 2.97,
+				"year": 2001,
+				"population": 9785701
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.98,
+				"underfive": 13.95,
+				"year": 2001,
+				"population": 24854892
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.11,
+				"underfive": 15.59,
+				"year": 2001,
+				"population": 10824125
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 32.25,
+				"underfive": 10.08,
+				"year": 2001,
+				"population": 12366165
+			}
+		],
+		"year": 2001
+	},
+	{
+		"countries": [{
+
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 88.87,
+				"underfive": 3.78,
+				"year": 2002,
+				"population": 31995046
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 38.49,
+				"underfive": 19.34,
+				"year": 2002,
+				"population": 17572649
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 2.28,
+				"underfive": 13.55,
+				"year": 2002,
+				"population": 7295394
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 47.72,
+				"underfive": 8.45,
+				"year": 2002,
+				"population": 1779953
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 3.35,
+				"underfive": 17.22,
+				"year": 2002,
+				"population": 12293100
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.63,
+				"underfive": 14.51,
+				"year": 2002,
+				"population": 6741569
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 11.27,
+				"underfive": 14.36,
+				"year": 2002,
+				"population": 16084886
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 59.38,
+				"underfive": 2.93,
+				"year": 2002,
+				"population": 452106
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.6,
+				"underfive": 17.2,
+				"year": 2002,
+				"population": 3907612
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.28,
+				"underfive": 18,
+				"year": 2002,
+				"population": 9001689
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 0.9,
+				"underfive": 10.06,
+				"year": 2002,
+				"population": 569479
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.63,
+				"underfive": 15.26,
+				"year": 2002,
+				"population": 49835756
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 11.08,
+				"underfive": 10.77,
+				"year": 2002,
+				"population": 3407180
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.62071157,
+				"underfive": 14,
+				"year": 2002,
+				"population": 17366517
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 5.74,
+				"underfive": 9.68,
+				"year": 2002,
+				"population": 746221
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 87.71,
+				"underfive": 4.18,
+				"year": 2002,
+				"population": 72590118
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 24.33,
+				"underfive": 14.8,
+				"year": 2002,
+				"population": 666407
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 7.07,
+				"underfive": 7.98,
+				"year": 2002,
+				"population": 3614639
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.31,
+				"underfive": 13.04,
+				"year": 2002,
+				"population": 70497192
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 62.4,
+				"underfive": 8,
+				"year": 2002,
+				"population": 1294409
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.17,
+				"underfive": 10.97,
+				"year": 2002,
+				"population": 1311349
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 7.15,
+				"underfive": 9.28,
+				"year": 2002,
+				"population": 19924522
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.18,
+				"underfive": 15.04,
+				"year": 2002,
+				"population": 9137345
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.39,
+				"underfive": 16.43,
+				"year": 2002,
+				"population": 1293523
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 2.68,
+				"underfive": 9.51,
+				"year": 2002,
+				"population": 33214009
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 20.61,
+				"underfive": 12.17,
+				"year": 2002,
+				"population": 1902312
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.59,
+				"underfive": 16.1,
+				"year": 2002,
+				"population": 3062863
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.64,
+				"year": 2002,
+				"population": 5527515
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.1,
+				"underfive": 9.58,
+				"year": 2002,
+				"population": 16765117
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.83,
+				"underfive": 14.64,
+				"year": 2002,
+				"population": 12013711
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.25,
+				"underfive": 20.18,
+				"year": 2002,
+				"population": 11638929
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 31.23,
+				"underfive": 11.32,
+				"year": 2002,
+				"population": 2873228
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 88.69,
+				"underfive": 1.61,
+				"year": 2002,
+				"population": 1204621
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 91.49,
+				"underfive": 4.55,
+				"year": 2002,
+				"population": 29512368
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.13,
+				"underfive": 15.4,
+				"year": 2002,
+				"population": 19139658
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 33.76,
+				"underfive": 7.65,
+				"year": 2002,
+				"population": 1962147
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.13,
+				"underfive": 20.31,
+				"year": 2002,
+				"population": 12206002
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.02,
+				"underfive": 17.49,
+				"year": 2002,
+				"population": 128666710
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.32,
+				"underfive": 15.39,
+				"year": 2002,
+				"population": 8536205
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 19.08,
+				"underfive": 7.53,
+				"year": 2002,
+				"population": 144889
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.82,
+				"underfive": 11.73,
+				"year": 2002,
+				"population": 10396861
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 79.83,
+				"underfive": 1.37,
+				"year": 2002,
+				"population": 83723
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.19,
+				"underfive": 22.2,
+				"year": 2002,
+				"population": 4957216
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.75,
+				"underfive": 17.33,
+				"year": 2002,
+				"population": 9564167
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 61.01,
+				"underfive": 8.3,
+				"year": 2002,
+				"population": 47026173
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.51,
+				"underfive": 16.44,
+				"year": 2002,
+				"population": 7237276
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 16.57,
+				"underfive": 9.81,
+				"year": 2002,
+				"population": 28679565
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 29.98,
+				"underfive": 13.16,
+				"year": 2002,
+				"population": 1080930
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.15,
+				"underfive": 11.47,
+				"year": 2002,
+				"population": 36105808
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 0.66,
+				"underfive": 11.41,
+				"year": 2002,
+				"population": 5251472
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 95.05,
+				"underfive": 2.78,
+				"year": 2002,
+				"population": 9864326
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.99,
+				"underfive": 13.21,
+				"year": 2002,
+				"population": 25718048
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.3,
+				"underfive": 14.43,
+				"year": 2002,
+				"population": 11120409
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 32.18,
+				"underfive": 10.01,
+				"year": 2002,
+				"population": 12500525
+			}
+		],
+		"year": 2002
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 89.4,
+				"underfive": 3.65,
+				"year": 2003,
+				"population": 32403514
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 39.24,
+				"underfive": 18.57,
+				"year": 2003,
+				"population": 18203369
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 2.58,
+				"underfive": 13.14,
+				"year": 2003,
+				"population": 7520555
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 49.24,
+				"underfive": 8.19,
+				"year": 2003,
+				"population": 1804339
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 3.57,
+				"underfive": 16.71,
+				"year": 2003,
+				"population": 12654621
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.64,
+				"underfive": 13.9,
+				"year": 2003,
+				"population": 6953113
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 11.91,
+				"underfive": 13.98,
+				"year": 2003,
+				"population": 16513822
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 60.37,
+				"underfive": 2.77,
+				"year": 2003,
+				"population": 460147
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.61,
+				"underfive": 17.02,
+				"year": 2003,
+				"population": 3981665
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.21,
+				"underfive": 17.65,
+				"year": 2003,
+				"population": 9353201
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 1.06,
+				"underfive": 10.01,
+				"year": 2003,
+				"population": 583211
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.61,
+				"underfive": 14.79,
+				"year": 2003,
+				"population": 51390033
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 11.76,
+				"underfive": 10.2,
+				"year": 2003,
+				"population": 3502519
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.66356134,
+				"underfive": 13.65,
+				"year": 2003,
+				"population": 17679355
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 6.02,
+				"underfive": 9.43,
+				"year": 2003,
+				"population": 758615
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 88.85,
+				"underfive": 3.96,
+				"year": 2003,
+				"population": 73981942
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 24.82,
+				"underfive": 14.37,
+				"year": 2003,
+				"population": 694611
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 7.56,
+				"underfive": 7.59,
+				"year": 2003,
+				"population": 3738265
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.46,
+				"underfive": 12.4,
+				"year": 2003,
+				"population": 72545144
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 64.33,
+				"underfive": 7.83,
+				"year": 2003,
+				"population": 1328146
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.16,
+				"underfive": 10.55,
+				"year": 2003,
+				"population": 1354194
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 7.76,
+				"underfive": 9.01,
+				"year": 2003,
+				"population": 20446782
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.21,
+				"underfive": 14.35,
+				"year": 2003,
+				"population": 9309848
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.39,
+				"underfive": 15.82,
+				"year": 2003,
+				"population": 1321202
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 3.15,
+				"underfive": 8.99,
+				"year": 2003,
+				"population": 34130852
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 21.48,
+				"underfive": 12.33,
+				"year": 2003,
+				"population": 1918097
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.62,
+				"underfive": 14.91,
+				"year": 2003,
+				"population": 3116233
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.55,
+				"year": 2003,
+				"population": 5615952
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.08,
+				"underfive": 9.07,
+				"year": 2003,
+				"population": 17279141
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.91,
+				"underfive": 13.37,
+				"year": 2003,
+				"population": 12336687
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.24,
+				"underfive": 19.17,
+				"year": 2003,
+				"population": 12005128
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 32.34,
+				"underfive": 11.25,
+				"year": 2003,
+				"population": 2957117
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 89.24,
+				"underfive": 1.56,
+				"year": 2003,
+				"population": 1213370
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 92.19,
+				"underfive": 4.36,
+				"year": 2003,
+				"population": 29843937
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.09,
+				"underfive": 14.67,
+				"year": 2003,
+				"population": 19716598
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 34.64,
+				"underfive": 7.6,
+				"year": 2003,
+				"population": 1986535
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.14,
+				"underfive": 19.18,
+				"year": 2003,
+				"population": 12656870
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.1,
+				"underfive": 16.91,
+				"year": 2003,
+				"population": 131972533
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.34,
+				"underfive": 13.89,
+				"year": 2003,
+				"population": 8680346
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 20.03,
+				"underfive": 7.06,
+				"year": 2003,
+				"population": 148372
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.74,
+				"underfive": 10.92,
+				"year": 2003,
+				"population": 10670990
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 81.03,
+				"underfive": 1.38,
+				"year": 2003,
+				"population": 82781
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.22,
+				"underfive": 21.6,
+				"year": 2003,
+				"population": 5199549
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.82,
+				"underfive": 17.33,
+				"year": 2003,
+				"population": 9836397
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 63.29,
+				"underfive": 8.43,
+				"year": 2003,
+				"population": 47648727
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.52,
+				"underfive": 15.57,
+				"year": 2003,
+				"population": 7501642
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 17.77,
+				"underfive": 9.48,
+				"year": 2003,
+				"population": 29435944
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 31.63,
+				"underfive": 13.24,
+				"year": 2003,
+				"population": 1087392
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.2,
+				"underfive": 10.72,
+				"year": 2003,
+				"population": 37149072
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 0.9,
+				"underfive": 11.08,
+				"year": 2003,
+				"population": 5391401
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 95.76,
+				"underfive": 2.61,
+				"year": 2003,
+				"population": 9939678
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.93,
+				"underfive": 12.44,
+				"year": 2003,
+				"population": 26624820
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.46,
+				"underfive": 13.27,
+				"year": 2003,
+				"population": 11421984
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 32.01,
+				"underfive": 9.94,
+				"year": 2003,
+				"population": 12633897
+			}
+		],
+		"year": 2003
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 90.3,
+				"underfive": 3.5,
+				"year": 2004,
+				"population": 32831096
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 39.94,
+				"underfive": 17.7,
+				"year": 2004,
+				"population": 18865716
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 2.89,
+				"underfive": 12.75,
+				"year": 2004,
+				"population": 7750004
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 50.64,
+				"underfive": 7.82,
+				"year": 2004,
+				"population": 1829330
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 3.85,
+				"underfive": 16.11,
+				"year": 2004,
+				"population": 13030569
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.65,
+				"underfive": 13.25,
+				"year": 2004,
+				"population": 7182451
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 12.64,
+				"underfive": 13.6,
+				"year": 2004,
+				"population": 16959081
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 61.44,
+				"underfive": 2.67,
+				"year": 2004,
+				"population": 467664
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.64,
+				"underfive": 16.83,
+				"year": 2004,
+				"population": 4055036
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.22,
+				"underfive": 17.32,
+				"year": 2004,
+				"population": 9710043
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 1.29,
+				"underfive": 9.91,
+				"year": 2004,
+				"population": 597228
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.61,
+				"underfive": 14.31,
+				"year": 2004,
+				"population": 53034217
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 12.52,
+				"underfive": 9.56,
+				"year": 2004,
+				"population": 3605439
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.67715716,
+				"underfive": 13.27,
+				"year": 2004,
+				"population": 17997738
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 6.23,
+				"underfive": 9.17,
+				"year": 2004,
+				"population": 770752
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 90.28,
+				"underfive": 3.78,
+				"year": 2004,
+				"population": 75381899
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 25.71,
+				"underfive": 13.93,
+				"year": 2004,
+				"population": 724817
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 7.88,
+				"underfive": 7.24,
+				"year": 2004,
+				"population": 3858623
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.58,
+				"underfive": 11.75,
+				"year": 2004,
+				"population": 74624405
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 65.35,
+				"underfive": 7.65,
+				"year": 2004,
+				"population": 1364205
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.18,
+				"underfive": 10.14,
+				"year": 2004,
+				"population": 1398573
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 8.54,
+				"underfive": 8.78,
+				"year": 2004,
+				"population": 20986536
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.25,
+				"underfive": 13.71,
+				"year": 2004,
+				"population": 9490229
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.35,
+				"underfive": 15.19,
+				"year": 2004,
+				"population": 1350345
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 3.65,
+				"underfive": 8.47,
+				"year": 2004,
+				"population": 35074931
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 23.05,
+				"underfive": 12.4,
+				"year": 2004,
+				"population": 1933728
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.63,
+				"underfive": 13.8,
+				"year": 2004,
+				"population": 3176414
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.44,
+				"year": 2004,
+				"population": 5704759
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.03,
+				"underfive": 8.6,
+				"year": 2004,
+				"population": 17802997
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.94,
+				"underfive": 12.26,
+				"year": 2004,
+				"population": 12676038
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.17,
+				"underfive": 18.14,
+				"year": 2004,
+				"population": 12391906
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 33.48,
+				"underfive": 11.15,
+				"year": 2004,
+				"population": 3042823
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 90.09,
+				"underfive": 1.55,
+				"year": 2004,
+				"population": 1221003
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 93.08,
+				"underfive": 4.17,
+				"year": 2004,
+				"population": 30179285
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.11,
+				"underfive": 14,
+				"year": 2004,
+				"population": 20312705
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 35.13,
+				"underfive": 7.49,
+				"year": 2004,
+				"population": 2009228
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.25,
+				"underfive": 18.04,
+				"year": 2004,
+				"population": 13127012
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.26,
+				"underfive": 16.32,
+				"year": 2004,
+				"population": 135393616
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.35,
+				"underfive": 12.39,
+				"year": 2004,
+				"population": 8818438
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 20.47,
+				"underfive": 6.62,
+				"year": 2004,
+				"population": 151969
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.8,
+				"underfive": 10.13,
+				"year": 2004,
+				"population": 10955944
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 82.81,
+				"underfive": 1.39,
+				"year": 2004,
+				"population": 82475
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.24,
+				"underfive": 20.98,
+				"year": 2004,
+				"population": 5439695
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.88,
+				"underfive": 17.33,
+				"year": 2004,
+				"population": 10116228
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 65.6,
+				"underfive": 8.46,
+				"year": 2004,
+				"population": 48247395
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.54,
+				"underfive": 14.75,
+				"year": 2004,
+				"population": 7787655
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 19.14,
+				"underfive": 9.17,
+				"year": 2004,
+				"population": 30186341
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 32.96,
+				"underfive": 13.14,
+				"year": 2004,
+				"population": 1095053
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.28,
+				"underfive": 10.05,
+				"year": 2004,
+				"population": 38249984
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 1.21,
+				"underfive": 10.77,
+				"year": 2004,
+				"population": 5534598
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 96.34,
+				"underfive": 2.45,
+				"year": 2004,
+				"population": 10017601
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.94,
+				"underfive": 11.65,
+				"year": 2004,
+				"population": 27568436
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.58,
+				"underfive": 12.16,
+				"year": 2004,
+				"population": 11731746
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 31.77,
+				"underfive": 9.94,
+				"year": 2004,
+				"population": 12777511
+			}
+		],
+		"year": 2004
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 90.97,
+				"underfive": 3.35,
+				"year": 2005,
+				"population": 33288437
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 40.75,
+				"underfive": 16.78,
+				"year": 2005,
+				"population": 19552542
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 3.24,
+				"underfive": 12.39,
+				"year": 2005,
+				"population": 7982225
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 52.01,
+				"underfive": 7.2,
+				"year": 2005,
+				"population": 1855852
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 4.21,
+				"underfive": 15.41,
+				"year": 2005,
+				"population": 13421930
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.67,
+				"underfive": 12.54,
+				"year": 2005,
+				"population": 7423289
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 13.5,
+				"underfive": 13.22,
+				"year": 2005,
+				"population": 17420795
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 62.64,
+				"underfive": 2.63,
+				"year": 2005,
+				"population": 474567
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.63,
+				"underfive": 16.63,
+				"year": 2005,
+				"population": 4127910
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.21,
+				"underfive": 16.97,
+				"year": 2005,
+				"population": 10067009
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 1.53,
+				"underfive": 9.74,
+				"year": 2005,
+				"population": 611627
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.62,
+				"underfive": 13.83,
+				"year": 2005,
+				"population": 54751476
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 13.25,
+				"underfive": 8.87,
+				"year": 2005,
+				"population": 3718243
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.67066026,
+				"underfive": 12.88,
+				"year": 2005,
+				"population": 18336303
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 6.49,
+				"underfive": 8.93,
+				"year": 2005,
+				"population": 783254
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 91.98,
+				"underfive": 3.61,
+				"year": 2005,
+				"population": 76778149
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 26.39,
+				"underfive": 13.48,
+				"year": 2005,
+				"population": 757317
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 8.76,
+				"underfive": 6.9,
+				"year": 2005,
+				"population": 3969007
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.79,
+				"underfive": 11.1,
+				"year": 2005,
+				"population": 76727083
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 67.19,
+				"underfive": 7.45,
+				"year": 2005,
+				"population": 1403126
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.15,
+				"underfive": 9.75,
+				"year": 2005,
+				"population": 1444204
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 9.44,
+				"underfive": 8.57,
+				"year": 2005,
+				"population": 21542009
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.19,
+				"underfive": 13.14,
+				"year": 2005,
+				"population": 9679745
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.39,
+				"underfive": 14.55,
+				"year": 2005,
+				"population": 1380838
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 4.28,
+				"underfive": 7.92,
+				"year": 2005,
+				"population": 36048288
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 24.1,
+				"underfive": 12.38,
+				"year": 2005,
+				"population": 1949543
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.63,
+				"underfive": 12.83,
+				"year": 2005,
+				"population": 3261230
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.31,
+				"year": 2005,
+				"population": 5792688
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.02,
+				"underfive": 8.15,
+				"year": 2005,
+				"population": 18336724
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 1.98,
+				"underfive": 11.39,
+				"year": 2005,
+				"population": 13039711
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.18,
+				"underfive": 17.13,
+				"year": 2005,
+				"population": 12798763
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 34.51,
+				"underfive": 11,
+				"year": 2005,
+				"population": 3130720
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 90.43,
+				"underfive": 1.57,
+				"year": 2005,
+				"population": 1228254
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 93.62,
+				"underfive": 3.99,
+				"year": 2005,
+				"population": 30521070
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.21,
+				"underfive": 13.36,
+				"year": 2005,
+				"population": 20923070
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 35.87,
+				"underfive": 7.09,
+				"year": 2005,
+				"population": 2032196
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.26,
+				"underfive": 16.92,
+				"year": 2005,
+				"population": 13618449
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.39,
+				"underfive": 15.73,
+				"year": 2005,
+				"population": 138939478
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.37,
+				"underfive": 11.02,
+				"year": 2005,
+				"population": 8991735
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.26,
+				"underfive": 6.2,
+				"year": 2005,
+				"population": 155630
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.96,
+				"underfive": 9.4,
+				"year": 2005,
+				"population": 11251266
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 84.16,
+				"underfive": 1.4,
+				"year": 2005,
+				"population": 82858
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.27,
+				"underfive": 20.32,
+				"year": 2005,
+				"population": 5658379
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 0.95,
+				"underfive": 17.32,
+				"year": 2005,
+				"population": 10409925
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 67.53,
+				"underfive": 8.4,
+				"year": 2005,
+				"population": 48820586
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.53,
+				"underfive": 13.97,
+				"year": 2005,
+				"population": 8108877
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 20.58,
+				"underfive": 8.88,
+				"year": 2005,
+				"population": 30911914
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 34.57,
+				"underfive": 12.9,
+				"year": 2005,
+				"population": 1105873
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.35,
+				"underfive": 9.43,
+				"year": 2005,
+				"population": 39410545
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 1.59,
+				"underfive": 10.46,
+				"year": 2005,
+				"population": 5683268
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 96.85,
+				"underfive": 2.31,
+				"year": 2005,
+				"population": 10102482
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.91,
+				"underfive": 10.88,
+				"year": 2005,
+				"population": 28543940
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.73,
+				"underfive": 11.16,
+				"year": 2005,
+				"population": 12052156
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 31.64,
+				"underfive": 9.96,
+				"year": 2005,
+				"population": 12940032
+			}
+		],
+		"year": 2005
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 91.09,
+				"underfive": 3.21,
+				"year": 2006,
+				"population": 33777915
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 41.39,
+				"underfive": 15.82,
+				"year": 2006,
+				"population": 20262399
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 3.49,
+				"underfive": 12.1,
+				"year": 2006,
+				"population": 8216896
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 53,
+				"underfive": 6.57,
+				"year": 2006,
+				"population": 1884238
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 4.48,
+				"underfive": 14.65,
+				"year": 2006,
+				"population": 13829177
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.67,
+				"underfive": 11.8,
+				"year": 2006,
+				"population": 7675338
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 14.13,
+				"underfive": 12.82,
+				"year": 2006,
+				"population": 17899562
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 63.4,
+				"underfive": 2.62,
+				"year": 2006,
+				"population": 480795
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.69,
+				"underfive": 16.38,
+				"year": 2006,
+				"population": 4201758
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.19,
+				"underfive": 16.62,
+				"year": 2006,
+				"population": 10421597
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 1.82,
+				"underfive": 9.54,
+				"year": 2006,
+				"population": 626425
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.61,
+				"underfive": 13.36,
+				"year": 2006,
+				"population": 56543011
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 14.07,
+				"underfive": 8.22,
+				"year": 2006,
+				"population": 3842365
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.65323782,
+				"underfive": 12.5,
+				"year": 2006,
+				"population": 18699435
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 6.85,
+				"underfive": 8.67,
+				"year": 2006,
+				"population": 796208
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 93.14,
+				"underfive": 3.45,
+				"year": 2006,
+				"population": 78159048
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 27.12,
+				"underfive": 13.04,
+				"year": 2006,
+				"population": 792217
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 9.3,
+				"underfive": 6.59,
+				"year": 2006,
+				"population": 4066648
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 1.96,
+				"underfive": 10.49,
+				"year": 2006,
+				"population": 78850689
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 68.85,
+				"underfive": 7.27,
+				"year": 2006,
+				"population": 1444844
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.19,
+				"underfive": 9.37,
+				"year": 2006,
+				"population": 1491021
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 10.17,
+				"underfive": 8.37,
+				"year": 2006,
+				"population": 22113425
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.23,
+				"underfive": 12.61,
+				"year": 2006,
+				"population": 9881428
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.4,
+				"underfive": 13.9,
+				"year": 2006,
+				"population": 1412669
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 4.93,
+				"underfive": 7.43,
+				"year": 2006,
+				"population": 37052050
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 25.29,
+				"underfive": 12.27,
+				"year": 2006,
+				"population": 1965662
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.63,
+				"underfive": 11.99,
+				"year": 2006,
+				"population": 3375838
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.17,
+				"year": 2006,
+				"population": 5881435
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.03,
+				"underfive": 7.73,
+				"year": 2006,
+				"population": 18880268
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.01,
+				"underfive": 10.77,
+				"year": 2006,
+				"population": 13429262
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.17,
+				"underfive": 16.24,
+				"year": 2006,
+				"population": 13227064
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 35.61,
+				"underfive": 10.8,
+				"year": 2006,
+				"population": 3220653
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 91.17,
+				"underfive": 1.6,
+				"year": 2006,
+				"population": 1233996
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 94,
+				"underfive": 3.82,
+				"year": 2006,
+				"population": 30869346
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.25,
+				"underfive": 12.73,
+				"year": 2006,
+				"population": 21547463
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 36.52,
+				"underfive": 6.61,
+				"year": 2006,
+				"population": 2055734
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.32,
+				"underfive": 15.85,
+				"year": 2006,
+				"population": 14132064
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.57,
+				"underfive": 15.15,
+				"year": 2006,
+				"population": 142614094
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.41,
+				"underfive": 9.83,
+				"year": 2006,
+				"population": 9206580
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.68,
+				"underfive": 5.82,
+				"year": 2006,
+				"population": 159328
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 32.19,
+				"underfive": 8.72,
+				"year": 2006,
+				"population": 11556763
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 84.74,
+				"underfive": 1.41,
+				"year": 2006,
+				"population": 84600
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.32,
+				"underfive": 19.61,
+				"year": 2006,
+				"population": 5848692
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.02,
+				"underfive": 17.26,
+				"year": 2006,
+				"population": 10718317
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 69.58,
+				"underfive": 8.15,
+				"year": 2006,
+				"population": 49364582
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.53,
+				"underfive": 13.25,
+				"year": 2006,
+				"population": 8468152
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 22.19,
+				"underfive": 8.61,
+				"year": 2006,
+				"population": 31607064
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 35.93,
+				"underfive": 11.99,
+				"year": 2006,
+				"population": 1120514
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.36,
+				"underfive": 8.93,
+				"year": 2006,
+				"population": 40634948
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 2.02,
+				"underfive": 10.17,
+				"year": 2006,
+				"population": 5837792
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 97.24,
+				"underfive": 2.18,
+				"year": 2006,
+				"population": 10196136
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.88,
+				"underfive": 10.16,
+				"year": 2006,
+				"population": 29550662
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 14.92,
+				"underfive": 10.33,
+				"year": 2006,
+				"population": 12383446
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 31.34,
+				"underfive": 10.03,
+				"year": 2006,
+				"population": 13124267
+			}
+		],
+		"year": 2006
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 91.56,
+				"underfive": 3.07,
+				"year": 2007,
+				"population": 34300076
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 41.91,
+				"underfive": 14.87,
+				"year": 2007,
+				"population": 20997687
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 3.91,
+				"underfive": 11.86,
+				"year": 2007,
+				"population": 8454791
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 54.39,
+				"underfive": 6.17,
+				"year": 2007,
+				"population": 1914414
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 4.8,
+				"underfive": 13.86,
+				"year": 2007,
+				"population": 14252021
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.69,
+				"underfive": 11.06,
+				"year": 2007,
+				"population": 7939573
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 15.06,
+				"underfive": 12.42,
+				"year": 2007,
+				"population": 18395389
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 64.56,
+				"underfive": 2.62,
+				"year": 2007,
+				"population": 486438
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.68,
+				"underfive": 16.13,
+				"year": 2007,
+				"population": 4275800
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.16,
+				"underfive": 16.23,
+				"year": 2007,
+				"population": 10775708
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 2.11,
+				"underfive": 9.3,
+				"year": 2007,
+				"population": 641620
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.65,
+				"underfive": 12.9,
+				"year": 2007,
+				"population": 58417562
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 14.86,
+				"underfive": 7.61,
+				"year": 2007,
+				"population": 3976246
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.63256097,
+				"underfive": 12.11,
+				"year": 2007,
+				"population": 19085941
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 7.17,
+				"underfive": 8.41,
+				"year": 2007,
+				"population": 809402
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 94,
+				"underfive": 3.3,
+				"year": 2007,
+				"population": 79537253
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 28.23,
+				"underfive": 12.6,
+				"year": 2007,
+				"population": 829327
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 9.96,
+				"underfive": 6.29,
+				"year": 2007,
+				"population": 4153332
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 2.1,
+				"underfive": 9.9,
+				"year": 2007,
+				"population": 81000409
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 69.84,
+				"underfive": 7.05,
+				"year": 2007,
+				"population": 1489193
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.14,
+				"underfive": 9.01,
+				"year": 2007,
+				"population": 1539116
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 11.04,
+				"underfive": 8.15,
+				"year": 2007,
+				"population": 22700212
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.25,
+				"underfive": 12.13,
+				"year": 2007,
+				"population": 10096727
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.41,
+				"underfive": 13.24,
+				"year": 2007,
+				"population": 1445958
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 5.65,
+				"underfive": 6.99,
+				"year": 2007,
+				"population": 38085909
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 26.69,
+				"underfive": 11.93,
+				"year": 2007,
+				"population": 1982287
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.64,
+				"underfive": 11.3,
+				"year": 2007,
+				"population": 3512932
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 2.02,
+				"year": 2007,
+				"population": 5970362
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 1.02,
+				"underfive": 7.33,
+				"year": 2007,
+				"population": 19433523
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.07,
+				"underfive": 10.31,
+				"year": 2007,
+				"population": 13840969
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.13,
+				"underfive": 15.46,
+				"year": 2007,
+				"population": 13675606
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 36.87,
+				"underfive": 10.57,
+				"year": 2007,
+				"population": 3312665
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 91.43,
+				"underfive": 1.61,
+				"year": 2007,
+				"population": 1239630
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 94.5,
+				"underfive": 3.66,
+				"year": 2007,
+				"population": 31225881
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.25,
+				"underfive": 12.05,
+				"year": 2007,
+				"population": 22188387
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 37.31,
+				"underfive": 6.09,
+				"year": 2007,
+				"population": 2079915
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.37,
+				"underfive": 14.87,
+				"year": 2007,
+				"population": 14668338
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.72,
+				"underfive": 14.57,
+				"year": 2007,
+				"population": 146417024
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.43,
+				"underfive": 8.81,
+				"year": 2007,
+				"population": 9447402
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.84,
+				"underfive": 5.46,
+				"year": 2007,
+				"population": 163101
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.85,
+				"underfive": 8.11,
+				"year": 2007,
+				"population": 11873557
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 85.78,
+				"underfive": 1.41,
+				"year": 2007,
+				"population": 85033
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.36,
+				"underfive": 18.86,
+				"year": 2007,
+				"population": 6015417
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.11,
+				"underfive": 17.05,
+				"year": 2007,
+				"population": 11038596
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 71.46,
+				"underfive": 7.54,
+				"year": 2007,
+				"population": 49887181
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.56,
+				"underfive": 12.57,
+				"year": 2007,
+				"population": 8856800
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 23.73,
+				"underfive": 8.35,
+				"year": 2007,
+				"population": 32282526
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 37.26,
+				"underfive": 11.34,
+				"year": 2007,
+				"population": 1138434
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.44,
+				"underfive": 8.47,
+				"year": 2007,
+				"population": 41923715
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 2.44,
+				"underfive": 9.87,
+				"year": 2007,
+				"population": 5997385
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 97.56,
+				"underfive": 2.05,
+				"year": 2007,
+				"population": 10298087
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.89,
+				"underfive": 9.49,
+				"year": 2007,
+				"population": 30590487
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.08,
+				"underfive": 9.81,
+				"year": 2007,
+				"population": 12725974
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 31.17,
+				"underfive": 9.94,
+				"year": 2007,
+				"population": 13329909
+			}
+		],
+		"year": 2007
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.06,
+				"underfive": 2.94,
+				"year": 2008,
+				"population": 34860715
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 42.58,
+				"underfive": 13.93,
+				"year": 2008,
+				"population": 21759420
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 4.19,
+				"underfive": 11.67,
+				"year": 2008,
+				"population": 8696916
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 55.38,
+				"underfive": 5.93,
+				"year": 2008,
+				"population": 1946351
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 5.16,
+				"underfive": 13.08,
+				"year": 2008,
+				"population": 14689726
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.7,
+				"underfive": 10.34,
+				"year": 2008,
+				"population": 8212264
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 15.87,
+				"underfive": 11.97,
+				"year": 2008,
+				"population": 18907008
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 65.39,
+				"underfive": 2.6,
+				"year": 2008,
+				"population": 491723
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.73,
+				"underfive": 15.84,
+				"year": 2008,
+				"population": 4345386
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.23,
+				"underfive": 15.84,
+				"year": 2008,
+				"population": 11133861
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 2.58,
+				"underfive": 9.05,
+				"year": 2008,
+				"population": 657229
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.68,
+				"underfive": 12.45,
+				"year": 2008,
+				"population": 60373608
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 15.71,
+				"underfive": 7.09,
+				"year": 2008,
+				"population": 4115435
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.61026883,
+				"underfive": 11.71,
+				"year": 2008,
+				"population": 19497986
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 7.59,
+				"underfive": 8.15,
+				"year": 2008,
+				"population": 822934
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 94.6,
+				"underfive": 3.16,
+				"year": 2008,
+				"population": 80953881
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 28.83,
+				"underfive": 12.16,
+				"year": 2008,
+				"population": 868418
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 10.58,
+				"underfive": 6,
+				"year": 2008,
+				"population": 4232636
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 2.36,
+				"underfive": 9.35,
+				"year": 2008,
+				"population": 83184892
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 71.14,
+				"underfive": 6.82,
+				"year": 2008,
+				"population": 1536411
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.16,
+				"underfive": 8.69,
+				"year": 2008,
+				"population": 1588572
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 12.07,
+				"underfive": 7.89,
+				"year": 2008,
+				"population": 23298640
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.26,
+				"underfive": 11.68,
+				"year": 2008,
+				"population": 10323142
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.39,
+				"underfive": 12.6,
+				"year": 2008,
+				"population": 1480841
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 6.39,
+				"underfive": 6.54,
+				"year": 2008,
+				"population": 39148416
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 27.63,
+				"underfive": 11.71,
+				"year": 2008,
+				"population": 1999930
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.63,
+				"underfive": 10.71,
+				"year": 2008,
+				"population": 3662993
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.88,
+				"year": 2008,
+				"population": 6053078
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.99,
+				"underfive": 6.94,
+				"year": 2008,
+				"population": 19996469
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.15,
+				"underfive": 9.77,
+				"year": 2008,
+				"population": 14271234
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.09,
+				"underfive": 14.77,
+				"year": 2008,
+				"population": 14138216
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 37.75,
+				"underfive": 10.31,
+				"year": 2008,
+				"population": 3407541
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 91.64,
+				"underfive": 1.58,
+				"year": 2008,
+				"population": 1244121
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 94.87,
+				"underfive": 3.5,
+				"year": 2008,
+				"population": 31596855
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.3,
+				"underfive": 11.39,
+				"year": 2008,
+				"population": 22846758
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 37.72,
+				"underfive": 5.7,
+				"year": 2008,
+				"population": 2106375
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.43,
+				"underfive": 13.96,
+				"year": 2008,
+				"population": 15228525
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 1.96,
+				"underfive": 14.01,
+				"year": 2008,
+				"population": 150347390
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.44,
+				"underfive": 7.92,
+				"year": 2008,
+				"population": 9708169
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 22.18,
+				"underfive": 5.13,
+				"year": 2008,
+				"population": 166913
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.81,
+				"underfive": 7.57,
+				"year": 2008,
+				"population": 12203957
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 87,
+				"underfive": 1.42,
+				"year": 2008,
+				"population": 86956
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.41,
+				"underfive": 18.05,
+				"year": 2008,
+				"population": 6165372
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.2,
+				"underfive": 16.7,
+				"year": 2008,
+				"population": 11369276
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 73.35,
+				"underfive": 6.96,
+				"year": 2008,
+				"population": 50412129
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.57,
+				"underfive": 11.92,
+				"year": 2008,
+				"population": 9263136
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 25.38,
+				"underfive": 8.11,
+				"year": 2008,
+				"population": 32955496
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 38.78,
+				"underfive": 10.87,
+				"year": 2008,
+				"population": 1158897
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.53,
+				"underfive": 8.05,
+				"year": 2008,
+				"population": 43270144
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 2.98,
+				"underfive": 9.59,
+				"year": 2008,
+				"population": 6161796
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 97.88,
+				"underfive": 1.94,
+				"year": 2008,
+				"population": 10407336
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.86,
+				"underfive": 8.88,
+				"year": 2008,
+				"population": 31663896
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.25,
+				"underfive": 9.33,
+				"year": 2008,
+				"population": 13082517
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 30.97,
+				"underfive": 9.69,
+				"year": 2008,
+				"population": 13558469
+			}
+		],
+		"year": 2008
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.42,
+				"underfive": 2.83,
+				"year": 2009,
+				"population": 35465760
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 43.32,
+				"underfive": 13,
+				"year": 2009,
+				"population": 22549547
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 4.46,
+				"underfive": 11.5,
+				"year": 2009,
+				"population": 8944706
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 56.73,
+				"underfive": 5.56,
+				"year": 2009,
+				"population": 1979882
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 5.51,
+				"underfive": 12.33,
+				"year": 2009,
+				"population": 15141099
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.69,
+				"underfive": 9.67,
+				"year": 2009,
+				"population": 8489031
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 16.76,
+				"underfive": 11.54,
+				"year": 2009,
+				"population": 19432541
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 66.33,
+				"underfive": 2.57,
+				"year": 2009,
+				"population": 496963
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.74,
+				"underfive": 15.49,
+				"year": 2009,
+				"population": 4404230
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.19,
+				"underfive": 15.44,
+				"year": 2009,
+				"population": 11502786
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 3.12,
+				"underfive": 8.8,
+				"year": 2009,
+				"population": 673252
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.73,
+				"underfive": 12.02,
+				"year": 2009,
+				"population": 62409435
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 16.63,
+				"underfive": 6.66,
+				"year": 2009,
+				"population": 4253712
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.58651042,
+				"underfive": 11.32,
+				"year": 2009,
+				"population": 19936366
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 7.91,
+				"underfive": 7.91,
+				"year": 2009,
+				"population": 836840
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 95.34,
+				"underfive": 3.03,
+				"year": 2009,
+				"population": 82465022
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 29.64,
+				"underfive": 11.73,
+				"year": 2009,
+				"population": 909111
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 11.37,
+				"underfive": 5.76,
+				"year": 2009,
+				"population": 4310334
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 2.51,
+				"underfive": 8.84,
+				"year": 2009,
+				"population": 85416253
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 72.06,
+				"underfive": 6.56,
+				"year": 2009,
+				"population": 1586754
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.22,
+				"underfive": 8.38,
+				"year": 2009,
+				"population": 1639560
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 13.11,
+				"underfive": 7.59,
+				"year": 2009,
+				"population": 23903831
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.23,
+				"underfive": 11.27,
+				"year": 2009,
+				"population": 10556524
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.44,
+				"underfive": 11.98,
+				"year": 2009,
+				"population": 1517448
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 7.24,
+				"underfive": 6.11,
+				"year": 2009,
+				"population": 40237204
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 28.78,
+				"underfive": 11,
+				"year": 2009,
+				"population": 2019209
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.67,
+				"underfive": 10.21,
+				"year": 2009,
+				"population": 3811528
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.76,
+				"year": 2009,
+				"population": 6121053
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.97,
+				"underfive": 6.55,
+				"year": 2009,
+				"population": 20569121
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.2,
+				"underfive": 9.32,
+				"year": 2009,
+				"population": 14714602
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.09,
+				"underfive": 14.15,
+				"year": 2009,
+				"population": 14606597
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 38.91,
+				"underfive": 10.06,
+				"year": 2009,
+				"population": 3506288
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.23,
+				"underfive": 1.54,
+				"year": 2009,
+				"population": 1247429
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 95.22,
+				"underfive": 3.35,
+				"year": 2009,
+				"population": 31989897
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.28,
+				"underfive": 10.76,
+				"year": 2009,
+				"population": 23524063
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 38.34,
+				"underfive": 5.59,
+				"year": 2009,
+				"population": 2137040
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.45,
+				"underfive": 13.13,
+				"year": 2009,
+				"population": 15813913
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 2.19,
+				"underfive": 13.47,
+				"year": 2009,
+				"population": 154402181
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.44,
+				"underfive": 7.13,
+				"year": 2009,
+				"population": 9977446
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.81,
+				"underfive": 4.83,
+				"year": 2009,
+				"population": 170813
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.81,
+				"underfive": 7.09,
+				"year": 2009,
+				"population": 12550917
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 87.5,
+				"underfive": 1.42,
+				"year": 2009,
+				"population": 87298
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.45,
+				"underfive": 17.19,
+				"year": 2009,
+				"population": 6310260
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.29,
+				"underfive": 16.31,
+				"year": 2009,
+				"population": 11707990
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 75.04,
+				"underfive": 6.23,
+				"year": 2009,
+				"population": 50970818
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.59,
+				"underfive": 11.29,
+				"year": 2009,
+				"population": 9670667
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 26.97,
+				"underfive": 7.89,
+				"year": 2009,
+				"population": 33650619
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 40.01,
+				"underfive": 10.21,
+				"year": 2009,
+				"population": 1180675
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.54,
+				"underfive": 7.69,
+				"year": 2009,
+				"population": 44664231
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 3.46,
+				"underfive": 9.31,
+				"year": 2009,
+				"population": 6330472
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.1,
+				"underfive": 1.83,
+				"year": 2009,
+				"population": 10521834
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.84,
+				"underfive": 8.34,
+				"year": 2009,
+				"population": 32771895
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.43,
+				"underfive": 8.8,
+				"year": 2009,
+				"population": 13456417
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 30.81,
+				"underfive": 9.27,
+				"year": 2009,
+				"population": 13810599
+			}
+		],
+		"year": 2009
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.41,
+				"underfive": 2.74,
+				"year": 2010,
+				"population": 36117637
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 44.1,
+				"underfive": 12.13,
+				"year": 2010,
+				"population": 23369131
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 4.78,
+				"underfive": 11.36,
+				"year": 2010,
+				"population": 9199259
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 57.59,
+				"underfive": 4.99,
+				"year": 2010,
+				"population": 2014866
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 6.01,
+				"underfive": 11.61,
+				"year": 2010,
+				"population": 15605217
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.72,
+				"underfive": 9.06,
+				"year": 2010,
+				"population": 8766930
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 17.6,
+				"underfive": 11.04,
+				"year": 2010,
+				"population": 19970495
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 67.17,
+				"underfive": 2.51,
+				"year": 2010,
+				"population": 502384
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.78,
+				"underfive": 15.09,
+				"year": 2010,
+				"population": 4448525
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.14,
+				"underfive": 15.02,
+				"year": 2010,
+				"population": 11887202
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 3.68,
+				"underfive": 8.53,
+				"year": 2010,
+				"population": 689692
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.78,
+				"underfive": 11.61,
+				"year": 2010,
+				"population": 64523263
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 17.53,
+				"underfive": 6.31,
+				"year": 2010,
+				"population": 4386693
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.56144071,
+				"underfive": 10.98,
+				"year": 2010,
+				"population": 20401331
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 8.38,
+				"underfive": 7.67,
+				"year": 2010,
+				"population": 851146
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 95.99,
+				"underfive": 2.9,
+				"year": 2010,
+				"population": 84107606
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 30.58,
+				"underfive": 11.35,
+				"year": 2010,
+				"population": 951104
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 12.13,
+				"underfive": 5.53,
+				"year": 2010,
+				"population": 4390840
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 2.69,
+				"underfive": 8.37,
+				"year": 2010,
+				"population": 87702670
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 73.57,
+				"underfive": 6.33,
+				"year": 2010,
+				"population": 1640210
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.18,
+				"underfive": 8.08,
+				"year": 2010,
+				"population": 1692149
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 14.05,
+				"underfive": 7.24,
+				"year": 2010,
+				"population": 24512104
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.22,
+				"underfive": 10.88,
+				"year": 2010,
+				"population": 10794170
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.46,
+				"underfive": 11.38,
+				"year": 2010,
+				"population": 1555880
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 8.02,
+				"underfive": 5.84,
+				"year": 2010,
+				"population": 41350152
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 29.86,
+				"underfive": 9.92,
+				"year": 2010,
+				"population": 2040551
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.65,
+				"underfive": 9.75,
+				"year": 2010,
+				"population": 3948125
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.66,
+				"year": 2010,
+				"population": 6169140
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.96,
+				"underfive": 6.18,
+				"year": 2010,
+				"population": 21151640
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.18,
+				"underfive": 8.86,
+				"year": 2010,
+				"population": 15167095
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.02,
+				"underfive": 13.57,
+				"year": 2010,
+				"population": 15075085
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 40.08,
+				"underfive": 9.79,
+				"year": 2010,
+				"population": 3609543
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.27,
+				"underfive": 1.5,
+				"year": 2010,
+				"population": 1250400
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 95.61,
+				"underfive": 3.2,
+				"year": 2010,
+				"population": 32409639
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.4,
+				"underfive": 10.31,
+				"year": 2010,
+				"population": 24221405
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 38.88,
+				"underfive": 5.34,
+				"year": 2010,
+				"population": 2173170
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.55,
+				"underfive": 12.36,
+				"year": 2010,
+				"population": 16425578
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 2.44,
+				"underfive": 12.96,
+				"year": 2010,
+				"population": 158578261
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.47,
+				"underfive": 6.44,
+				"year": 2010,
+				"population": 10246842
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.53,
+				"underfive": 4.55,
+				"year": 2010,
+				"population": 174776
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.94,
+				"underfive": 6.65,
+				"year": 2010,
+				"population": 12916229
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 88.23,
+				"underfive": 1.42,
+				"year": 2010,
+				"population": 89770
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.53,
+				"underfive": 16.32,
+				"year": 2010,
+				"population": 6458720
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.41,
+				"underfive": 15.86,
+				"year": 2010,
+				"population": 12053223
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 76.65,
+				"underfive": 5.93,
+				"year": 2010,
+				"population": 51584663
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.56,
+				"underfive": 10.71,
+				"year": 2010,
+				"population": 10067192
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 28.94,
+				"underfive": 7.68,
+				"year": 2010,
+				"population": 34385963
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 41.57,
+				"underfive": 9.29,
+				"year": 2010,
+				"population": 1202843
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.66,
+				"underfive": 7.34,
+				"year": 2010,
+				"population": 46098591
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 4.02,
+				"underfive": 9.04,
+				"year": 2010,
+				"population": 6502952
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.34,
+				"underfive": 1.74,
+				"year": 2010,
+				"population": 10639931
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.83,
+				"underfive": 7.8,
+				"year": 2010,
+				"population": 33915133
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.47,
+				"underfive": 8.24,
+				"year": 2010,
+				"population": 13850033
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 30.46,
+				"underfive": 8.75,
+				"year": 2010,
+				"population": 14086317
+			}
+		],
+		"year": 2010
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.49,
+				"underfive": 2.67,
+				"year": 2011,
+				"population": 36819558
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 44.8,
+				"underfive": 11.32,
+				"year": 2011,
+				"population": 24218565
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 4.99,
+				"underfive": 11.22,
+				"year": 2011,
+				"population": 9460802
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 58.72,
+				"underfive": 4.88,
+				"year": 2011,
+				"population": 2051339
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 6.43,
+				"underfive": 10.94,
+				"year": 2011,
+				"population": 16081904
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.76,
+				"underfive": 8.51,
+				"year": 2011,
+				"population": 9043508
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 18.45,
+				"underfive": 10.58,
+				"year": 2011,
+				"population": 20520447
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 67.96,
+				"underfive": 2.43,
+				"year": 2011,
+				"population": 508067
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.82,
+				"underfive": 14.68,
+				"year": 2011,
+				"population": 4476153
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.15,
+				"underfive": 14.61,
+				"year": 2011,
+				"population": 12288651
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 4.31,
+				"underfive": 8.27,
+				"year": 2011,
+				"population": 706569
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.84,
+				"underfive": 11.21,
+				"year": 2011,
+				"population": 66713597
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 18.52,
+				"underfive": 6.02,
+				"year": 2011,
+				"population": 4512730
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.53519082,
+				"underfive": 10.66,
+				"year": 2011,
+				"population": 20895311
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 8.84,
+				"underfive": 7.44,
+				"year": 2011,
+				"population": 865937
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 96.27,
+				"underfive": 2.78,
+				"year": 2011,
+				"population": 85897561
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 31.1,
+				"underfive": 10.98,
+				"year": 2011,
+				"population": 994290
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 12.73,
+				"underfive": 5.32,
+				"year": 2011,
+				"population": 4474690
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 2.82,
+				"underfive": 7.92,
+				"year": 2011,
+				"population": 90046756
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 74.64,
+				"underfive": 6.12,
+				"year": 2011,
+				"population": 1697101
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.24,
+				"underfive": 7.8,
+				"year": 2011,
+				"population": 1746363
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 15.11,
+				"underfive": 6.89,
+				"year": 2011,
+				"population": 25121796
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.24,
+				"underfive": 10.51,
+				"year": 2011,
+				"population": 11035170
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.43,
+				"underfive": 10.82,
+				"year": 2011,
+				"population": 1596154
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 8.95,
+				"underfive": 5.63,
+				"year": 2011,
+				"population": 42486839
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 30.68,
+				"underfive": 9.84,
+				"year": 2011,
+				"population": 2064166
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.67,
+				"underfive": 9.34,
+				"year": 2011,
+				"population": 4070167
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.76,
+				"year": 2011,
+				"population": 6193501
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.94,
+				"underfive": 5.83,
+				"year": 2011,
+				"population": 21743949
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.25,
+				"underfive": 8.31,
+				"year": 2011,
+				"population": 15627618
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1.05,
+				"underfive": 13.07,
+				"year": 2011,
+				"population": 15540989
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 41.31,
+				"underfive": 9.5,
+				"year": 2011,
+				"population": 3717672
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.56,
+				"underfive": 1.49,
+				"year": 2011,
+				"population": 1252404
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 95.82,
+				"underfive": 3.06,
+				"year": 2011,
+				"population": 32858823
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.46,
+				"underfive": 9.76,
+				"year": 2011,
+				"population": 24939005
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 39.59,
+				"underfive": 5.23,
+				"year": 2011,
+				"population": 2215621
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.61,
+				"underfive": 11.64,
+				"year": 2011,
+				"population": 17064636
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 2.74,
+				"underfive": 12.47,
+				"year": 2011,
+				"population": 162877076
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.48,
+				"underfive": 5.75,
+				"year": 2011,
+				"population": 10516071
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 21.1,
+				"underfive": 4.29,
+				"year": 2011,
+				"population": 178800
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 32.01,
+				"underfive": 6.26,
+				"year": 2011,
+				"population": 13300910
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 88.99,
+				"underfive": 1.43,
+				"year": 2011,
+				"population": 87441
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.61,
+				"underfive": 15.43,
+				"year": 2011,
+				"population": 6611692
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.56,
+				"underfive": 15.35,
+				"year": 2011,
+				"population": 12404725
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 78.21,
+				"underfive": 5.12,
+				"year": 2011,
+				"population": 52263516
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.58,
+				"underfive": 10.21,
+				"year": 2011,
+				"population": 10448857
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 30.82,
+				"underfive": 7.48,
+				"year": 2011,
+				"population": 35167314
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 42.82,
+				"underfive": 8.14,
+				"year": 2011,
+				"population": 1225258
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.74,
+				"underfive": 6.95,
+				"year": 2011,
+				"population": 47570902
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 4.52,
+				"underfive": 8.77,
+				"year": 2011,
+				"population": 6679282
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.52,
+				"underfive": 1.65,
+				"year": 2011,
+				"population": 10761467
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.84,
+				"underfive": 7.3,
+				"year": 2011,
+				"population": 35093648
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.71,
+				"underfive": 7.86,
+				"year": 2011,
+				"population": 14264756
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 30.27,
+				"underfive": 8.12,
+				"year": 2011,
+				"population": 14386649
+			}
+		],
+		"year": 2011
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.47,
+				"underfive": 2.61,
+				"year": 2012,
+				"population": 37565847
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 45.36,
+				"underfive": 10.58,
+				"year": 2012,
+				"population": 25096150
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 5.34,
+				"underfive": 11.05,
+				"year": 2012,
+				"population": 9729160
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 59.92,
+				"underfive": 4.6,
+				"year": 2012,
+				"population": 2089315
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 6.82,
+				"underfive": 10.32,
+				"year": 2012,
+				"population": 16571216
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.77,
+				"underfive": 7.99,
+				"year": 2012,
+				"population": 9319710
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 19.44,
+				"underfive": 10.15,
+				"year": 2012,
+				"population": 21082383
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 68.49,
+				"underfive": 2.33,
+				"year": 2012,
+				"population": 513979
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.84,
+				"underfive": 14.29,
+				"year": 2012,
+				"population": 4490416
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.18,
+				"underfive": 14.22,
+				"year": 2012,
+				"population": 12705135
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 5.1,
+				"underfive": 8.04,
+				"year": 2012,
+				"population": 723868
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.83,
+				"underfive": 10.83,
+				"year": 2012,
+				"population": 68978682
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 19.64,
+				"underfive": 5.76,
+				"year": 2012,
+				"population": 4633363
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.5079217,
+				"underfive": 10.35,
+				"year": 2012,
+				"population": 21418603
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 9.25,
+				"underfive": 7.22,
+				"year": 2012,
+				"population": 881185
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 96.48,
+				"underfive": 2.67,
+				"year": 2012,
+				"population": 87813257
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 31.51,
+				"underfive": 10.64,
+				"year": 2012,
+				"population": 1038593
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 13.4,
+				"underfive": 5.13,
+				"year": 2012,
+				"population": 4892233
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 3.01,
+				"underfive": 7.51,
+				"year": 2012,
+				"population": 92444183
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 75.75,
+				"underfive": 5.9,
+				"year": 2012,
+				"population": 1756817
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.2,
+				"underfive": 7.53,
+				"year": 2012,
+				"population": 1802125
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 16.43,
+				"underfive": 6.52,
+				"year": 2012,
+				"population": 25733049
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.26,
+				"underfive": 10.16,
+				"year": 2012,
+				"population": 11281469
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.44,
+				"underfive": 10.3,
+				"year": 2012,
+				"population": 1638139
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 9.9,
+				"underfive": 5.44,
+				"year": 2012,
+				"population": 43646629
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 31.96,
+				"underfive": 9.74,
+				"year": 2012,
+				"population": 2089928
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.69,
+				"underfive": 8.97,
+				"year": 2012,
+				"population": 4181563
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.5,
+				"year": 2012,
+				"population": 6198258
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.96,
+				"underfive": 5.5,
+				"year": 2012,
+				"population": 22346573
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.33,
+				"underfive": 7.59,
+				"year": 2012,
+				"population": 16097305
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1,
+				"underfive": 12.59,
+				"year": 2012,
+				"population": 16006670
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 42.34,
+				"underfive": 9.23,
+				"year": 2012,
+				"population": 3830239
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.62,
+				"underfive": 1.48,
+				"year": 2012,
+				"population": 1255882
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 96.12,
+				"underfive": 2.92,
+				"year": 2012,
+				"population": 33333789
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.48,
+				"underfive": 9.22,
+				"year": 2012,
+				"population": 25676606
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 40.11,
+				"underfive": 5.21,
+				"year": 2012,
+				"population": 2263934
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.67,
+				"underfive": 10.99,
+				"year": 2012,
+				"population": 17731634
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 3.09,
+				"underfive": 11.99,
+				"year": 2012,
+				"population": 167297284
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.51,
+				"underfive": 5.22,
+				"year": 2012,
+				"population": 10788853
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 20.5,
+				"underfive": 4.05,
+				"year": 2012,
+				"population": 182889
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.65,
+				"underfive": 5.9,
+				"year": 2012,
+				"population": 13703513
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 88.85,
+				"underfive": 1.44,
+				"year": 2012,
+				"population": 88303
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.72,
+				"underfive": 14.56,
+				"year": 2012,
+				"population": 6766103
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.68,
+				"underfive": 14.89,
+				"year": 2012,
+				"population": 12763776
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 79.65,
+				"underfive": 4.71,
+				"year": 2012,
+				"population": 52998213
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.59,
+				"underfive": 9.86,
+				"year": 2012,
+				"population": 10818258
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 32.75,
+				"underfive": 7.29,
+				"year": 2012,
+				"population": 35990192
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 44.49,
+				"underfive": 7.01,
+				"year": 2012,
+				"population": 1248158
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.85,
+				"underfive": 6.62,
+				"year": 2012,
+				"population": 49082997
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 4.88,
+				"underfive": 8.51,
+				"year": 2012,
+				"population": 6859482
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.68,
+				"underfive": 1.58,
+				"year": 2012,
+				"population": 10886668
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.81,
+				"underfive": 6.73,
+				"year": 2012,
+				"population": 36306796
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.9,
+				"underfive": 7.49,
+				"year": 2012,
+				"population": 14699937
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 30.02,
+				"underfive": 7.38,
+				"year": 2012,
+				"population": 14710826
+			}
+		],
+		"year": 2012
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.83,
+				"underfive": 2.57,
+				"year": 2013,
+				"population": 38338562
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 46.15,
+				"underfive": 9.92,
+				"year": 2013,
+				"population": 25998340
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 5.58,
+				"underfive": 10.85,
+				"year": 2013,
+				"population": 10004451
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 61.05,
+				"underfive": 4.31,
+				"year": 2013,
+				"population": 2128507
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 7.33,
+				"underfive": 9.75,
+				"year": 2013,
+				"population": 17072723
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.77,
+				"underfive": 7.52,
+				"year": 2013,
+				"population": 9600186
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 20.22,
+				"underfive": 9.74,
+				"year": 2013,
+				"population": 21655715
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 69.48,
+				"underfive": 2.22,
+				"year": 2013,
+				"population": 520106
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.84,
+				"underfive": 13.9,
+				"year": 2013,
+				"population": 4499653
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.15,
+				"underfive": 13.84,
+				"year": 2013,
+				"population": 13133589
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 6.06,
+				"underfive": 7.79,
+				"year": 2013,
+				"population": 741500
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.9,
+				"underfive": 10.47,
+				"year": 2013,
+				"population": 71316033
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 20.63,
+				"underfive": 5.53,
+				"year": 2013,
+				"population": 4751393
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.47977638,
+				"underfive": 10.06,
+				"year": 2013,
+				"population": 21966312
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 9.79,
+				"underfive": 7,
+				"year": 2013,
+				"population": 896688
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 96.85,
+				"underfive": 2.56,
+				"year": 2013,
+				"population": 89807433
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 32.97,
+				"underfive": 10.28,
+				"year": 2013,
+				"population": 1083746
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 14.01,
+				"underfive": 4.94,
+				"year": 2013,
+				"population": 4998823
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 3.11,
+				"underfive": 7.12,
+				"year": 2013,
+				"population": 94887724
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 76.53,
+				"underfive": 5.69,
+				"year": 2013,
+				"population": 1817271
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.26,
+				"underfive": 7.28,
+				"year": 2013,
+				"population": 1859324
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 17.58,
+				"underfive": 6.15,
+				"year": 2013,
+				"population": 26346251
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.23,
+				"underfive": 9.82,
+				"year": 2013,
+				"population": 11536615
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.46,
+				"underfive": 9.84,
+				"year": 2013,
+				"population": 1681495
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 10.74,
+				"underfive": 5.23,
+				"year": 2013,
+				"population": 44826849
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 32.99,
+				"underfive": 9.58,
+				"year": 2013,
+				"population": 2117361
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.68,
+				"underfive": 8.63,
+				"year": 2013,
+				"population": 4286291
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.44,
+				"year": 2013,
+				"population": 6195970
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.94,
+				"underfive": 5.23,
+				"year": 2013,
+				"population": 22961146
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.35,
+				"underfive": 7.04,
+				"year": 2013,
+				"population": 16577147
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 1,
+				"underfive": 12.16,
+				"year": 2013,
+				"population": 16477818
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 43.35,
+				"underfive": 8.95,
+				"year": 2013,
+				"population": 3946170
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.74,
+				"underfive": 1.48,
+				"year": 2013,
+				"population": 1258653
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 96.27,
+				"underfive": 2.79,
+				"year": 2013,
+				"population": 33824769
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.56,
+				"underfive": 8.72,
+				"year": 2013,
+				"population": 26434372
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 40.53,
+				"underfive": 5.05,
+				"year": 2013,
+				"population": 2316520
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.7,
+				"underfive": 10.41,
+				"year": 2013,
+				"population": 18426372
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 3.48,
+				"underfive": 11.56,
+				"year": 2013,
+				"population": 171829303
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.52,
+				"underfive": 4.8,
+				"year": 2013,
+				"population": 11065151
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 19.61,
+				"underfive": 3.85,
+				"year": 2013,
+				"population": 187045
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.64,
+				"underfive": 5.56,
+				"year": 2013,
+				"population": 14120320
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 89.27,
+				"underfive": 1.44,
+				"year": 2013,
+				"population": 89949
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.73,
+				"underfive": 13.73,
+				"year": 2013,
+				"population": 6922079
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.82,
+				"underfive": 14.41,
+				"year": 2013,
+				"population": 13132349
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 81,
+				"underfive": 4.36,
+				"year": 2013,
+				"population": 53767396
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.58,
+				"underfive": 9.69,
+				"year": 2013,
+				"population": 11177490
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 34.71,
+				"underfive": 7.1,
+				"year": 2013,
+				"population": 36849918
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 45.73,
+				"underfive": 6.57,
+				"year": 2013,
+				"population": 1271456
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 1.93,
+				"underfive": 6.36,
+				"year": 2013,
+				"population": 50636595
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 5.37,
+				"underfive": 8.26,
+				"year": 2013,
+				"population": 7042948
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.8,
+				"underfive": 1.51,
+				"year": 2013,
+				"population": 11014558
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.78,
+				"underfive": 6.27,
+				"year": 2013,
+				"population": 37553726
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 15.99,
+				"underfive": 7.16,
+				"year": 2013,
+				"population": 15153210
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 29.88,
+				"underfive": 6.68,
+				"year": 2013,
+				"population": 15054506
+			}
+		],
+		"year": 2013
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 93.1,
+				"underfive": 2.53,
+				"year": 2014,
+				"population": 39113313
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 46.67,
+				"underfive": 9.36,
+				"year": 2014,
+				"population": 26920466
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 5.85,
+				"underfive": 10.62,
+				"year": 2014,
+				"population": 10286712
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 62.12,
+				"underfive": 4.22,
+				"year": 2014,
+				"population": 2168573
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 7.88,
+				"underfive": 9.26,
+				"year": 2014,
+				"population": 17585977
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.81,
+				"underfive": 7.08,
+				"year": 2014,
+				"population": 9891790
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 21.06,
+				"underfive": 9.38,
+				"year": 2014,
+				"population": 22239904
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 70.06,
+				"underfive": 2.1,
+				"year": 2014,
+				"population": 526437
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.87,
+				"underfive": 13.48,
+				"year": 2014,
+				"population": 4515392
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.13,
+				"underfive": 13.47,
+				"year": 2014,
+				"population": 13569438
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 7.05,
+				"underfive": 7.55,
+				"year": 2014,
+				"population": 759385
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.93,
+				"underfive": 10.1,
+				"year": 2014,
+				"population": 73722860
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 21.59,
+				"underfive": 5.33,
+				"year": 2014,
+				"population": 4871101
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.45089793,
+				"underfive": 9.77,
+				"year": 2014,
+				"population": 22531350
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 10.29,
+				"underfive": 6.78,
+				"year": 2014,
+				"population": 912164
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 97.11,
+				"underfive": 2.47,
+				"year": 2014,
+				"population": 91812566
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 33.75,
+				"underfive": 9.93,
+				"year": 2014,
+				"population": 1129424
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 14.78,
+				"underfive": 4.76,
+				"year": 2014,
+				"population": 5110444
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 3.25,
+				"underfive": 6.75,
+				"year": 2014,
+				"population": 97366774
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 77.3,
+				"underfive": 5.46,
+				"year": 2014,
+				"population": 1875713
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.27,
+				"underfive": 7.02,
+				"year": 2014,
+				"population": 1917852
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 18.82,
+				"underfive": 5.8,
+				"year": 2014,
+				"population": 26962563
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.25,
+				"underfive": 9.49,
+				"year": 2014,
+				"population": 11805509
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.5,
+				"underfive": 9.45,
+				"year": 2014,
+				"population": 1725744
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 11.83,
+				"underfive": 5.05,
+				"year": 2014,
+				"population": 46024250
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 33.93,
+				"underfive": 9.47,
+				"year": 2014,
+				"population": 2145785
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.71,
+				"underfive": 8.3,
+				"year": 2014,
+				"population": 4390737
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.38,
+				"year": 2014,
+				"population": 6204108
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.92,
+				"underfive": 4.99,
+				"year": 2014,
+				"population": 23589801
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.43,
+				"underfive": 6.57,
+				"year": 2014,
+				"population": 17068838
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 0.97,
+				"underfive": 11.77,
+				"year": 2014,
+				"population": 16962846
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 44.26,
+				"underfive": 8.68,
+				"year": 2014,
+				"population": 4063920
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 92.94,
+				"underfive": 1.47,
+				"year": 2014,
+				"population": 1260934
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 96.43,
+				"underfive": 2.66,
+				"year": 2014,
+				"population": 34318082
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.56,
+				"underfive": 8.32,
+				"year": 2014,
+				"population": 27212382
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 41.25,
+				"underfive": 4.9,
+				"year": 2014,
+				"population": 2370992
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.77,
+				"underfive": 9.86,
+				"year": 2014,
+				"population": 19148219
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 3.92,
+				"underfive": 11.16,
+				"year": 2014,
+				"population": 176460502
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.54,
+				"underfive": 4.47,
+				"year": 2014,
+				"population": 11345357
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 18.8,
+				"underfive": 3.67,
+				"year": 2014,
+				"population": 191266
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.68,
+				"underfive": 5.26,
+				"year": 2014,
+				"population": 14546111
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 89.76,
+				"underfive": 1.45,
+				"year": 2014,
+				"population": 91359
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.8,
+				"underfive": 12.94,
+				"year": 2014,
+				"population": 7079162
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 1.97,
+				"underfive": 13.98,
+				"year": 2014,
+				"population": 13513125
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 82.36,
+				"underfive": 4.13,
+				"year": 2014,
+				"population": 54539571
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.62,
+				"underfive": 9.64,
+				"year": 2014,
+				"population": 11530971
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 36.93,
+				"underfive": 6.91,
+				"year": 2014,
+				"population": 37737913
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 47.15,
+				"underfive": 6.22,
+				"year": 2014,
+				"population": 1295097
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 2,
+				"underfive": 6.13,
+				"year": 2014,
+				"population": 52234869
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 5.78,
+				"underfive": 8.01,
+				"year": 2014,
+				"population": 7228915
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 98.94,
+				"underfive": 1.45,
+				"year": 2014,
+				"population": 11143908
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.78,
+				"underfive": 5.9,
+				"year": 2014,
+				"population": 38833338
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 16.23,
+				"underfive": 6.8,
+				"year": 2014,
+				"population": 15620974
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 29.63,
+				"underfive": 6.11,
+				"year": 2014,
+				"population": 15411675
+			}
+		],
+		"year": 2014
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.7,
+				"underfive": 2.49,
+				"year": 2015,
+				"population": 39871528
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 47.36,
+				"underfive": 8.89,
+				"year": 2015,
+				"population": 27859305
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 6.06,
+				"underfive": 10.37,
+				"year": 2015,
+				"population": 10575952
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 63.15,
+				"underfive": 4.06,
+				"year": 2015,
+				"population": 2209197
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 8.46,
+				"underfive": 8.84,
+				"year": 2015,
+				"population": 18110624
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.83,
+				"underfive": 6.71,
+				"year": 2015,
+				"population": 10199270
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 21.98,
+				"underfive": 9.01,
+				"year": 2015,
+				"population": 22834522
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 70.63,
+				"underfive": 1.97,
+				"year": 2015,
+				"population": 532913
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.92,
+				"underfive": 13.02,
+				"year": 2015,
+				"population": 4546100
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.13,
+				"underfive": 13.08,
+				"year": 2015,
+				"population": 14009413
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 8.15,
+				"underfive": 7.32,
+				"year": 2015,
+				"population": 777424
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 3.94,
+				"underfive": 9.76,
+				"year": 2015,
+				"population": 76196619
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 22.74,
+				"underfive": 5.13,
+				"year": 2015,
+				"population": 4995648
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 17.96,
+				"underfive": 9.49,
+				"year": 2015,
+				"population": 23108472
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 10.89,
+				"underfive": 6.57,
+				"year": 2015,
+				"population": 927414
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 97.31,
+				"underfive": 2.37,
+				"year": 2015,
+				"population": 93778172
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 34,
+				"underfive": 9.6,
+				"year": 2015,
+				"population": 1175389
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 15.6,
+				"underfive": 4.61,
+				"year": 2015,
+				"population": 5227790
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 3.4,
+				"underfive": 6.42,
+				"year": 2015,
+				"population": 99873033
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 78.13,
+				"underfive": 5.25,
+				"year": 2015,
+				"population": 1930175
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.23,
+				"underfive": 6.79,
+				"year": 2015,
+				"population": 1977590
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 20.37,
+				"underfive": 5.47,
+				"year": 2015,
+				"population": 27582821
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.24,
+				"underfive": 9.17,
+				"year": 2015,
+				"population": 12091533
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.46,
+				"underfive": 9.07,
+				"year": 2015,
+				"population": 1770526
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 12.76,
+				"underfive": 4.87,
+				"year": 2015,
+				"population": 47236259
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 34.74,
+				"underfive": 9.38,
+				"year": 2015,
+				"population": 2174645
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.7,
+				"underfive": 8.01,
+				"year": 2015,
+				"population": 4499621
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.33,
+				"year": 2015,
+				"population": 6234955
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.9,
+				"underfive": 4.78,
+				"year": 2015,
+				"population": 24234088
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.49,
+				"underfive": 6.17,
+				"year": 2015,
+				"population": 17573607
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 0.93,
+				"underfive": 11.37,
+				"year": 2015,
+				"population": 17467905
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 45.66,
+				"underfive": 8.41,
+				"year": 2015,
+				"population": 4182341
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 93.11,
+				"underfive": 1.44,
+				"year": 2015,
+				"population": 1262605
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 96.6,
+				"underfive": 2.54,
+				"year": 2015,
+				"population": 34803322
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.62,
+				"underfive": 7.86,
+				"year": 2015,
+				"population": 28010691
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 41.32,
+				"underfive": 4.72,
+				"year": 2015,
+				"population": 2425561
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.88,
+				"underfive": 9.35,
+				"year": 2015,
+				"population": 19896965
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 4.39,
+				"underfive": 10.75,
+				"year": 2015,
+				"population": 181181744
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.56,
+				"underfive": 4.2,
+				"year": 2015,
+				"population": 11629553
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 17.88,
+				"underfive": 3.51,
+				"year": 2015,
+				"population": 195553
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.82,
+				"underfive": 4.98,
+				"year": 2015,
+				"population": 14976994
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 90.23,
+				"underfive": 1.45,
+				"year": 2015,
+				"population": 93419
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.93,
+				"underfive": 12.22,
+				"year": 2015,
+				"population": 7237025
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 2.12,
+				"underfive": 13.56,
+				"year": 2015,
+				"population": 13908129
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 83.64,
+				"underfive": 4.03,
+				"year": 2015,
+				"population": 55291225
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.63,
+				"underfive": 9.64,
+				"year": 2015,
+				"population": 11882136
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 38.95,
+				"underfive": 6.71,
+				"year": 2015,
+				"population": 38647803
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 48.52,
+				"underfive": 5.78,
+				"year": 2015,
+				"population": 1319011
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 2.15,
+				"underfive": 5.83,
+				"year": 2015,
+				"population": 53879957
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 6.24,
+				"underfive": 7.77,
+				"year": 2015,
+				"population": 7416802
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 99.03,
+				"underfive": 1.4,
+				"year": 2015,
+				"population": 11273661
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.76,
+				"underfive": 5.53,
+				"year": 2015,
+				"population": 40144870
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 16.31,
+				"underfive": 6.49,
+				"year": 2015,
+				"population": 16100587
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 29.36,
+				"underfive": 5.7,
+				"year": 2015,
+				"population": 15777451
+			}
+		],
+		"year": 2015
+	},
+	{
+		"countries": [{
+				"country": "Algeria",
+				"region": "North Africa",
+				"cooking": 92.62,
+				"underfive": 2.45,
+				"year": 2016,
+				"population": 40606052
+			},
+			{
+				"country": "Angola",
+				"region": "Central Africa",
+				"cooking": 48.05,
+				"underfive": 8.46,
+				"year": 2016,
+				"population": 28813463
+			},
+			{
+				"country": "Benin",
+				"region": "West Africa",
+				"cooking": 6.44,
+				"underfive": 10.1,
+				"year": 2016,
+				"population": 10872298
+			},
+			{
+				"country": "Botswana",
+				"region": "Southern Africa",
+				"cooking": 64.08,
+				"underfive": 3.93,
+				"year": 2016,
+				"population": 2250260
+			},
+			{
+				"country": "Burkina Faso",
+				"region": "West Africa",
+				"cooking": 8.93,
+				"underfive": 8.45,
+				"year": 2016,
+				"population": 18646433
+			},
+			{
+				"country": "Burundi",
+				"region": "East Africa",
+				"cooking": 0.85,
+				"underfive": 6.39,
+				"year": 2016,
+				"population": 10524117
+			},
+			{
+				"country": "Cameroon",
+				"region": "Central Africa",
+				"cooking": 23.04,
+				"underfive": 8.68,
+				"year": 2016,
+				"population": 23439189
+			},
+			{
+				"country": "Cape Verde",
+				"region": "West Africa",
+				"cooking": 71.05,
+				"underfive": 1.85,
+				"year": 2016,
+				"population": 539560
+			},
+			{
+				"country": "Central African Republic",
+				"region": "Central Africa",
+				"cooking": 0.97,
+				"underfive": 12.5,
+				"year": 2016,
+				"population": 4594621
+			},
+			{
+				"country": "Chad",
+				"region": "Central Africa",
+				"cooking": 3.13,
+				"underfive": 12.69,
+				"year": 2016,
+				"population": 14452543
+			},
+			{
+				"country": "Comoros",
+				"region": "East Africa",
+				"cooking": 9.34,
+				"underfive": 7.11,
+				"year": 2016,
+				"population": 795601
+			},
+			{
+				"country": "Congo, Dem. Rep.",
+				"region": "Central Africa",
+				"cooking": 4.02,
+				"underfive": 9.44,
+				"year": 2016,
+				"population": 78736153
+			},
+			{
+				"country": "Congo, Rep.",
+				"region": "Central Africa",
+				"cooking": 24.13,
+				"underfive": 4.94,
+				"year": 2016,
+				"population": 5125821
+			},
+			{
+				"country": "Cote d'Ivoire",
+				"region": "West Africa",
+				"cooking": 18.23,
+				"underfive": 9.18,
+				"year": 2016,
+				"population": 23695919
+			},
+			{
+				"country": "Djibouti",
+				"region": "East Africa",
+				"cooking": 11.52,
+				"underfive": 6.37,
+				"year": 2016,
+				"population": 942333
+			},
+			{
+				"country": "Egypt, Arab Rep.",
+				"region": "North Africa",
+				"cooking": 97.62,
+				"underfive": 2.29,
+				"year": 2016,
+				"population": 95688681
+			},
+			{
+				"country": "Equatorial Guinea",
+				"region": "Central Africa",
+				"cooking": 34.39,
+				"underfive": 9.28,
+				"year": 2016,
+				"population": 1221490
+			},
+			{
+				"country": "Eritrea",
+				"region": "East Africa",
+				"cooking": 16.32,
+				"underfive": 4.45,
+				"year": 2016,
+				"population": 5351680
+			},
+			{
+				"country": "Ethiopia",
+				"region": "East Africa",
+				"cooking": 3.51,
+				"underfive": 6.12,
+				"year": 2016,
+				"population": 102403196
+			},
+			{
+				"country": "Gabon",
+				"region": "Central Africa",
+				"cooking": 79.12,
+				"underfive": 5.01,
+				"year": 2016,
+				"population": 1979786
+			},
+			{
+				"country": "Gambia, The",
+				"region": "West Africa",
+				"cooking": 3.3,
+				"underfive": 6.58,
+				"year": 2016,
+				"population": 2038501
+			},
+			{
+				"country": "Ghana",
+				"region": "West Africa",
+				"cooking": 21.71,
+				"underfive": 5.18,
+				"year": 2016,
+				"population": 28206728
+			},
+			{
+				"country": "Guinea",
+				"region": "West Africa",
+				"cooking": 1.24,
+				"underfive": 8.87,
+				"year": 2016,
+				"population": 12395924
+			},
+			{
+				"country": "Guinea-Bissau",
+				"region": "West Africa",
+				"cooking": 1.52,
+				"underfive": 8.74,
+				"year": 2016,
+				"population": 1815698
+			},
+			{
+				"country": "Kenya",
+				"region": "East Africa",
+				"cooking": 13.42,
+				"underfive": 4.71,
+				"year": 2016,
+				"population": 48461567
+			},
+			{
+				"country": "Lesotho",
+				"region": "Southern Africa",
+				"cooking": 35.61,
+				"underfive": 8.89,
+				"year": 2016,
+				"population": 2203821
+			},
+			{
+				"country": "Liberia",
+				"region": "West Africa",
+				"cooking": 0.71,
+				"underfive": 7.74,
+				"year": 2016,
+				"population": 4613823
+			},
+			{
+				"country": "Libya",
+				"region": "North Africa",
+				"cooking": "",
+				"underfive": 1.28,
+				"year": 2016,
+				"population": 6293253
+			},
+			{
+				"country": "Madagascar",
+				"region": "East Africa",
+				"cooking": 0.91,
+				"underfive": 4.59,
+				"year": 2016,
+				"population": 24894551
+			},
+			{
+				"country": "Malawi",
+				"region": "East Africa",
+				"cooking": 2.5,
+				"underfive": 5.84,
+				"year": 2016,
+				"population": 18091575
+			},
+			{
+				"country": "Mali",
+				"region": "West Africa",
+				"cooking": 0.96,
+				"underfive": 10.96,
+				"year": 2016,
+				"population": 17994837
+			},
+			{
+				"country": "Mauritania",
+				"region": "West Africa",
+				"cooking": 46.56,
+				"underfive": 8.15,
+				"year": 2016,
+				"population": 4301018
+			},
+			{
+				"country": "Mauritius",
+				"region": "East Africa",
+				"cooking": 93.34,
+				"underfive": 1.38,
+				"year": 2016,
+				"population": 1263473
+			},
+			{
+				"country": "Morocco",
+				"region": "North Africa",
+				"cooking": 96.75,
+				"underfive": 2.43,
+				"year": 2016,
+				"population": 35276786
+			},
+			{
+				"country": "Mozambique",
+				"region": "East Africa",
+				"cooking": 3.69,
+				"underfive": 7.48,
+				"year": 2016,
+				"population": 28829476
+			},
+			{
+				"country": "Namibia",
+				"region": "Southern Africa",
+				"cooking": 42.2,
+				"underfive": 4.52,
+				"year": 2016,
+				"population": 2479713
+			},
+			{
+				"country": "Niger",
+				"region": "West Africa",
+				"cooking": 1.91,
+				"underfive": 8.87,
+				"year": 2016,
+				"population": 20672987
+			},
+			{
+				"country": "Nigeria",
+				"region": "West Africa",
+				"cooking": 4.91,
+				"underfive": 10.38,
+				"year": 2016,
+				"population": 185989640
+			},
+			{
+				"country": "Rwanda",
+				"region": "East Africa",
+				"cooking": 0.57,
+				"underfive": 3.98,
+				"year": 2016,
+				"population": 11917508
+			},
+			{
+				"country": "Sao Tome and Principe",
+				"region": "Central Africa",
+				"cooking": 16.81,
+				"underfive": 3.37,
+				"year": 2016,
+				"population": 199910
+			},
+			{
+				"country": "Senegal",
+				"region": "West Africa",
+				"cooking": 31.65,
+				"underfive": 4.75,
+				"year": 2016,
+				"population": 15411614
+			},
+			{
+				"country": "Seychelles",
+				"region": "East Africa",
+				"cooking": 90.36,
+				"underfive": 1.44,
+				"year": 2016,
+				"population": 94677
+			},
+			{
+				"country": "Sierra Leone",
+				"region": "West Africa",
+				"cooking": 0.99,
+				"underfive": 11.59,
+				"year": 2016,
+				"population": 7396190
+			},
+			{
+				"country": "Somalia",
+				"region": "East Africa",
+				"cooking": 2.34,
+				"underfive": 13.15,
+				"year": 2016,
+				"population": 14317996
+			},
+			{
+				"country": "South Africa",
+				"region": "Southern Africa",
+				"cooking": 84.75,
+				"underfive": 3.85,
+				"year": 2016,
+				"population": 56015473
+			},
+			{
+				"country": "South Sudan",
+				"region": "North Africa",
+				"cooking": 0.64,
+				"underfive": 9.64,
+				"year": 2016,
+				"population": 12230730
+			},
+			{
+				"country": "Sudan",
+				"region": "North Africa",
+				"cooking": 41.29,
+				"underfive": 6.52,
+				"year": 2016,
+				"population": 39578828
+			},
+			{
+				"country": "Swaziland",
+				"region": "Southern Africa",
+				"cooking": 49.7,
+				"underfive": 5.63,
+				"year": 2016,
+				"population": 1343098
+			},
+			{
+				"country": "Tanzania",
+				"region": "East Africa",
+				"cooking": 2.16,
+				"underfive": 5.61,
+				"year": 2016,
+				"population": 55572201
+			},
+			{
+				"country": "Togo",
+				"region": "West Africa",
+				"cooking": 6.71,
+				"underfive": 7.53,
+				"year": 2016,
+				"population": 7606374
+			},
+			{
+				"country": "Tunisia",
+				"region": "North Africa",
+				"cooking": 99.1,
+				"underfive": 1.35,
+				"year": 2016,
+				"population": 11403248
+			},
+			{
+				"country": "Uganda",
+				"region": "East Africa",
+				"cooking": 0.77,
+				"underfive": 5.16,
+				"year": 2016,
+				"population": 41487965
+			},
+			{
+				"country": "Zambia",
+				"region": "East Africa",
+				"cooking": 16.43,
+				"underfive": 6.24,
+				"year": 2016,
+				"population": 16591390
+			},
+			{
+				"country": "Zimbabwe",
+				"region": "East Africa",
+				"cooking": 29.05,
+				"underfive": 5.33,
+				"year": 2016,
+				"population": 16150362
+			}
+		],
+		"year": 2016
+	}
+]
