@@ -1,4 +1,4 @@
-const pixelsTag = document.querySelector("div.pixels")
+/*const pixelsTag = document.querySelector("div.pixels")
 const bodyTag = document.querySelector("body")
 const progressTag = document.querySelector("div.progress")
 const sections = document.querySelectorAll("section")
@@ -17,7 +17,7 @@ document.addEventListener("scroll", function () {
   progressTag.style.height = `${100 * percentage}%`
   
 })
-
+*/
 
 /*//code for first graph
 
@@ -208,14 +208,14 @@ var regionColor = d3.scaleOrdinal(d3.schemePastel1);
 
 // Labels
 var xLabel = g.append("text")
-    .attr("y", height + 80)
+    .attr("y", height + 60)
     .attr("x", width / 2)
     .attr("font-size", "15px")
     .attr("text-anchor", "middle")
     .text("Access to Electricity");
 var yLabel = g.append("text")
     .attr("transform", "rotate(-90)")
-    .attr("y", -70)
+    .attr("y", -60)
     .attr("x", -170)
     .attr("font-size", "15px")
     .attr("text-anchor", "middle")
@@ -258,7 +258,8 @@ regions.forEach(function(region, i){
         .attr("fill", () => {
          console.log("your label" , region, regionColor(region));
          return regionColor(region); 
-        });
+        })
+        .attr("opacity", 0.5);
 
     legendRow.append("text")
         .attr("x", -10)
@@ -402,14 +403,14 @@ var regionColor2 = d3.scaleOrdinal(d3.schemePastel1);
 
 // Labels
 var xLabel2 = g2.append("text")
-    .attr("y", height2 + 80)
+    .attr("y", height2 + 60)
     .attr("x", width2 / 2)
     .attr("font-size", "15px")
     .attr("text-anchor", "middle")
     .text("Access to Clean Fuels and Technologies for Cooking");
 var yLabel2 = g2.append("text")
     .attr("transform", "rotate(-90)")
-    .attr("y", -70)
+    .attr("y", -60)
     .attr("x", -170)
     .attr("font-size", "15px")
     .attr("text-anchor", "middle")
@@ -452,7 +453,8 @@ regions2.forEach(function(region, i){
         .attr("fill", () => {
          console.log("your label" , region, regionColor2(region));
          return regionColor2(region); 
-        });
+        })
+        .attr("opacity", 0.5);
 
     legendRow2.append("text")
         .attr("x", -10)
