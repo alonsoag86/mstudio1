@@ -210,14 +210,14 @@ var regionColor = d3.scaleOrdinal(d3.schemePastel1);
 var xLabel = g.append("text")
     .attr("y", height + 60)
     .attr("x", width / 2)
-    .attr("font-size", "15px")
+    .attr("font-size", "13px")
     .attr("text-anchor", "middle")
     .text("Access to Electricity");
 var yLabel = g.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", -60)
     .attr("x", -170)
-    .attr("font-size", "15px")
+    .attr("font-size", "13px")
     .attr("text-anchor", "middle")
     .text("Under Five Mortality Rate");
 var timeLabel = g.append("text")
@@ -243,7 +243,7 @@ g.append("g")
     .attr("class", "y axis")
     .call(yAxisCall);
 
-var regions = ["north africa", "southern africa", "east africa", "west africa", "central africa"];
+var regions = ["northern africa", "southern africa", "eastern africa", "western africa", "central africa"];
 
 var legend = g.append("g")
     .attr("transform", "translate(" + (width - 10) + "," + (height - 240) + ")");
@@ -405,14 +405,14 @@ var regionColor2 = d3.scaleOrdinal(d3.schemePastel1);
 var xLabel2 = g2.append("text")
     .attr("y", height2 + 60)
     .attr("x", width2 / 2)
-    .attr("font-size", "15px")
+    .attr("font-size", "13px")
     .attr("text-anchor", "middle")
     .text("Access to Clean Fuels and Technologies for Cooking");
 var yLabel2 = g2.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", -60)
     .attr("x", -170)
-    .attr("font-size", "15px")
+    .attr("font-size", "13px")
     .attr("text-anchor", "middle")
     .text("Under Five Mortality Rate");
 var timeLabel2 = g2.append("text")
@@ -438,7 +438,7 @@ g2.append("g")
     .attr("class", "y axis")
     .call(yAxisCall2);
 
-var regions2 = ["north africa", "southern africa", "east africa", "west africa", "central africa"];
+var regions2 = ["northern africa", "southern africa", "eastern africa", "western africa", "central africa"];
 
 var legend2 = g2.append("g")
     .attr("transform", "translate(" + (width2 - 10) + "," + (height2 - 240) + ")");

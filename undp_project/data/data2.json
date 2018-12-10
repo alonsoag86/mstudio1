@@ -1,7 +1,7 @@
 [{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 86.47,
 				"underfive": 3.97,
 				"year": 2000,
@@ -17,7 +17,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.83,
 				"underfive": 14.32,
 				"year": 2000,
@@ -33,7 +33,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.83,
 				"underfive": 18.04,
 				"year": 2000,
@@ -41,7 +41,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.62,
 				"underfive": 15.67,
 				"year": 2000,
@@ -57,7 +57,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 56.79,
 				"underfive": 3.55,
 				"year": 2000,
@@ -81,7 +81,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.63,
 				"underfive": 10.11,
 				"year": 2000,
@@ -105,7 +105,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.41056347,
 				"underfive": 14.68,
 				"year": 2000,
@@ -113,7 +113,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 5.3,
 				"underfive": 10.15,
 				"year": 2000,
@@ -121,7 +121,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 83.28,
 				"underfive": 4.68,
 				"year": 2000,
@@ -137,7 +137,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.08,
 				"underfive": 8.84,
 				"year": 2000,
@@ -145,7 +145,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.07,
 				"underfive": 14.26,
 				"year": 2000,
@@ -161,7 +161,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.19,
 				"underfive": 11.84,
 				"year": 2000,
@@ -169,7 +169,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.89,
 				"underfive": 9.92,
 				"year": 2000,
@@ -177,7 +177,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.15,
 				"underfive": 16.54,
 				"year": 2000,
@@ -185,7 +185,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.38,
 				"underfive": 17.58,
 				"year": 2000,
@@ -193,7 +193,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.99,
 				"underfive": 10.45,
 				"year": 2000,
@@ -209,7 +209,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.62,
 				"underfive": 18.61,
 				"year": 2000,
@@ -217,7 +217,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.81,
 				"year": 2000,
@@ -225,7 +225,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.1,
 				"underfive": 10.71,
 				"year": 2000,
@@ -233,7 +233,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.75,
 				"underfive": 17.19,
 				"year": 2000,
@@ -241,7 +241,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.3,
 				"underfive": 21.95,
 				"year": 2000,
@@ -249,7 +249,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 29.04,
 				"underfive": 11.38,
 				"year": 2000,
@@ -257,7 +257,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 87.35,
 				"underfive": 1.85,
 				"year": 2000,
@@ -265,7 +265,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 89.7,
 				"underfive": 4.98,
 				"year": 2000,
@@ -273,7 +273,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.07,
 				"underfive": 17.04,
 				"year": 2000,
@@ -289,7 +289,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.01,
 				"underfive": 22.37,
 				"year": 2000,
@@ -297,7 +297,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.84,
 				"underfive": 18.62,
 				"year": 2000,
@@ -305,7 +305,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Easternern Africa",
 				"cooking": 0.29,
 				"underfive": 18.14,
 				"year": 2000,
@@ -321,7 +321,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.76,
 				"underfive": 13.17,
 				"year": 2000,
@@ -329,7 +329,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 76.78,
 				"underfive": 1.36,
 				"year": 2000,
@@ -337,7 +337,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Westernern Africa",
 				"cooking": 0.15,
 				"underfive": 23.31,
 				"year": 2000,
@@ -345,7 +345,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.64,
 				"underfive": 17.33,
 				"year": 2000,
@@ -361,7 +361,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.5,
 				"underfive": 18.29,
 				"year": 2000,
@@ -369,7 +369,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 14.21,
 				"underfive": 10.48,
 				"year": 2000,
@@ -385,7 +385,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.08,
 				"underfive": 13.04,
 				"year": 2000,
@@ -393,7 +393,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.34,
 				"underfive": 12.06,
 				"year": 2000,
@@ -401,7 +401,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 93.3,
 				"underfive": 3.17,
 				"year": 2000,
@@ -409,7 +409,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.01,
 				"underfive": 14.6,
 				"year": 2000,
@@ -417,7 +417,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14,
 				"underfive": 16.51,
 				"year": 2000,
@@ -425,7 +425,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 32.4,
 				"underfive": 10.18,
 				"year": 2000,
@@ -438,7 +438,7 @@
 		"countries": [{
 
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 87.68,
 				"underfive": 3.89,
 				"year": 2001,
@@ -454,7 +454,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.06,
 				"underfive": 13.95,
 				"year": 2001,
@@ -470,7 +470,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.06,
 				"underfive": 17.65,
 				"year": 2001,
@@ -478,7 +478,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.62,
 				"underfive": 15.1,
 				"year": 2001,
@@ -494,7 +494,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 58.2,
 				"underfive": 3.19,
 				"year": 2001,
@@ -518,7 +518,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.75,
 				"underfive": 10.07,
 				"year": 2001,
@@ -542,7 +542,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.53943467,
 				"underfive": 14.35,
 				"year": 2001,
@@ -550,7 +550,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 5.51,
 				"underfive": 9.93,
 				"year": 2001,
@@ -558,7 +558,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 85.24,
 				"underfive": 4.41,
 				"year": 2001,
@@ -574,7 +574,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.49,
 				"underfive": 8.4,
 				"year": 2001,
@@ -582,7 +582,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.18,
 				"underfive": 13.66,
 				"year": 2001,
@@ -598,7 +598,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.17,
 				"underfive": 11.4,
 				"year": 2001,
@@ -606,7 +606,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.48,
 				"underfive": 9.59,
 				"year": 2001,
@@ -614,7 +614,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.19,
 				"underfive": 15.78,
 				"year": 2001,
@@ -622,7 +622,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.35,
 				"underfive": 17.02,
 				"year": 2001,
@@ -630,7 +630,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.35,
 				"underfive": 10,
 				"year": 2001,
@@ -646,7 +646,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.62,
 				"underfive": 17.34,
 				"year": 2001,
@@ -654,7 +654,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.73,
 				"year": 2001,
@@ -662,7 +662,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.11,
 				"underfive": 10.13,
 				"year": 2001,
@@ -670,7 +670,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.77,
 				"underfive": 15.96,
 				"year": 2001,
@@ -678,7 +678,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.28,
 				"underfive": 21.12,
 				"year": 2001,
@@ -686,7 +686,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 30.08,
 				"underfive": 11.36,
 				"year": 2001,
@@ -694,7 +694,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 87.68,
 				"underfive": 1.71,
 				"year": 2001,
@@ -702,7 +702,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 90.68,
 				"underfive": 4.76,
 				"year": 2001,
@@ -710,7 +710,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.08,
 				"underfive": 16.18,
 				"year": 2001,
@@ -726,7 +726,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.07,
 				"underfive": 21.38,
 				"year": 2001,
@@ -734,7 +734,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.92,
 				"underfive": 18.06,
 				"year": 2001,
@@ -742,7 +742,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.31,
 				"underfive": 16.85,
 				"year": 2001,
@@ -758,7 +758,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.54,
 				"underfive": 12.51,
 				"year": 2001,
@@ -766,7 +766,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 78.21,
 				"underfive": 1.37,
 				"year": 2001,
@@ -774,7 +774,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.17,
 				"underfive": 22.77,
 				"year": 2001,
@@ -782,7 +782,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.69,
 				"underfive": 17.33,
 				"year": 2001,
@@ -798,7 +798,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.51,
 				"underfive": 17.34,
 				"year": 2001,
@@ -806,7 +806,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 15.25,
 				"underfive": 10.15,
 				"year": 2001,
@@ -822,7 +822,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.1,
 				"underfive": 12.26,
 				"year": 2001,
@@ -830,7 +830,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.48,
 				"underfive": 11.73,
 				"year": 2001,
@@ -838,7 +838,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94.3,
 				"underfive": 2.97,
 				"year": 2001,
@@ -846,7 +846,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.98,
 				"underfive": 13.95,
 				"year": 2001,
@@ -854,7 +854,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.11,
 				"underfive": 15.59,
 				"year": 2001,
@@ -862,7 +862,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 32.25,
 				"underfive": 10.08,
 				"year": 2001,
@@ -875,7 +875,7 @@
 		"countries": [{
 
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 88.87,
 				"underfive": 3.78,
 				"year": 2002,
@@ -891,7 +891,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.28,
 				"underfive": 13.55,
 				"year": 2002,
@@ -907,7 +907,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.35,
 				"underfive": 17.22,
 				"year": 2002,
@@ -915,7 +915,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.63,
 				"underfive": 14.51,
 				"year": 2002,
@@ -931,7 +931,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 59.38,
 				"underfive": 2.93,
 				"year": 2002,
@@ -955,7 +955,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.9,
 				"underfive": 10.06,
 				"year": 2002,
@@ -979,7 +979,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.62071157,
 				"underfive": 14,
 				"year": 2002,
@@ -987,7 +987,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 5.74,
 				"underfive": 9.68,
 				"year": 2002,
@@ -995,7 +995,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 87.71,
 				"underfive": 4.18,
 				"year": 2002,
@@ -1011,7 +1011,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.07,
 				"underfive": 7.98,
 				"year": 2002,
@@ -1019,7 +1019,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.31,
 				"underfive": 13.04,
 				"year": 2002,
@@ -1035,7 +1035,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.17,
 				"underfive": 10.97,
 				"year": 2002,
@@ -1043,7 +1043,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 7.15,
 				"underfive": 9.28,
 				"year": 2002,
@@ -1051,7 +1051,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.18,
 				"underfive": 15.04,
 				"year": 2002,
@@ -1059,7 +1059,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.39,
 				"underfive": 16.43,
 				"year": 2002,
@@ -1067,7 +1067,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.68,
 				"underfive": 9.51,
 				"year": 2002,
@@ -1083,7 +1083,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.59,
 				"underfive": 16.1,
 				"year": 2002,
@@ -1091,7 +1091,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.64,
 				"year": 2002,
@@ -1099,7 +1099,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.1,
 				"underfive": 9.58,
 				"year": 2002,
@@ -1107,7 +1107,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.83,
 				"underfive": 14.64,
 				"year": 2002,
@@ -1115,7 +1115,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.25,
 				"underfive": 20.18,
 				"year": 2002,
@@ -1123,7 +1123,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.23,
 				"underfive": 11.32,
 				"year": 2002,
@@ -1131,7 +1131,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 88.69,
 				"underfive": 1.61,
 				"year": 2002,
@@ -1139,7 +1139,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 91.49,
 				"underfive": 4.55,
 				"year": 2002,
@@ -1147,7 +1147,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.13,
 				"underfive": 15.4,
 				"year": 2002,
@@ -1163,7 +1163,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.13,
 				"underfive": 20.31,
 				"year": 2002,
@@ -1171,7 +1171,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.02,
 				"underfive": 17.49,
 				"year": 2002,
@@ -1179,7 +1179,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.32,
 				"underfive": 15.39,
 				"year": 2002,
@@ -1195,7 +1195,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.82,
 				"underfive": 11.73,
 				"year": 2002,
@@ -1203,7 +1203,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 79.83,
 				"underfive": 1.37,
 				"year": 2002,
@@ -1211,7 +1211,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.19,
 				"underfive": 22.2,
 				"year": 2002,
@@ -1219,7 +1219,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.75,
 				"underfive": 17.33,
 				"year": 2002,
@@ -1235,7 +1235,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.51,
 				"underfive": 16.44,
 				"year": 2002,
@@ -1243,7 +1243,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 16.57,
 				"underfive": 9.81,
 				"year": 2002,
@@ -1259,7 +1259,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.15,
 				"underfive": 11.47,
 				"year": 2002,
@@ -1267,7 +1267,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.66,
 				"underfive": 11.41,
 				"year": 2002,
@@ -1275,7 +1275,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.05,
 				"underfive": 2.78,
 				"year": 2002,
@@ -1283,7 +1283,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.99,
 				"underfive": 13.21,
 				"year": 2002,
@@ -1291,7 +1291,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.3,
 				"underfive": 14.43,
 				"year": 2002,
@@ -1299,7 +1299,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 32.18,
 				"underfive": 10.01,
 				"year": 2002,
@@ -1311,7 +1311,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 89.4,
 				"underfive": 3.65,
 				"year": 2003,
@@ -1327,7 +1327,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.58,
 				"underfive": 13.14,
 				"year": 2003,
@@ -1343,7 +1343,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.57,
 				"underfive": 16.71,
 				"year": 2003,
@@ -1351,7 +1351,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.64,
 				"underfive": 13.9,
 				"year": 2003,
@@ -1367,7 +1367,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 60.37,
 				"underfive": 2.77,
 				"year": 2003,
@@ -1391,7 +1391,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.06,
 				"underfive": 10.01,
 				"year": 2003,
@@ -1415,7 +1415,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.66356134,
 				"underfive": 13.65,
 				"year": 2003,
@@ -1423,7 +1423,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.02,
 				"underfive": 9.43,
 				"year": 2003,
@@ -1431,7 +1431,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 88.85,
 				"underfive": 3.96,
 				"year": 2003,
@@ -1447,7 +1447,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.56,
 				"underfive": 7.59,
 				"year": 2003,
@@ -1455,7 +1455,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.46,
 				"underfive": 12.4,
 				"year": 2003,
@@ -1471,7 +1471,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.16,
 				"underfive": 10.55,
 				"year": 2003,
@@ -1479,7 +1479,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 7.76,
 				"underfive": 9.01,
 				"year": 2003,
@@ -1487,7 +1487,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.21,
 				"underfive": 14.35,
 				"year": 2003,
@@ -1495,7 +1495,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.39,
 				"underfive": 15.82,
 				"year": 2003,
@@ -1503,7 +1503,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.15,
 				"underfive": 8.99,
 				"year": 2003,
@@ -1519,7 +1519,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.62,
 				"underfive": 14.91,
 				"year": 2003,
@@ -1527,7 +1527,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.55,
 				"year": 2003,
@@ -1535,7 +1535,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.08,
 				"underfive": 9.07,
 				"year": 2003,
@@ -1543,7 +1543,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.91,
 				"underfive": 13.37,
 				"year": 2003,
@@ -1551,7 +1551,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.24,
 				"underfive": 19.17,
 				"year": 2003,
@@ -1559,7 +1559,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 32.34,
 				"underfive": 11.25,
 				"year": 2003,
@@ -1567,7 +1567,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 89.24,
 				"underfive": 1.56,
 				"year": 2003,
@@ -1575,7 +1575,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.19,
 				"underfive": 4.36,
 				"year": 2003,
@@ -1583,7 +1583,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.09,
 				"underfive": 14.67,
 				"year": 2003,
@@ -1599,7 +1599,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.14,
 				"underfive": 19.18,
 				"year": 2003,
@@ -1607,7 +1607,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.1,
 				"underfive": 16.91,
 				"year": 2003,
@@ -1615,7 +1615,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.34,
 				"underfive": 13.89,
 				"year": 2003,
@@ -1631,7 +1631,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.74,
 				"underfive": 10.92,
 				"year": 2003,
@@ -1639,7 +1639,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 81.03,
 				"underfive": 1.38,
 				"year": 2003,
@@ -1647,7 +1647,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.22,
 				"underfive": 21.6,
 				"year": 2003,
@@ -1655,7 +1655,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.82,
 				"underfive": 17.33,
 				"year": 2003,
@@ -1671,7 +1671,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.52,
 				"underfive": 15.57,
 				"year": 2003,
@@ -1679,7 +1679,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 17.77,
 				"underfive": 9.48,
 				"year": 2003,
@@ -1695,7 +1695,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.2,
 				"underfive": 10.72,
 				"year": 2003,
@@ -1703,7 +1703,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.9,
 				"underfive": 11.08,
 				"year": 2003,
@@ -1711,7 +1711,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.76,
 				"underfive": 2.61,
 				"year": 2003,
@@ -1719,7 +1719,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.93,
 				"underfive": 12.44,
 				"year": 2003,
@@ -1727,7 +1727,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.46,
 				"underfive": 13.27,
 				"year": 2003,
@@ -1735,7 +1735,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 32.01,
 				"underfive": 9.94,
 				"year": 2003,
@@ -1747,7 +1747,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 90.3,
 				"underfive": 3.5,
 				"year": 2004,
@@ -1763,7 +1763,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.89,
 				"underfive": 12.75,
 				"year": 2004,
@@ -1779,7 +1779,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.85,
 				"underfive": 16.11,
 				"year": 2004,
@@ -1787,7 +1787,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.65,
 				"underfive": 13.25,
 				"year": 2004,
@@ -1803,7 +1803,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 61.44,
 				"underfive": 2.67,
 				"year": 2004,
@@ -1827,7 +1827,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.29,
 				"underfive": 9.91,
 				"year": 2004,
@@ -1851,7 +1851,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.67715716,
 				"underfive": 13.27,
 				"year": 2004,
@@ -1859,7 +1859,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.23,
 				"underfive": 9.17,
 				"year": 2004,
@@ -1867,7 +1867,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 90.28,
 				"underfive": 3.78,
 				"year": 2004,
@@ -1883,7 +1883,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.88,
 				"underfive": 7.24,
 				"year": 2004,
@@ -1891,7 +1891,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.58,
 				"underfive": 11.75,
 				"year": 2004,
@@ -1907,7 +1907,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.18,
 				"underfive": 10.14,
 				"year": 2004,
@@ -1915,7 +1915,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 8.54,
 				"underfive": 8.78,
 				"year": 2004,
@@ -1923,7 +1923,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.25,
 				"underfive": 13.71,
 				"year": 2004,
@@ -1931,7 +1931,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.35,
 				"underfive": 15.19,
 				"year": 2004,
@@ -1939,7 +1939,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.65,
 				"underfive": 8.47,
 				"year": 2004,
@@ -1955,7 +1955,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.63,
 				"underfive": 13.8,
 				"year": 2004,
@@ -1963,7 +1963,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.44,
 				"year": 2004,
@@ -1971,7 +1971,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.03,
 				"underfive": 8.6,
 				"year": 2004,
@@ -1979,7 +1979,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.94,
 				"underfive": 12.26,
 				"year": 2004,
@@ -1987,7 +1987,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.17,
 				"underfive": 18.14,
 				"year": 2004,
@@ -1995,7 +1995,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 33.48,
 				"underfive": 11.15,
 				"year": 2004,
@@ -2003,7 +2003,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 90.09,
 				"underfive": 1.55,
 				"year": 2004,
@@ -2011,7 +2011,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 93.08,
 				"underfive": 4.17,
 				"year": 2004,
@@ -2019,7 +2019,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.11,
 				"underfive": 14,
 				"year": 2004,
@@ -2035,7 +2035,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.25,
 				"underfive": 18.04,
 				"year": 2004,
@@ -2043,7 +2043,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.26,
 				"underfive": 16.32,
 				"year": 2004,
@@ -2051,7 +2051,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.35,
 				"underfive": 12.39,
 				"year": 2004,
@@ -2067,7 +2067,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.8,
 				"underfive": 10.13,
 				"year": 2004,
@@ -2075,7 +2075,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 82.81,
 				"underfive": 1.39,
 				"year": 2004,
@@ -2083,7 +2083,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.24,
 				"underfive": 20.98,
 				"year": 2004,
@@ -2091,7 +2091,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.88,
 				"underfive": 17.33,
 				"year": 2004,
@@ -2107,7 +2107,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.54,
 				"underfive": 14.75,
 				"year": 2004,
@@ -2115,7 +2115,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 19.14,
 				"underfive": 9.17,
 				"year": 2004,
@@ -2131,7 +2131,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.28,
 				"underfive": 10.05,
 				"year": 2004,
@@ -2139,7 +2139,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.21,
 				"underfive": 10.77,
 				"year": 2004,
@@ -2147,7 +2147,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.34,
 				"underfive": 2.45,
 				"year": 2004,
@@ -2155,7 +2155,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.94,
 				"underfive": 11.65,
 				"year": 2004,
@@ -2163,7 +2163,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.58,
 				"underfive": 12.16,
 				"year": 2004,
@@ -2171,7 +2171,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 31.77,
 				"underfive": 9.94,
 				"year": 2004,
@@ -2183,7 +2183,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 90.97,
 				"underfive": 3.35,
 				"year": 2005,
@@ -2199,7 +2199,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.24,
 				"underfive": 12.39,
 				"year": 2005,
@@ -2215,7 +2215,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.21,
 				"underfive": 15.41,
 				"year": 2005,
@@ -2223,7 +2223,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.67,
 				"underfive": 12.54,
 				"year": 2005,
@@ -2239,7 +2239,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 62.64,
 				"underfive": 2.63,
 				"year": 2005,
@@ -2263,7 +2263,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.53,
 				"underfive": 9.74,
 				"year": 2005,
@@ -2287,7 +2287,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.67066026,
 				"underfive": 12.88,
 				"year": 2005,
@@ -2295,7 +2295,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.49,
 				"underfive": 8.93,
 				"year": 2005,
@@ -2303,7 +2303,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 91.98,
 				"underfive": 3.61,
 				"year": 2005,
@@ -2319,7 +2319,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.76,
 				"underfive": 6.9,
 				"year": 2005,
@@ -2327,7 +2327,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.79,
 				"underfive": 11.1,
 				"year": 2005,
@@ -2343,7 +2343,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.15,
 				"underfive": 9.75,
 				"year": 2005,
@@ -2351,7 +2351,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 9.44,
 				"underfive": 8.57,
 				"year": 2005,
@@ -2359,7 +2359,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.19,
 				"underfive": 13.14,
 				"year": 2005,
@@ -2367,7 +2367,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.39,
 				"underfive": 14.55,
 				"year": 2005,
@@ -2375,7 +2375,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 4.28,
 				"underfive": 7.92,
 				"year": 2005,
@@ -2391,7 +2391,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.63,
 				"underfive": 12.83,
 				"year": 2005,
@@ -2399,7 +2399,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.31,
 				"year": 2005,
@@ -2407,7 +2407,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.02,
 				"underfive": 8.15,
 				"year": 2005,
@@ -2415,7 +2415,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.98,
 				"underfive": 11.39,
 				"year": 2005,
@@ -2423,7 +2423,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.18,
 				"underfive": 17.13,
 				"year": 2005,
@@ -2431,7 +2431,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 34.51,
 				"underfive": 11,
 				"year": 2005,
@@ -2439,7 +2439,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 90.43,
 				"underfive": 1.57,
 				"year": 2005,
@@ -2447,7 +2447,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 93.62,
 				"underfive": 3.99,
 				"year": 2005,
@@ -2455,7 +2455,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.21,
 				"underfive": 13.36,
 				"year": 2005,
@@ -2471,7 +2471,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.26,
 				"underfive": 16.92,
 				"year": 2005,
@@ -2479,7 +2479,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.39,
 				"underfive": 15.73,
 				"year": 2005,
@@ -2487,7 +2487,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.37,
 				"underfive": 11.02,
 				"year": 2005,
@@ -2503,7 +2503,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.96,
 				"underfive": 9.4,
 				"year": 2005,
@@ -2511,7 +2511,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 84.16,
 				"underfive": 1.4,
 				"year": 2005,
@@ -2519,7 +2519,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.27,
 				"underfive": 20.32,
 				"year": 2005,
@@ -2527,7 +2527,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.95,
 				"underfive": 17.32,
 				"year": 2005,
@@ -2543,7 +2543,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.53,
 				"underfive": 13.97,
 				"year": 2005,
@@ -2551,7 +2551,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 20.58,
 				"underfive": 8.88,
 				"year": 2005,
@@ -2567,7 +2567,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.35,
 				"underfive": 9.43,
 				"year": 2005,
@@ -2575,7 +2575,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.59,
 				"underfive": 10.46,
 				"year": 2005,
@@ -2583,7 +2583,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.85,
 				"underfive": 2.31,
 				"year": 2005,
@@ -2591,7 +2591,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.91,
 				"underfive": 10.88,
 				"year": 2005,
@@ -2599,7 +2599,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.73,
 				"underfive": 11.16,
 				"year": 2005,
@@ -2607,7 +2607,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 31.64,
 				"underfive": 9.96,
 				"year": 2005,
@@ -2619,7 +2619,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 91.09,
 				"underfive": 3.21,
 				"year": 2006,
@@ -2635,7 +2635,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.49,
 				"underfive": 12.1,
 				"year": 2006,
@@ -2651,7 +2651,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.48,
 				"underfive": 14.65,
 				"year": 2006,
@@ -2659,7 +2659,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.67,
 				"underfive": 11.8,
 				"year": 2006,
@@ -2675,7 +2675,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 63.4,
 				"underfive": 2.62,
 				"year": 2006,
@@ -2699,7 +2699,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.82,
 				"underfive": 9.54,
 				"year": 2006,
@@ -2723,7 +2723,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.65323782,
 				"underfive": 12.5,
 				"year": 2006,
@@ -2731,7 +2731,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.85,
 				"underfive": 8.67,
 				"year": 2006,
@@ -2739,7 +2739,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 93.14,
 				"underfive": 3.45,
 				"year": 2006,
@@ -2755,7 +2755,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.3,
 				"underfive": 6.59,
 				"year": 2006,
@@ -2763,7 +2763,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.96,
 				"underfive": 10.49,
 				"year": 2006,
@@ -2779,7 +2779,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.19,
 				"underfive": 9.37,
 				"year": 2006,
@@ -2787,7 +2787,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 10.17,
 				"underfive": 8.37,
 				"year": 2006,
@@ -2795,7 +2795,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.23,
 				"underfive": 12.61,
 				"year": 2006,
@@ -2803,7 +2803,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.4,
 				"underfive": 13.9,
 				"year": 2006,
@@ -2811,7 +2811,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 4.93,
 				"underfive": 7.43,
 				"year": 2006,
@@ -2827,7 +2827,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.63,
 				"underfive": 11.99,
 				"year": 2006,
@@ -2835,7 +2835,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.17,
 				"year": 2006,
@@ -2843,7 +2843,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.03,
 				"underfive": 7.73,
 				"year": 2006,
@@ -2851,7 +2851,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.01,
 				"underfive": 10.77,
 				"year": 2006,
@@ -2859,7 +2859,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.17,
 				"underfive": 16.24,
 				"year": 2006,
@@ -2867,7 +2867,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 35.61,
 				"underfive": 10.8,
 				"year": 2006,
@@ -2875,7 +2875,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 91.17,
 				"underfive": 1.6,
 				"year": 2006,
@@ -2883,7 +2883,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94,
 				"underfive": 3.82,
 				"year": 2006,
@@ -2891,7 +2891,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.25,
 				"underfive": 12.73,
 				"year": 2006,
@@ -2907,7 +2907,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.32,
 				"underfive": 15.85,
 				"year": 2006,
@@ -2915,7 +2915,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.57,
 				"underfive": 15.15,
 				"year": 2006,
@@ -2923,7 +2923,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.41,
 				"underfive": 9.83,
 				"year": 2006,
@@ -2939,7 +2939,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 32.19,
 				"underfive": 8.72,
 				"year": 2006,
@@ -2947,7 +2947,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 84.74,
 				"underfive": 1.41,
 				"year": 2006,
@@ -2955,7 +2955,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.32,
 				"underfive": 19.61,
 				"year": 2006,
@@ -2963,7 +2963,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.02,
 				"underfive": 17.26,
 				"year": 2006,
@@ -2979,7 +2979,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.53,
 				"underfive": 13.25,
 				"year": 2006,
@@ -2987,7 +2987,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 22.19,
 				"underfive": 8.61,
 				"year": 2006,
@@ -3003,7 +3003,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.36,
 				"underfive": 8.93,
 				"year": 2006,
@@ -3011,7 +3011,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.02,
 				"underfive": 10.17,
 				"year": 2006,
@@ -3019,7 +3019,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.24,
 				"underfive": 2.18,
 				"year": 2006,
@@ -3027,7 +3027,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.88,
 				"underfive": 10.16,
 				"year": 2006,
@@ -3035,7 +3035,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.92,
 				"underfive": 10.33,
 				"year": 2006,
@@ -3043,7 +3043,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 31.34,
 				"underfive": 10.03,
 				"year": 2006,
@@ -3055,7 +3055,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 91.56,
 				"underfive": 3.07,
 				"year": 2007,
@@ -3071,7 +3071,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.91,
 				"underfive": 11.86,
 				"year": 2007,
@@ -3087,7 +3087,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.8,
 				"underfive": 13.86,
 				"year": 2007,
@@ -3095,7 +3095,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.69,
 				"underfive": 11.06,
 				"year": 2007,
@@ -3111,7 +3111,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 64.56,
 				"underfive": 2.62,
 				"year": 2007,
@@ -3135,7 +3135,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.11,
 				"underfive": 9.3,
 				"year": 2007,
@@ -3159,7 +3159,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.63256097,
 				"underfive": 12.11,
 				"year": 2007,
@@ -3167,7 +3167,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.17,
 				"underfive": 8.41,
 				"year": 2007,
@@ -3175,7 +3175,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94,
 				"underfive": 3.3,
 				"year": 2007,
@@ -3191,7 +3191,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.96,
 				"underfive": 6.29,
 				"year": 2007,
@@ -3199,7 +3199,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.1,
 				"underfive": 9.9,
 				"year": 2007,
@@ -3215,7 +3215,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.14,
 				"underfive": 9.01,
 				"year": 2007,
@@ -3223,7 +3223,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 11.04,
 				"underfive": 8.15,
 				"year": 2007,
@@ -3231,7 +3231,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.25,
 				"underfive": 12.13,
 				"year": 2007,
@@ -3239,7 +3239,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.41,
 				"underfive": 13.24,
 				"year": 2007,
@@ -3247,7 +3247,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 5.65,
 				"underfive": 6.99,
 				"year": 2007,
@@ -3263,7 +3263,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.64,
 				"underfive": 11.3,
 				"year": 2007,
@@ -3271,7 +3271,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 2.02,
 				"year": 2007,
@@ -3279,7 +3279,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.02,
 				"underfive": 7.33,
 				"year": 2007,
@@ -3287,7 +3287,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.07,
 				"underfive": 10.31,
 				"year": 2007,
@@ -3295,7 +3295,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.13,
 				"underfive": 15.46,
 				"year": 2007,
@@ -3303,7 +3303,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 36.87,
 				"underfive": 10.57,
 				"year": 2007,
@@ -3311,7 +3311,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 91.43,
 				"underfive": 1.61,
 				"year": 2007,
@@ -3319,7 +3319,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94.5,
 				"underfive": 3.66,
 				"year": 2007,
@@ -3327,7 +3327,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.25,
 				"underfive": 12.05,
 				"year": 2007,
@@ -3343,7 +3343,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.37,
 				"underfive": 14.87,
 				"year": 2007,
@@ -3351,7 +3351,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.72,
 				"underfive": 14.57,
 				"year": 2007,
@@ -3359,7 +3359,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.43,
 				"underfive": 8.81,
 				"year": 2007,
@@ -3375,7 +3375,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.85,
 				"underfive": 8.11,
 				"year": 2007,
@@ -3383,7 +3383,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 85.78,
 				"underfive": 1.41,
 				"year": 2007,
@@ -3391,7 +3391,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.36,
 				"underfive": 18.86,
 				"year": 2007,
@@ -3399,7 +3399,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.11,
 				"underfive": 17.05,
 				"year": 2007,
@@ -3415,7 +3415,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.56,
 				"underfive": 12.57,
 				"year": 2007,
@@ -3423,7 +3423,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 23.73,
 				"underfive": 8.35,
 				"year": 2007,
@@ -3439,7 +3439,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.44,
 				"underfive": 8.47,
 				"year": 2007,
@@ -3447,7 +3447,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.44,
 				"underfive": 9.87,
 				"year": 2007,
@@ -3455,7 +3455,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.56,
 				"underfive": 2.05,
 				"year": 2007,
@@ -3463,7 +3463,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.89,
 				"underfive": 9.49,
 				"year": 2007,
@@ -3471,7 +3471,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.08,
 				"underfive": 9.81,
 				"year": 2007,
@@ -3479,7 +3479,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 31.17,
 				"underfive": 9.94,
 				"year": 2007,
@@ -3491,7 +3491,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.06,
 				"underfive": 2.94,
 				"year": 2008,
@@ -3507,7 +3507,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.19,
 				"underfive": 11.67,
 				"year": 2008,
@@ -3523,7 +3523,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.16,
 				"underfive": 13.08,
 				"year": 2008,
@@ -3531,7 +3531,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.7,
 				"underfive": 10.34,
 				"year": 2008,
@@ -3547,7 +3547,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 65.39,
 				"underfive": 2.6,
 				"year": 2008,
@@ -3571,7 +3571,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.58,
 				"underfive": 9.05,
 				"year": 2008,
@@ -3595,7 +3595,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.61026883,
 				"underfive": 11.71,
 				"year": 2008,
@@ -3603,7 +3603,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.59,
 				"underfive": 8.15,
 				"year": 2008,
@@ -3611,7 +3611,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94.6,
 				"underfive": 3.16,
 				"year": 2008,
@@ -3627,7 +3627,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 10.58,
 				"underfive": 6,
 				"year": 2008,
@@ -3635,7 +3635,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.36,
 				"underfive": 9.35,
 				"year": 2008,
@@ -3651,7 +3651,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.16,
 				"underfive": 8.69,
 				"year": 2008,
@@ -3659,7 +3659,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 12.07,
 				"underfive": 7.89,
 				"year": 2008,
@@ -3667,7 +3667,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.26,
 				"underfive": 11.68,
 				"year": 2008,
@@ -3675,7 +3675,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.39,
 				"underfive": 12.6,
 				"year": 2008,
@@ -3683,7 +3683,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.39,
 				"underfive": 6.54,
 				"year": 2008,
@@ -3699,7 +3699,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.63,
 				"underfive": 10.71,
 				"year": 2008,
@@ -3707,7 +3707,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.88,
 				"year": 2008,
@@ -3715,7 +3715,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.99,
 				"underfive": 6.94,
 				"year": 2008,
@@ -3723,7 +3723,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.15,
 				"underfive": 9.77,
 				"year": 2008,
@@ -3731,7 +3731,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.09,
 				"underfive": 14.77,
 				"year": 2008,
@@ -3739,7 +3739,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 37.75,
 				"underfive": 10.31,
 				"year": 2008,
@@ -3747,7 +3747,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 91.64,
 				"underfive": 1.58,
 				"year": 2008,
@@ -3755,7 +3755,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 94.87,
 				"underfive": 3.5,
 				"year": 2008,
@@ -3763,7 +3763,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.3,
 				"underfive": 11.39,
 				"year": 2008,
@@ -3779,7 +3779,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.43,
 				"underfive": 13.96,
 				"year": 2008,
@@ -3787,7 +3787,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.96,
 				"underfive": 14.01,
 				"year": 2008,
@@ -3795,7 +3795,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.44,
 				"underfive": 7.92,
 				"year": 2008,
@@ -3811,7 +3811,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.81,
 				"underfive": 7.57,
 				"year": 2008,
@@ -3819,7 +3819,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 87,
 				"underfive": 1.42,
 				"year": 2008,
@@ -3827,7 +3827,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.41,
 				"underfive": 18.05,
 				"year": 2008,
@@ -3835,7 +3835,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.2,
 				"underfive": 16.7,
 				"year": 2008,
@@ -3851,7 +3851,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.57,
 				"underfive": 11.92,
 				"year": 2008,
@@ -3859,7 +3859,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 25.38,
 				"underfive": 8.11,
 				"year": 2008,
@@ -3875,7 +3875,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.53,
 				"underfive": 8.05,
 				"year": 2008,
@@ -3883,7 +3883,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.98,
 				"underfive": 9.59,
 				"year": 2008,
@@ -3891,7 +3891,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.88,
 				"underfive": 1.94,
 				"year": 2008,
@@ -3899,7 +3899,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.86,
 				"underfive": 8.88,
 				"year": 2008,
@@ -3907,7 +3907,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.25,
 				"underfive": 9.33,
 				"year": 2008,
@@ -3915,7 +3915,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 30.97,
 				"underfive": 9.69,
 				"year": 2008,
@@ -3927,7 +3927,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.42,
 				"underfive": 2.83,
 				"year": 2009,
@@ -3943,7 +3943,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.46,
 				"underfive": 11.5,
 				"year": 2009,
@@ -3959,7 +3959,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.51,
 				"underfive": 12.33,
 				"year": 2009,
@@ -3967,7 +3967,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.69,
 				"underfive": 9.67,
 				"year": 2009,
@@ -3983,7 +3983,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 66.33,
 				"underfive": 2.57,
 				"year": 2009,
@@ -4007,7 +4007,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.12,
 				"underfive": 8.8,
 				"year": 2009,
@@ -4031,7 +4031,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.58651042,
 				"underfive": 11.32,
 				"year": 2009,
@@ -4039,7 +4039,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.91,
 				"underfive": 7.91,
 				"year": 2009,
@@ -4047,7 +4047,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.34,
 				"underfive": 3.03,
 				"year": 2009,
@@ -4063,7 +4063,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 11.37,
 				"underfive": 5.76,
 				"year": 2009,
@@ -4071,7 +4071,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.51,
 				"underfive": 8.84,
 				"year": 2009,
@@ -4087,7 +4087,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.22,
 				"underfive": 8.38,
 				"year": 2009,
@@ -4095,7 +4095,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 13.11,
 				"underfive": 7.59,
 				"year": 2009,
@@ -4103,7 +4103,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.23,
 				"underfive": 11.27,
 				"year": 2009,
@@ -4111,7 +4111,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.44,
 				"underfive": 11.98,
 				"year": 2009,
@@ -4119,7 +4119,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.24,
 				"underfive": 6.11,
 				"year": 2009,
@@ -4135,7 +4135,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.67,
 				"underfive": 10.21,
 				"year": 2009,
@@ -4143,7 +4143,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.76,
 				"year": 2009,
@@ -4151,7 +4151,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.97,
 				"underfive": 6.55,
 				"year": 2009,
@@ -4159,7 +4159,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.2,
 				"underfive": 9.32,
 				"year": 2009,
@@ -4167,7 +4167,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.09,
 				"underfive": 14.15,
 				"year": 2009,
@@ -4175,7 +4175,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 38.91,
 				"underfive": 10.06,
 				"year": 2009,
@@ -4183,7 +4183,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.23,
 				"underfive": 1.54,
 				"year": 2009,
@@ -4191,7 +4191,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.22,
 				"underfive": 3.35,
 				"year": 2009,
@@ -4199,7 +4199,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.28,
 				"underfive": 10.76,
 				"year": 2009,
@@ -4215,7 +4215,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.45,
 				"underfive": 13.13,
 				"year": 2009,
@@ -4223,7 +4223,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.19,
 				"underfive": 13.47,
 				"year": 2009,
@@ -4231,7 +4231,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.44,
 				"underfive": 7.13,
 				"year": 2009,
@@ -4247,7 +4247,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.81,
 				"underfive": 7.09,
 				"year": 2009,
@@ -4255,7 +4255,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 87.5,
 				"underfive": 1.42,
 				"year": 2009,
@@ -4263,7 +4263,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.45,
 				"underfive": 17.19,
 				"year": 2009,
@@ -4271,7 +4271,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.29,
 				"underfive": 16.31,
 				"year": 2009,
@@ -4287,7 +4287,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.59,
 				"underfive": 11.29,
 				"year": 2009,
@@ -4295,7 +4295,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 26.97,
 				"underfive": 7.89,
 				"year": 2009,
@@ -4311,7 +4311,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.54,
 				"underfive": 7.69,
 				"year": 2009,
@@ -4319,7 +4319,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.46,
 				"underfive": 9.31,
 				"year": 2009,
@@ -4327,7 +4327,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.1,
 				"underfive": 1.83,
 				"year": 2009,
@@ -4335,7 +4335,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.84,
 				"underfive": 8.34,
 				"year": 2009,
@@ -4343,7 +4343,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.43,
 				"underfive": 8.8,
 				"year": 2009,
@@ -4351,7 +4351,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 30.81,
 				"underfive": 9.27,
 				"year": 2009,
@@ -4363,7 +4363,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.41,
 				"underfive": 2.74,
 				"year": 2010,
@@ -4379,7 +4379,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.78,
 				"underfive": 11.36,
 				"year": 2010,
@@ -4395,7 +4395,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.01,
 				"underfive": 11.61,
 				"year": 2010,
@@ -4403,7 +4403,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.72,
 				"underfive": 9.06,
 				"year": 2010,
@@ -4419,7 +4419,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 67.17,
 				"underfive": 2.51,
 				"year": 2010,
@@ -4443,7 +4443,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.68,
 				"underfive": 8.53,
 				"year": 2010,
@@ -4467,7 +4467,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.56144071,
 				"underfive": 10.98,
 				"year": 2010,
@@ -4475,7 +4475,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.38,
 				"underfive": 7.67,
 				"year": 2010,
@@ -4483,7 +4483,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.99,
 				"underfive": 2.9,
 				"year": 2010,
@@ -4499,7 +4499,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 12.13,
 				"underfive": 5.53,
 				"year": 2010,
@@ -4507,7 +4507,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.69,
 				"underfive": 8.37,
 				"year": 2010,
@@ -4523,7 +4523,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.18,
 				"underfive": 8.08,
 				"year": 2010,
@@ -4531,7 +4531,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 14.05,
 				"underfive": 7.24,
 				"year": 2010,
@@ -4539,7 +4539,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.22,
 				"underfive": 10.88,
 				"year": 2010,
@@ -4547,7 +4547,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.46,
 				"underfive": 11.38,
 				"year": 2010,
@@ -4555,7 +4555,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.02,
 				"underfive": 5.84,
 				"year": 2010,
@@ -4571,7 +4571,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.65,
 				"underfive": 9.75,
 				"year": 2010,
@@ -4579,7 +4579,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.66,
 				"year": 2010,
@@ -4587,7 +4587,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.96,
 				"underfive": 6.18,
 				"year": 2010,
@@ -4595,7 +4595,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.18,
 				"underfive": 8.86,
 				"year": 2010,
@@ -4603,7 +4603,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.02,
 				"underfive": 13.57,
 				"year": 2010,
@@ -4611,7 +4611,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 40.08,
 				"underfive": 9.79,
 				"year": 2010,
@@ -4619,7 +4619,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.27,
 				"underfive": 1.5,
 				"year": 2010,
@@ -4627,7 +4627,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.61,
 				"underfive": 3.2,
 				"year": 2010,
@@ -4635,7 +4635,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.4,
 				"underfive": 10.31,
 				"year": 2010,
@@ -4651,7 +4651,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.55,
 				"underfive": 12.36,
 				"year": 2010,
@@ -4659,7 +4659,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.44,
 				"underfive": 12.96,
 				"year": 2010,
@@ -4667,7 +4667,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.47,
 				"underfive": 6.44,
 				"year": 2010,
@@ -4683,7 +4683,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.94,
 				"underfive": 6.65,
 				"year": 2010,
@@ -4691,7 +4691,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 88.23,
 				"underfive": 1.42,
 				"year": 2010,
@@ -4699,7 +4699,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.53,
 				"underfive": 16.32,
 				"year": 2010,
@@ -4707,7 +4707,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.41,
 				"underfive": 15.86,
 				"year": 2010,
@@ -4723,7 +4723,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.56,
 				"underfive": 10.71,
 				"year": 2010,
@@ -4731,7 +4731,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 28.94,
 				"underfive": 7.68,
 				"year": 2010,
@@ -4747,7 +4747,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.66,
 				"underfive": 7.34,
 				"year": 2010,
@@ -4755,7 +4755,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.02,
 				"underfive": 9.04,
 				"year": 2010,
@@ -4763,7 +4763,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.34,
 				"underfive": 1.74,
 				"year": 2010,
@@ -4771,7 +4771,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.83,
 				"underfive": 7.8,
 				"year": 2010,
@@ -4779,7 +4779,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.47,
 				"underfive": 8.24,
 				"year": 2010,
@@ -4787,7 +4787,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 30.46,
 				"underfive": 8.75,
 				"year": 2010,
@@ -4799,7 +4799,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.49,
 				"underfive": 2.67,
 				"year": 2011,
@@ -4815,7 +4815,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.99,
 				"underfive": 11.22,
 				"year": 2011,
@@ -4831,7 +4831,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.43,
 				"underfive": 10.94,
 				"year": 2011,
@@ -4839,7 +4839,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.76,
 				"underfive": 8.51,
 				"year": 2011,
@@ -4855,7 +4855,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 67.96,
 				"underfive": 2.43,
 				"year": 2011,
@@ -4879,7 +4879,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 4.31,
 				"underfive": 8.27,
 				"year": 2011,
@@ -4903,7 +4903,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.53519082,
 				"underfive": 10.66,
 				"year": 2011,
@@ -4911,7 +4911,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.84,
 				"underfive": 7.44,
 				"year": 2011,
@@ -4919,7 +4919,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.27,
 				"underfive": 2.78,
 				"year": 2011,
@@ -4935,7 +4935,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 12.73,
 				"underfive": 5.32,
 				"year": 2011,
@@ -4943,7 +4943,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.82,
 				"underfive": 7.92,
 				"year": 2011,
@@ -4959,7 +4959,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.24,
 				"underfive": 7.8,
 				"year": 2011,
@@ -4967,7 +4967,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 15.11,
 				"underfive": 6.89,
 				"year": 2011,
@@ -4975,7 +4975,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.24,
 				"underfive": 10.51,
 				"year": 2011,
@@ -4983,7 +4983,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.43,
 				"underfive": 10.82,
 				"year": 2011,
@@ -4991,7 +4991,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.95,
 				"underfive": 5.63,
 				"year": 2011,
@@ -5007,7 +5007,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.67,
 				"underfive": 9.34,
 				"year": 2011,
@@ -5015,7 +5015,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.76,
 				"year": 2011,
@@ -5023,7 +5023,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.94,
 				"underfive": 5.83,
 				"year": 2011,
@@ -5031,7 +5031,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.25,
 				"underfive": 8.31,
 				"year": 2011,
@@ -5039,7 +5039,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.05,
 				"underfive": 13.07,
 				"year": 2011,
@@ -5047,7 +5047,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 41.31,
 				"underfive": 9.5,
 				"year": 2011,
@@ -5055,7 +5055,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.56,
 				"underfive": 1.49,
 				"year": 2011,
@@ -5063,7 +5063,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 95.82,
 				"underfive": 3.06,
 				"year": 2011,
@@ -5071,7 +5071,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.46,
 				"underfive": 9.76,
 				"year": 2011,
@@ -5087,7 +5087,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.61,
 				"underfive": 11.64,
 				"year": 2011,
@@ -5095,7 +5095,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 2.74,
 				"underfive": 12.47,
 				"year": 2011,
@@ -5103,7 +5103,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.48,
 				"underfive": 5.75,
 				"year": 2011,
@@ -5119,7 +5119,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 32.01,
 				"underfive": 6.26,
 				"year": 2011,
@@ -5127,7 +5127,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 88.99,
 				"underfive": 1.43,
 				"year": 2011,
@@ -5135,7 +5135,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.61,
 				"underfive": 15.43,
 				"year": 2011,
@@ -5143,7 +5143,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.56,
 				"underfive": 15.35,
 				"year": 2011,
@@ -5159,7 +5159,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.58,
 				"underfive": 10.21,
 				"year": 2011,
@@ -5167,7 +5167,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 30.82,
 				"underfive": 7.48,
 				"year": 2011,
@@ -5183,7 +5183,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.74,
 				"underfive": 6.95,
 				"year": 2011,
@@ -5191,7 +5191,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.52,
 				"underfive": 8.77,
 				"year": 2011,
@@ -5199,7 +5199,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.52,
 				"underfive": 1.65,
 				"year": 2011,
@@ -5207,7 +5207,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.84,
 				"underfive": 7.3,
 				"year": 2011,
@@ -5215,7 +5215,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.71,
 				"underfive": 7.86,
 				"year": 2011,
@@ -5223,7 +5223,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 30.27,
 				"underfive": 8.12,
 				"year": 2011,
@@ -5235,7 +5235,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.47,
 				"underfive": 2.61,
 				"year": 2012,
@@ -5251,7 +5251,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.34,
 				"underfive": 11.05,
 				"year": 2012,
@@ -5267,7 +5267,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.82,
 				"underfive": 10.32,
 				"year": 2012,
@@ -5275,7 +5275,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.77,
 				"underfive": 7.99,
 				"year": 2012,
@@ -5291,7 +5291,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 68.49,
 				"underfive": 2.33,
 				"year": 2012,
@@ -5315,7 +5315,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 5.1,
 				"underfive": 8.04,
 				"year": 2012,
@@ -5339,7 +5339,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.5079217,
 				"underfive": 10.35,
 				"year": 2012,
@@ -5347,7 +5347,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.25,
 				"underfive": 7.22,
 				"year": 2012,
@@ -5355,7 +5355,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.48,
 				"underfive": 2.67,
 				"year": 2012,
@@ -5371,7 +5371,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 13.4,
 				"underfive": 5.13,
 				"year": 2012,
@@ -5379,7 +5379,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.01,
 				"underfive": 7.51,
 				"year": 2012,
@@ -5395,7 +5395,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.2,
 				"underfive": 7.53,
 				"year": 2012,
@@ -5403,7 +5403,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 16.43,
 				"underfive": 6.52,
 				"year": 2012,
@@ -5411,7 +5411,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.26,
 				"underfive": 10.16,
 				"year": 2012,
@@ -5419,7 +5419,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.44,
 				"underfive": 10.3,
 				"year": 2012,
@@ -5427,7 +5427,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.9,
 				"underfive": 5.44,
 				"year": 2012,
@@ -5443,7 +5443,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.69,
 				"underfive": 8.97,
 				"year": 2012,
@@ -5451,7 +5451,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.5,
 				"year": 2012,
@@ -5459,7 +5459,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.96,
 				"underfive": 5.5,
 				"year": 2012,
@@ -5467,7 +5467,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.33,
 				"underfive": 7.59,
 				"year": 2012,
@@ -5475,7 +5475,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1,
 				"underfive": 12.59,
 				"year": 2012,
@@ -5483,7 +5483,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 42.34,
 				"underfive": 9.23,
 				"year": 2012,
@@ -5491,7 +5491,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.62,
 				"underfive": 1.48,
 				"year": 2012,
@@ -5499,7 +5499,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.12,
 				"underfive": 2.92,
 				"year": 2012,
@@ -5507,7 +5507,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.48,
 				"underfive": 9.22,
 				"year": 2012,
@@ -5523,7 +5523,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.67,
 				"underfive": 10.99,
 				"year": 2012,
@@ -5531,7 +5531,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.09,
 				"underfive": 11.99,
 				"year": 2012,
@@ -5539,7 +5539,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.51,
 				"underfive": 5.22,
 				"year": 2012,
@@ -5555,7 +5555,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.65,
 				"underfive": 5.9,
 				"year": 2012,
@@ -5563,7 +5563,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 88.85,
 				"underfive": 1.44,
 				"year": 2012,
@@ -5571,7 +5571,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.72,
 				"underfive": 14.56,
 				"year": 2012,
@@ -5579,7 +5579,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.68,
 				"underfive": 14.89,
 				"year": 2012,
@@ -5595,7 +5595,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.59,
 				"underfive": 9.86,
 				"year": 2012,
@@ -5603,7 +5603,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 32.75,
 				"underfive": 7.29,
 				"year": 2012,
@@ -5619,7 +5619,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.85,
 				"underfive": 6.62,
 				"year": 2012,
@@ -5627,7 +5627,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.88,
 				"underfive": 8.51,
 				"year": 2012,
@@ -5635,7 +5635,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.68,
 				"underfive": 1.58,
 				"year": 2012,
@@ -5643,7 +5643,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.81,
 				"underfive": 6.73,
 				"year": 2012,
@@ -5651,7 +5651,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.9,
 				"underfive": 7.49,
 				"year": 2012,
@@ -5659,7 +5659,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 30.02,
 				"underfive": 7.38,
 				"year": 2012,
@@ -5671,7 +5671,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.83,
 				"underfive": 2.57,
 				"year": 2013,
@@ -5687,7 +5687,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.58,
 				"underfive": 10.85,
 				"year": 2013,
@@ -5703,7 +5703,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 7.33,
 				"underfive": 9.75,
 				"year": 2013,
@@ -5711,7 +5711,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.77,
 				"underfive": 7.52,
 				"year": 2013,
@@ -5727,7 +5727,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 69.48,
 				"underfive": 2.22,
 				"year": 2013,
@@ -5751,7 +5751,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 6.06,
 				"underfive": 7.79,
 				"year": 2013,
@@ -5775,7 +5775,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.47977638,
 				"underfive": 10.06,
 				"year": 2013,
@@ -5783,7 +5783,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.79,
 				"underfive": 7,
 				"year": 2013,
@@ -5791,7 +5791,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.85,
 				"underfive": 2.56,
 				"year": 2013,
@@ -5807,7 +5807,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.01,
 				"underfive": 4.94,
 				"year": 2013,
@@ -5815,7 +5815,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.11,
 				"underfive": 7.12,
 				"year": 2013,
@@ -5831,7 +5831,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.26,
 				"underfive": 7.28,
 				"year": 2013,
@@ -5839,7 +5839,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 17.58,
 				"underfive": 6.15,
 				"year": 2013,
@@ -5847,7 +5847,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.23,
 				"underfive": 9.82,
 				"year": 2013,
@@ -5855,7 +5855,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.46,
 				"underfive": 9.84,
 				"year": 2013,
@@ -5863,7 +5863,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 10.74,
 				"underfive": 5.23,
 				"year": 2013,
@@ -5879,7 +5879,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.68,
 				"underfive": 8.63,
 				"year": 2013,
@@ -5887,7 +5887,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.44,
 				"year": 2013,
@@ -5895,7 +5895,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.94,
 				"underfive": 5.23,
 				"year": 2013,
@@ -5903,7 +5903,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.35,
 				"underfive": 7.04,
 				"year": 2013,
@@ -5911,7 +5911,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1,
 				"underfive": 12.16,
 				"year": 2013,
@@ -5919,7 +5919,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 43.35,
 				"underfive": 8.95,
 				"year": 2013,
@@ -5927,7 +5927,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.74,
 				"underfive": 1.48,
 				"year": 2013,
@@ -5935,7 +5935,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.27,
 				"underfive": 2.79,
 				"year": 2013,
@@ -5943,7 +5943,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.56,
 				"underfive": 8.72,
 				"year": 2013,
@@ -5959,7 +5959,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.7,
 				"underfive": 10.41,
 				"year": 2013,
@@ -5967,7 +5967,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.48,
 				"underfive": 11.56,
 				"year": 2013,
@@ -5975,7 +5975,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.52,
 				"underfive": 4.8,
 				"year": 2013,
@@ -5991,7 +5991,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.64,
 				"underfive": 5.56,
 				"year": 2013,
@@ -5999,7 +5999,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 89.27,
 				"underfive": 1.44,
 				"year": 2013,
@@ -6007,7 +6007,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.73,
 				"underfive": 13.73,
 				"year": 2013,
@@ -6015,7 +6015,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.82,
 				"underfive": 14.41,
 				"year": 2013,
@@ -6031,7 +6031,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.58,
 				"underfive": 9.69,
 				"year": 2013,
@@ -6039,7 +6039,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 34.71,
 				"underfive": 7.1,
 				"year": 2013,
@@ -6055,7 +6055,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.93,
 				"underfive": 6.36,
 				"year": 2013,
@@ -6063,7 +6063,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.37,
 				"underfive": 8.26,
 				"year": 2013,
@@ -6071,7 +6071,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.8,
 				"underfive": 1.51,
 				"year": 2013,
@@ -6079,7 +6079,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.78,
 				"underfive": 6.27,
 				"year": 2013,
@@ -6087,7 +6087,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.99,
 				"underfive": 7.16,
 				"year": 2013,
@@ -6095,7 +6095,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 29.88,
 				"underfive": 6.68,
 				"year": 2013,
@@ -6107,7 +6107,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 93.1,
 				"underfive": 2.53,
 				"year": 2014,
@@ -6123,7 +6123,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.85,
 				"underfive": 10.62,
 				"year": 2014,
@@ -6139,7 +6139,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 7.88,
 				"underfive": 9.26,
 				"year": 2014,
@@ -6147,7 +6147,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.81,
 				"underfive": 7.08,
 				"year": 2014,
@@ -6163,7 +6163,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 70.06,
 				"underfive": 2.1,
 				"year": 2014,
@@ -6187,7 +6187,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 7.05,
 				"underfive": 7.55,
 				"year": 2014,
@@ -6211,7 +6211,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.45089793,
 				"underfive": 9.77,
 				"year": 2014,
@@ -6219,7 +6219,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 10.29,
 				"underfive": 6.78,
 				"year": 2014,
@@ -6227,7 +6227,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.11,
 				"underfive": 2.47,
 				"year": 2014,
@@ -6243,7 +6243,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 14.78,
 				"underfive": 4.76,
 				"year": 2014,
@@ -6251,7 +6251,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.25,
 				"underfive": 6.75,
 				"year": 2014,
@@ -6267,7 +6267,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.27,
 				"underfive": 7.02,
 				"year": 2014,
@@ -6275,7 +6275,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.82,
 				"underfive": 5.8,
 				"year": 2014,
@@ -6283,7 +6283,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.25,
 				"underfive": 9.49,
 				"year": 2014,
@@ -6291,7 +6291,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.5,
 				"underfive": 9.45,
 				"year": 2014,
@@ -6299,7 +6299,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 11.83,
 				"underfive": 5.05,
 				"year": 2014,
@@ -6315,7 +6315,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.71,
 				"underfive": 8.3,
 				"year": 2014,
@@ -6323,7 +6323,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.38,
 				"year": 2014,
@@ -6331,7 +6331,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.92,
 				"underfive": 4.99,
 				"year": 2014,
@@ -6339,7 +6339,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.43,
 				"underfive": 6.57,
 				"year": 2014,
@@ -6347,7 +6347,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.97,
 				"underfive": 11.77,
 				"year": 2014,
@@ -6355,7 +6355,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 44.26,
 				"underfive": 8.68,
 				"year": 2014,
@@ -6363,7 +6363,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 92.94,
 				"underfive": 1.47,
 				"year": 2014,
@@ -6371,7 +6371,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.43,
 				"underfive": 2.66,
 				"year": 2014,
@@ -6379,7 +6379,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.56,
 				"underfive": 8.32,
 				"year": 2014,
@@ -6395,7 +6395,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.77,
 				"underfive": 9.86,
 				"year": 2014,
@@ -6403,7 +6403,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.92,
 				"underfive": 11.16,
 				"year": 2014,
@@ -6411,7 +6411,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.54,
 				"underfive": 4.47,
 				"year": 2014,
@@ -6427,7 +6427,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.68,
 				"underfive": 5.26,
 				"year": 2014,
@@ -6435,7 +6435,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 89.76,
 				"underfive": 1.45,
 				"year": 2014,
@@ -6443,7 +6443,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.8,
 				"underfive": 12.94,
 				"year": 2014,
@@ -6451,7 +6451,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 1.97,
 				"underfive": 13.98,
 				"year": 2014,
@@ -6467,7 +6467,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.62,
 				"underfive": 9.64,
 				"year": 2014,
@@ -6475,7 +6475,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 36.93,
 				"underfive": 6.91,
 				"year": 2014,
@@ -6491,7 +6491,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2,
 				"underfive": 6.13,
 				"year": 2014,
@@ -6499,7 +6499,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 5.78,
 				"underfive": 8.01,
 				"year": 2014,
@@ -6507,7 +6507,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 98.94,
 				"underfive": 1.45,
 				"year": 2014,
@@ -6515,7 +6515,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.78,
 				"underfive": 5.9,
 				"year": 2014,
@@ -6523,7 +6523,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 16.23,
 				"underfive": 6.8,
 				"year": 2014,
@@ -6531,7 +6531,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 29.63,
 				"underfive": 6.11,
 				"year": 2014,
@@ -6543,7 +6543,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.7,
 				"underfive": 2.49,
 				"year": 2015,
@@ -6559,7 +6559,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.06,
 				"underfive": 10.37,
 				"year": 2015,
@@ -6575,7 +6575,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 8.46,
 				"underfive": 8.84,
 				"year": 2015,
@@ -6583,7 +6583,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.83,
 				"underfive": 6.71,
 				"year": 2015,
@@ -6599,7 +6599,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 70.63,
 				"underfive": 1.97,
 				"year": 2015,
@@ -6623,7 +6623,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 8.15,
 				"underfive": 7.32,
 				"year": 2015,
@@ -6647,7 +6647,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 17.96,
 				"underfive": 9.49,
 				"year": 2015,
@@ -6655,7 +6655,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 10.89,
 				"underfive": 6.57,
 				"year": 2015,
@@ -6663,7 +6663,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.31,
 				"underfive": 2.37,
 				"year": 2015,
@@ -6679,7 +6679,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 15.6,
 				"underfive": 4.61,
 				"year": 2015,
@@ -6687,7 +6687,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.4,
 				"underfive": 6.42,
 				"year": 2015,
@@ -6703,7 +6703,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.23,
 				"underfive": 6.79,
 				"year": 2015,
@@ -6711,7 +6711,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 20.37,
 				"underfive": 5.47,
 				"year": 2015,
@@ -6719,7 +6719,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.24,
 				"underfive": 9.17,
 				"year": 2015,
@@ -6727,7 +6727,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.46,
 				"underfive": 9.07,
 				"year": 2015,
@@ -6735,7 +6735,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 12.76,
 				"underfive": 4.87,
 				"year": 2015,
@@ -6751,7 +6751,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.7,
 				"underfive": 8.01,
 				"year": 2015,
@@ -6759,7 +6759,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.33,
 				"year": 2015,
@@ -6767,7 +6767,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.9,
 				"underfive": 4.78,
 				"year": 2015,
@@ -6775,7 +6775,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.49,
 				"underfive": 6.17,
 				"year": 2015,
@@ -6783,7 +6783,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.93,
 				"underfive": 11.37,
 				"year": 2015,
@@ -6791,7 +6791,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 45.66,
 				"underfive": 8.41,
 				"year": 2015,
@@ -6799,7 +6799,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 93.11,
 				"underfive": 1.44,
 				"year": 2015,
@@ -6807,7 +6807,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.6,
 				"underfive": 2.54,
 				"year": 2015,
@@ -6815,7 +6815,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.62,
 				"underfive": 7.86,
 				"year": 2015,
@@ -6831,7 +6831,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.88,
 				"underfive": 9.35,
 				"year": 2015,
@@ -6839,7 +6839,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.39,
 				"underfive": 10.75,
 				"year": 2015,
@@ -6847,7 +6847,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.56,
 				"underfive": 4.2,
 				"year": 2015,
@@ -6863,7 +6863,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.82,
 				"underfive": 4.98,
 				"year": 2015,
@@ -6871,7 +6871,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 90.23,
 				"underfive": 1.45,
 				"year": 2015,
@@ -6879,7 +6879,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.93,
 				"underfive": 12.22,
 				"year": 2015,
@@ -6887,7 +6887,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.12,
 				"underfive": 13.56,
 				"year": 2015,
@@ -6903,7 +6903,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.63,
 				"underfive": 9.64,
 				"year": 2015,
@@ -6911,7 +6911,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 38.95,
 				"underfive": 6.71,
 				"year": 2015,
@@ -6927,7 +6927,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.15,
 				"underfive": 5.83,
 				"year": 2015,
@@ -6935,7 +6935,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.24,
 				"underfive": 7.77,
 				"year": 2015,
@@ -6943,7 +6943,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 99.03,
 				"underfive": 1.4,
 				"year": 2015,
@@ -6951,7 +6951,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.76,
 				"underfive": 5.53,
 				"year": 2015,
@@ -6959,7 +6959,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 16.31,
 				"underfive": 6.49,
 				"year": 2015,
@@ -6967,7 +6967,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 29.36,
 				"underfive": 5.7,
 				"year": 2015,
@@ -6979,7 +6979,7 @@
 	{
 		"countries": [{
 				"country": "Algeria",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 92.62,
 				"underfive": 2.45,
 				"year": 2016,
@@ -6995,7 +6995,7 @@
 			},
 			{
 				"country": "Benin",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.44,
 				"underfive": 10.1,
 				"year": 2016,
@@ -7011,7 +7011,7 @@
 			},
 			{
 				"country": "Burkina Faso",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 8.93,
 				"underfive": 8.45,
 				"year": 2016,
@@ -7019,7 +7019,7 @@
 			},
 			{
 				"country": "Burundi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.85,
 				"underfive": 6.39,
 				"year": 2016,
@@ -7035,7 +7035,7 @@
 			},
 			{
 				"country": "Cape Verde",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 71.05,
 				"underfive": 1.85,
 				"year": 2016,
@@ -7059,7 +7059,7 @@
 			},
 			{
 				"country": "Comoros",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 9.34,
 				"underfive": 7.11,
 				"year": 2016,
@@ -7083,7 +7083,7 @@
 			},
 			{
 				"country": "Cote d'Ivoire",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 18.23,
 				"underfive": 9.18,
 				"year": 2016,
@@ -7091,7 +7091,7 @@
 			},
 			{
 				"country": "Djibouti",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 11.52,
 				"underfive": 6.37,
 				"year": 2016,
@@ -7099,7 +7099,7 @@
 			},
 			{
 				"country": "Egypt, Arab Rep.",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 97.62,
 				"underfive": 2.29,
 				"year": 2016,
@@ -7115,7 +7115,7 @@
 			},
 			{
 				"country": "Eritrea",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 16.32,
 				"underfive": 4.45,
 				"year": 2016,
@@ -7123,7 +7123,7 @@
 			},
 			{
 				"country": "Ethiopia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.51,
 				"underfive": 6.12,
 				"year": 2016,
@@ -7139,7 +7139,7 @@
 			},
 			{
 				"country": "Gambia, The",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 3.3,
 				"underfive": 6.58,
 				"year": 2016,
@@ -7147,7 +7147,7 @@
 			},
 			{
 				"country": "Ghana",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 21.71,
 				"underfive": 5.18,
 				"year": 2016,
@@ -7155,7 +7155,7 @@
 			},
 			{
 				"country": "Guinea",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.24,
 				"underfive": 8.87,
 				"year": 2016,
@@ -7163,7 +7163,7 @@
 			},
 			{
 				"country": "Guinea-Bissau",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.52,
 				"underfive": 8.74,
 				"year": 2016,
@@ -7171,7 +7171,7 @@
 			},
 			{
 				"country": "Kenya",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 13.42,
 				"underfive": 4.71,
 				"year": 2016,
@@ -7187,7 +7187,7 @@
 			},
 			{
 				"country": "Liberia",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.71,
 				"underfive": 7.74,
 				"year": 2016,
@@ -7195,7 +7195,7 @@
 			},
 			{
 				"country": "Libya",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": "",
 				"underfive": 1.28,
 				"year": 2016,
@@ -7203,7 +7203,7 @@
 			},
 			{
 				"country": "Madagascar",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.91,
 				"underfive": 4.59,
 				"year": 2016,
@@ -7211,7 +7211,7 @@
 			},
 			{
 				"country": "Malawi",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.5,
 				"underfive": 5.84,
 				"year": 2016,
@@ -7219,7 +7219,7 @@
 			},
 			{
 				"country": "Mali",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.96,
 				"underfive": 10.96,
 				"year": 2016,
@@ -7227,7 +7227,7 @@
 			},
 			{
 				"country": "Mauritania",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 46.56,
 				"underfive": 8.15,
 				"year": 2016,
@@ -7235,7 +7235,7 @@
 			},
 			{
 				"country": "Mauritius",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 93.34,
 				"underfive": 1.38,
 				"year": 2016,
@@ -7243,7 +7243,7 @@
 			},
 			{
 				"country": "Morocco",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 96.75,
 				"underfive": 2.43,
 				"year": 2016,
@@ -7251,7 +7251,7 @@
 			},
 			{
 				"country": "Mozambique",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 3.69,
 				"underfive": 7.48,
 				"year": 2016,
@@ -7267,7 +7267,7 @@
 			},
 			{
 				"country": "Niger",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 1.91,
 				"underfive": 8.87,
 				"year": 2016,
@@ -7275,7 +7275,7 @@
 			},
 			{
 				"country": "Nigeria",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 4.91,
 				"underfive": 10.38,
 				"year": 2016,
@@ -7283,7 +7283,7 @@
 			},
 			{
 				"country": "Rwanda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.57,
 				"underfive": 3.98,
 				"year": 2016,
@@ -7299,7 +7299,7 @@
 			},
 			{
 				"country": "Senegal",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 31.65,
 				"underfive": 4.75,
 				"year": 2016,
@@ -7307,7 +7307,7 @@
 			},
 			{
 				"country": "Seychelles",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 90.36,
 				"underfive": 1.44,
 				"year": 2016,
@@ -7315,7 +7315,7 @@
 			},
 			{
 				"country": "Sierra Leone",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 0.99,
 				"underfive": 11.59,
 				"year": 2016,
@@ -7323,7 +7323,7 @@
 			},
 			{
 				"country": "Somalia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.34,
 				"underfive": 13.15,
 				"year": 2016,
@@ -7339,7 +7339,7 @@
 			},
 			{
 				"country": "South Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 0.64,
 				"underfive": 9.64,
 				"year": 2016,
@@ -7347,7 +7347,7 @@
 			},
 			{
 				"country": "Sudan",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 41.29,
 				"underfive": 6.52,
 				"year": 2016,
@@ -7363,7 +7363,7 @@
 			},
 			{
 				"country": "Tanzania",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 2.16,
 				"underfive": 5.61,
 				"year": 2016,
@@ -7371,7 +7371,7 @@
 			},
 			{
 				"country": "Togo",
-				"region": "West Africa",
+				"region": "Western Africa",
 				"cooking": 6.71,
 				"underfive": 7.53,
 				"year": 2016,
@@ -7379,7 +7379,7 @@
 			},
 			{
 				"country": "Tunisia",
-				"region": "North Africa",
+				"region": "Northern Africa",
 				"cooking": 99.1,
 				"underfive": 1.35,
 				"year": 2016,
@@ -7387,7 +7387,7 @@
 			},
 			{
 				"country": "Uganda",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 0.77,
 				"underfive": 5.16,
 				"year": 2016,
@@ -7395,7 +7395,7 @@
 			},
 			{
 				"country": "Zambia",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 16.43,
 				"underfive": 6.24,
 				"year": 2016,
@@ -7403,7 +7403,7 @@
 			},
 			{
 				"country": "Zimbabwe",
-				"region": "East Africa",
+				"region": "Eastern Africa",
 				"cooking": 29.05,
 				"underfive": 5.33,
 				"year": 2016,
