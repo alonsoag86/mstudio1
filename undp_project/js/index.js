@@ -182,11 +182,11 @@ var formattedData;
 // Tooltip
 var tip = d3.tip().attr('class', 'd3-tip')
     .html(function(d) {
-        var text = "Country: <span style='color:#59E8FF'>" + d.country + "</span><br>";
-        text += "Region: <span style='color:#59E8FF;text-transform:capitalize'>" + d.region + "</span><br>";
-        text += "Under Five Mortality Rate: <span style='color:#59E8FF'>" + (d.underfive) + "%" + "</span><br>";
-        text += "Access to Electricity: <span style='color:#59E8FF'>" + (d.electricity.toFixed()) + "%" + "</span><br>";
-        text += "Population: <span style='color:#59E8FF'>" + d3.format(",.0f")(d.population) + "</span><br>";
+        var text = "Country: <span style='color:#BB9F06'>" + d.country + "</span><br>";
+        text += "Region: <span style='color:#BB9F06;text-transform:capitalize'>" + d.region + "</span><br>";
+        text += "Under Five Mortality Rate: <span style='color:#BB9F06'>" + (d.underfive) + "%" + "</span><br>";
+        text += "Access to Electricity: <span style='color:#BB9F06'>" + (d.electricity.toFixed()) + "%" + "</span><br>";
+        text += "Population: <span style='color:#BB9F06'>" + d3.format(",.0f")(d.population) + "</span><br>";
         return text;
     });
     
@@ -377,11 +377,11 @@ var formattedData2;
 // Tooltip
 var tip2 = d3.tip().attr('class', 'd3-tip')
     .html(function(d) {
-        var text2 = "Country: <span style='color:#59E8FF'>" + d.country + "</span><br>";
-        text2 += "Region: <span style='color:#59E8FF;text-transform:capitalize'>" + d.region + "</span><br>";
-        text2 += "Under Five Mortality Rate: <span style='color:#59E8FF'>" + (d.underfive) + "%" + "</span><br>";
-        text2 += "Access to Clean Fuels and Technologies for Cooking: <span style='color:#59E8FF'>" + (d.cooking.toFixed()) + "%" + "</span><br>";
-        text2 += "Population: <span style='color:#59E8FF'>" + d3.format(",.0f")(d.population) + "</span><br>";
+        var text2 = "Country: <span style='color:#BB9F06'>" + d.country + "</span><br>";
+        text2 += "Region: <span style='color:#BB9F06;text-transform:capitalize'>" + d.region + "</span><br>";
+        text2 += "Under Five Mortality Rate: <span style='color:#BB9F06'>" + (d.underfive) + "%" + "</span><br>";
+        text2 += "Access to Clean Fuels and Technologies for Cooking: <span style='color:#BB9F06'>" + (d.cooking.toFixed()) + "%" + "</span><br>";
+        text2 += "Population: <span style='color:#BB9F06'>" + d3.format(",.0f")(d.population) + "</span><br>";
         return text2;
     });
     

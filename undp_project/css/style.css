@@ -18,7 +18,6 @@ font-style: bold;
 body {
 	font-family: "Jost", Helvetica;
 	font-size: 16px;
-	line-height: 1.25;
 	color: #f0f8ff;
 	margin: 0;
 	padding: 0;
@@ -94,16 +93,17 @@ a:visited {
   max-width: 70%;
   margin-left: auto;
   margin-right: auto;
-  display: block;
   text-align: justify;
   padding: 45px 0 100px 0;
+  line-height: 1.5;
+  
 }
 
 #s1 {
   min-height: 100vh;
 }
 
-section, section.s3, section.s2, section.s4 {
+section, section.s3, section.s2, section.s4, section.s5  {
   background-color: #0B0B0B;
 }
 
@@ -168,11 +168,11 @@ text.value {
 
 #region-select, #region-select2 {
 	width: 150px;
-	margin-left: 25px;
 	background-color: #0B0B0B;
 	font-family: Jost;
 	color: #f0f8ff;
 }
+
 
 
 #slider-div, #region-select {
@@ -192,8 +192,9 @@ margin-top: 50px;
 
 #date-slider, #date2-slider {
   margin-left: 130px;
-  
 }
+
+
 
 
 .d3-tip {
@@ -209,7 +210,7 @@ margin-top: 50px;
 
 #date-slider.ui-slider {
   border: 0;
-  background: #ece5e4;
+  background: #f0f8ff;
   border-radius: 7px;
 }
 
@@ -222,7 +223,7 @@ margin-top: 50px;
 #date-slider .ui-slider-handle {
   width: 20px;
   height: 20px;
-  background: #f6eff1;
+  background: #f0f8ff;
   border-radius: 50%;
   border: none;
 }
@@ -252,7 +253,7 @@ margin-top: 50px;
 
 #date2-slider.ui-slider {
   border: 0;
-  background: #ece5e4;
+  background: #f0f8ff;
   border-radius: 7px;
 }
 
@@ -265,7 +266,7 @@ margin-top: 50px;
 #date2-slider .ui-slider-handle {
   width: 20px;
   height: 20px;
-  background: #f6eff1;
+  background: #f0f8ff;
   border-radius: 50%;
   border: none;
 }
@@ -285,5 +286,199 @@ margin-top: 50px;
 .ui-slider-label {
   font-size: 10px;
   color: #f0f8ff;
-  
+}
+
+
+#wrapper1{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+	max-width: 60%;
+	display: grid;
+  grid-gap: 10px;
+	grid-template-columns: 250px 150px 150px 150px;
+	text-align: center;
+}
+
+
+#nationnumbers {
+  padding-top: 8px;
+}
+
+
+.nationalf {
+  font-size: 12px;
+  padding-right: 20px;
+}
+
+.regionalf {
+  font-size: 12px;
+}
+
+
+.nationaln {
+  font-size: 16px;
+}
+
+
+#regionalo {
+  margin-left: auto;
+  margin-right: auto;
+  display:flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+
+
+.left {
+  text-align: center;
+}
+
+
+.ari {
+  color: #8E95A3;
+}
+
+
+.under {
+  color: #BD0F30;
+}
+
+
+.nigeriar {
+  text-align: left;
+  padding-left: 30px;
+}
+
+.wrapper2{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+	max-width: 70%;
+	display: grid;
+  grid-gap: 10px;
+	grid-template-columns: repeat(6, 145px);
+	text-align: center;
+}
+
+#ncw {  
+  color: #4ECDC4;
+  opacity: 0.6;
+}
+
+
+#ncs {
+  color: #9AFD5C;
+  opacity: 0.2;
+}
+
+
+#nce {
+  color: #E2C044;
+  opacity: 0.5;
+}
+
+#new {  
+  color: #4ECDC4;
+  opacity: 0.5;
+}
+
+
+#nes {
+  color: #9AFD5C;
+  opacity: 0.3;
+}
+
+
+#nee {
+  color: #E2C044;
+  opacity: 0.3;
+}
+
+#nww {  
+  color: #4ECDC4;
+  opacity: 0.6;
+}
+
+
+#nws {
+  color: #9AFD5C;
+  opacity: 0.4;
+}
+
+
+#nwe {
+  color: #E2C044;
+  opacity: 0.4;
+}
+
+#sew {  
+  color: #4ECDC4;
+  opacity: 0.8;
+}
+
+
+#ses {
+  color: #9AFD5C;
+  opacity: 0.3;
+}
+
+
+#see {
+  color: #E2C044;
+  opacity: 0.8;
+}
+
+#ssw {  
+  color: #4ECDC4;
+  opacity: 0.8;
+}
+
+
+#sss {
+  color: #9AFD5C;
+  opacity: 0.2;
+}
+
+
+#sse {
+  color: #E2C044;
+  opacity: 0.8;
+}
+
+#sww {  
+  color: #4ECDC4;
+  opacity: 0.8;
+}
+
+
+#sws {
+  color: #9AFD5C;
+  opacity: 0.2;
+}
+
+
+#swe {
+  color: #E2C044;
+}
+
+.line {
+  height: 1px;
+  background-color: #f0f8ff;
+  margin-left: 13%;
+  margin-right: 13%;
+  margin-top: 100px;
+  display:flex;
+  justify-content: center; 
+}
+
+#sources {
+  padding-top: 200px;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+.data-info {
+  font-size: 13px;
 }

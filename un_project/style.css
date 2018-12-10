@@ -49,6 +49,8 @@ select:focus {
 
 
 #wrapper1, #wrapper2, #wrapper3 {
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 50px;
 	width: 95%;
 	display: grid;
