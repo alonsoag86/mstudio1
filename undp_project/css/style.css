@@ -357,9 +357,14 @@ margin-top: 50px;
   margin-bottom: 10px;
 	max-width: 70%;
 	display: grid;
-  grid-gap: 10px;
-	grid-template-columns: repeat(6, 145px);
+	grid-template-columns: repeat(6, 150px);
 	text-align: center;
+}
+
+#center {
+  display:flex;
+  justify-content: center; 
+  flex-direction: column;
 }
 
 #ncw {  
