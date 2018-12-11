@@ -361,7 +361,7 @@ margin-top: 50px;
 	text-align: center;
 }
 
-.center {
+.center-text {
   display:flex;
   justify-content: center; 
   flex-direction: column;
